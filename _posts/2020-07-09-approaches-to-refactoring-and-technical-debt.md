@@ -218,3 +218,13 @@ If you want to avoid the task at hand by reading the whole internet in the hope 
 * <https://leadership.garden/tips-on-prioritizing-tech-debt>
 * <https://www.steveonstuff.com/2022/01/27/no-such-thing-as-clean-code>
 * <https://leadership.garden/tips-on-prioritizing-tech-debt/>
+* [Youtube: "Types Of Technical Debt And How To Manage Them" ~ Dave Farley](https://www.youtube.com/watch?v=1MBpK_PxEnU)
+	* "Sense of design" over life of system, not just good design up front.
+	* Measure of quality is ability to make changes
+	* Metaphors for different types of tech debt:
+		* Family loan
+		* Bank loan (lack of tests)
+		* Loan shark (visit from knuckles)
+		* Organised crime loan (fatal if not repaid. Legacy technology)
+* [Youtube: "7 Ways to Get Ahead of Technical Debt & Keep It Under Control" ~ Rob Walling & Derek Reimer](https://www.youtube.com/watch?v=kf1GzhiI9yQ)
+	* Seen a business acquisition fail due to tech debt found during "due diligence"!
