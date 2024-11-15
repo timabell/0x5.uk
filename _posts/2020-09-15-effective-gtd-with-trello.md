@@ -63,6 +63,8 @@ Using GTD instead of your unread email as a todo list makes inbox-zero possible 
 
 The subject line becomes the card title so edit that if you want. The body of the email becomes the card description so you can add to that too.
 
+Top tip: When sending an email that you'll need to follow up on, put the GTD email address in the Blind-Carbon-Copy (BCC) field so that you instantly get a copy in your GTD board with no extra faff. (Thanks to this podcast episode for that idea: ["Organizing the LEGOs In Our Minds to Build the Ultimate Version of Ourselves with Tiago Forte - Flavor of Leadership"](https://shows.acast.com/flavor-of-leadership/episodes/organizing-the-legos-in-our-minds-to-build-the-ultimate-vers)).
+
 #### Web based tasks
 Install [AddToAny](https://www.addtoany.com/) to send any webpage from Firefox to your GTD inbox.
 
