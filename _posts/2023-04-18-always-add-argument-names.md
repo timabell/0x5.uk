@@ -146,3 +146,13 @@ void Foo(ImportantThing importantThing, OtherThing otherThing)
 ```
 
 Thus making the arguments impossible to mix up through being out of order.
+
+## Primitive Obsession
+
+It's also worth noting that lack of such custom types is an example of the coding smell / anti-pattern "primitive obsession", which is where there is insufficient use of the ability to create and use a richer type system than that supplied by the language.
+
+Learn more about primitive obsession in these article:
+
+- <https://blog.ploeh.dk/2011/05/25/DesignSmellPrimitiveObsession/>
+- <http://grabbagoft.blogspot.com/2007/12/dealing-with-primitive-obsession.html>
+- <https://www.freecodecamp.org/news/what-is-primitive-obsession/>
