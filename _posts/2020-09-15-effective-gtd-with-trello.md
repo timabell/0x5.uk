@@ -186,6 +186,12 @@ I've shared a [google sheets copy of the card count graph spreadsheet](https://d
 
 ## Learn more
 
+### Ready for Anything Book
+
+David Allen wrote a follow-up book with a huge amount of wisdom and experience embedded in it. This one is like having a management consultant in your ear guiding you to be the CEO of your life and work. Amazing. Not to be missed once you have the basics down.
+
+["Ready for Anything: 52 Productivity Principles for Work and Life" by David Allen](https://www.amazon.co.uk/Ready-Anything-Productivity-Principles-Work/dp/B003L1FWHG)
+
 ### Podcast
 
 Having run this system for a while, it grew to a daunting few-hundred cards in inbox/actions. To figure out what I'm doing wrong I did some more research.
