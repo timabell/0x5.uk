@@ -92,3 +92,7 @@ Treat generation of history just like generation of code. It's the most visible 
 Coding is not just computers running things, it's inter-person communications. Quality history, and the richness that branches and merges give us is part of that tapestry of communication with persons past, present and future.
 
 Become good at it and the objections melt away.
+
+## Further reading
+
+* For a balanced view of PRs and related topics have a read of ["Pull Request Theatre" by Chris Bimson](https://christopher-bimson.github.io/2024/07/pull-request-theatre/)
