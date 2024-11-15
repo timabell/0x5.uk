@@ -217,6 +217,7 @@ In no particular order, and of varying usefulness:
 * <https://www.taskade.com/blog/outliner-note-taking/>
 * <https://www.taskade.com/blog/getting-things-done-gtd/>
 * <https://www.taskade.com/blog/hierarchical-note-taking/>
+* <https://zapier.com/blog/gtd-getting-things-done/>
 
 ## Get started with a template GTD+Trello board
 
