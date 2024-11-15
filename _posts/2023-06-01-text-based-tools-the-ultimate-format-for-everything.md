@@ -77,6 +77,11 @@ There's even some neat web based real-time renderers:
 
 For UML, graphviz and many other formats there is [mermaid.js](https://mermaid.js.org/), and amazingly you can embed the mermaid formats in markdown and [github pages will render your mermaid diagrams](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-diagrams). Win.
 
+### Documenting things in markdown
+
+- It's pretty common in developer land to write docs for things in a markdown `README.md` file (for example the [gitopolis readme](https://github.com/rustworkshop/gitopolis/blob/main/README.md))
+- Architectural Decision Records (ADRs) are a great format for documenting the reasons for decision, and that works great with the [Markdown-ADR template "MADR"](https://adr.github.io/madr/)
+
 ## The yucky bits
 
 The almost-rans:
