@@ -22,7 +22,7 @@ avatar: https://en.gravatar.com/userimage/5102970/962f6ea1bf5118338fd13ee13eb799
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: tim+blog@timwise.co.uk
+  email: tim+blog@0x5.uk
   facebook:
   flickr:
   github: timabell
@@ -47,8 +47,8 @@ google_analytics: UA-3978538-2
 
 # Your website URL (e.g. http://amitmerchant1990.github.io or http://www.amitmerchant.com)
 # Used for Sitemap.xml and your RSS feed
-url: https://timwise.co.uk
-enforce_ssl: https://timwise.co.uk
+url: https://0x5.uk
+enforce_ssl: https://0x5.uk
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
