@@ -95,6 +95,24 @@ I think "Legacy tests" is a useful term to describe these problematic tests. Nat
 > 
 > ~ Nat Pryce, [Working Effectively with Legacy Tests](http://natpryce.com/articles/000813.html)
 
+## Prevention is better than cure
+
+How do we stop it building up in the first place?
+
+I see several sources of the build up of technical debt:
+
+1. Lack of knowledge and experiencd of programming patterns and practices to keep debt in check. This can be addressed with courses, learning from peers, attending meetups and conferences, reading books, watching youtube and many other ways of getting input from beyond the current code editor.
+2. Problematic mindsets in programmers - short term thinking, narrow thinking, or blindness to the broader consequences of the choices being made in the moment. This is a more stubborn malaise, and people are not quick to change their identity. Some will respond well to just being asked to consider the second and third order effects of their choices (e.g. "you could give this other team direct access to the sql db instead building an API for them, and yes it's quicker, but then you won't ever again be able to rename a column without consulting with them), but some people will double down in their thinking and are not open to improvement.
+3. Dysfunctional dynamics between engineering and their non-technical peers and leaders. Common issues include:
+   1. Deadline-driven-development (especially when unrealistic and vigorously enforced),
+   2. Asking non-technical leaders to make engineering decisions.
+
+> The client / boss / project manager responds [whilst thinking “I have no idea what you are talking about, or why you are asking] “Which is quicker? Do that one.”
+>
+> Then the engineer gets the hump that they can’t do a good job.
+> 
+> ~ from ["Why do automated tests matter?" by Tim Abell](/2024/03/27/why-do-automated-tests-matter/#programmer-excuses)
+
 ## The audio version from Codurance
 
 [Codurance](https://codurance.com/) hosted an insightful round-table podcast episode with a group of people who are clearly very experienced. You can listen here: <https://codurance.com/podcasts/2019-01-21-legacy-code/> and will doubtless be inspired by some things in there. The conversation takes a little while to build momentum but it's worth the wait.
