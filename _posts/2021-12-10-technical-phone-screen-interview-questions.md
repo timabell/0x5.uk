@@ -30,6 +30,8 @@ It's supposed to be something like this, which is remarkably hard to explain on 
 
 ```
 
+([gist](https://gist.github.com/timabell/6aaf930fa97854584192faa9ca81e290))
+
 ## 2) OO design (and other structures)
 
 Ask them to describe how they can arrange their code, giving a hint that I’m after object oriented things. I’m looking for a confident off-hand description of inheritance, interfaces etc.
