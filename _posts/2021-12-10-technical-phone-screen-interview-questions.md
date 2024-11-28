@@ -3,7 +3,7 @@ title: Technical phone screen interview questions
 layout: post
 ---
 
-I was tasked with giving an initial assessment of technical competence / fit in a 30 minute phone call. Ideally I'd like 
+I was tasked with giving an initial assessment of technical competence / fit in a 30 minute phone call.
 
 This tech screen is based on [Steve Yegge’s "The Five Essential Phone-Screen Questions"](https://sites.google.com/site/steveyegge2/five-essential-phone-screen-questions)
 My lightweight version goes something like this:
