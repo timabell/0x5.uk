@@ -41,7 +41,7 @@ You may also not be familiar with Product Manager (I've not seen it as much in
 private industry), so as an aside let me explain:
 
 ~~The Product Manager is more widely known in industry as Product Owner~~ (well
-that's what I though, actually it turns out [product owner and product manager
+that's what I thought, actually it turns out [product owner and product manager
 are not quite the
 same](https://melissaperri.com/blog/2017/06/29/product-manager-vs-product-owner)).
 This is someone who figures out the balance of features in a service and the
