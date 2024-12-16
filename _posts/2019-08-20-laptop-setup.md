@@ -46,13 +46,13 @@ Not working at moment, needs more research.
 
 ## Packaged software install
 
-* Bootstrap my dotmatrix package list [my bootstrap file](https://github.com/timabell/dotmatrix/blob/master/software/bootstrap.sh) like this (don't laugh/cringe):
+* Bootstrap my dotmatrix package list [my bootstrap file](https://github.com/timabell/dotmatrix/blob/main/software/bootstrap.sh) like this (don't laugh/cringe):
 
 ```
-curl https://raw.githubusercontent.com/timabell/dotmatrix/master/software/bootstrap.sh | sh
+curl https://raw.githubusercontent.com/timabell/dotmatrix/main/software/bootstrap.sh | sh
 ```
 
-This installs my [usual package list](https://github.com/timabell/dotmatrix/blob/master/bin/packages.txt)
+This installs my [usual package list](https://github.com/timabell/dotmatrix/blob/main/bin/packages.txt)
 
 ## Hardware
 
@@ -164,9 +164,9 @@ Reference: <https://superuser.com/questions/1268732/how-to-hide-tab-bar-tabstrip
 
 * Use Applets config to download and add [Pomodoro timer](https://cinnamon-spices.linuxmint.com/applets/view/131) in task bar.
 * Install [jetbrains toolbox](https://www.jetbrains.com/toolbox/app/)
-* [Install flatpak apps from dotmatrix](https://github.com/timabell/dotmatrix/blob/master/software/flatpaks.sh), sign in to them all
+* [Install flatpak apps from dotmatrix](https://github.com/timabell/dotmatrix/blob/main/software/flatpaks.sh), sign in to them all
 	* [Give flatpak access wider home folder access](https://askubuntu.com/questions/1086529/how-to-give-a-flatpak-app-access-to-a-directory/1247345#1247345) (for sending pics) with [flatseal](https://flathub.org/apps/details/com.github.tchx84.Flatseal)
-* Install all the other things in [dotmatrix/software](https://github.com/timabell/dotmatrix/tree/master/software)
+* Install all the other things in [dotmatrix/software](https://github.com/timabell/dotmatrix/tree/main/software)
 
 ## SSH
 
