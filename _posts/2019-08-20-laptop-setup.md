@@ -4,7 +4,7 @@ description: Clean install to functioning workhorse
 layout: post
 ---
 
-This is mostly for my benefit YMMV. Used for XPS13 and XPS15. Last run with Linux Mint Cinnamon 20.2 LTS.
+This is mostly for my benefit YMMV. Used for XPS13 and XPS15. Last run with Linux Mint Cinnamon 22
 
 Things to go from blank machine to fully functioning work laptop.
 
@@ -20,7 +20,7 @@ Indeed, and it does, a continuous labour of love. Ideas welcome!
 
 * [Download mint cinnamon x64 torrent](https://linuxmint.com/download.php)
 * Burn to USB stick
-* [Configure Dell XPS 13 to use AHCI mode](https://askubuntu.com/questions/696413/ubuntu-installer-cant-find-any-disk-on-dell-xps-13-9350/696414#696414)
+* [Configure Dell XPS 13 to use AHCI mode](https://askubuntu.com/questions/696413/ubuntu-installer-cant-find-any-disk-on-dell-xps-13-9350/696414#696414) (one time fix)
 * Boot to stick with `F12`
 * Install mint
 	* Full disk encryption (LUKS), default whole disk partitioning
@@ -33,7 +33,7 @@ Not working at moment, needs more research.
 * Enable hibernate?
 	* Bigger swap?
 
-### Half-arsed research into hibernate
+### Unfinished research into missing hibernation
 
 * <https://superuser.com/questions/1539378/what-size-swap-partition-will-allow-a-mint-19-3-installation-with-64g-ram-to-hib?noredirect=1&lq=1>
 * <https://superuser.com/questions/1434301/enabling-hibernate-on-linux-mint-19-1?noredirect=1&lq=1>
