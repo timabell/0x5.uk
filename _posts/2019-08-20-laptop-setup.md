@@ -52,7 +52,7 @@ Not working at moment, needs more research.
 curl https://raw.githubusercontent.com/timabell/dotmatrix/main/software/bootstrap.sh | sh
 ```
 
-This installs my [usual package list](https://github.com/timabell/dotmatrix/blob/main/bin/packages.txt)
+This installs my [usual package list](https://github.com/timabell/dotmatrix/blob/main/software/packages.txt)
 
 ## Hardware
 
