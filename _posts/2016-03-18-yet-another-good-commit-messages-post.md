@@ -18,6 +18,18 @@ blogger_orig_url: https://timwise.blogspot.com/2016/03/yet-another-good-commit-m
 
 > "Write every commit message like the next person who reads it is an axe-wielding maniac who knows where you live" ~ unknown
 
+## Why the business owner cares about good commit messages
+
+(Even if they don't know it)
+
+Developers writing high-quality commit and pull request (PR) messages provides clear context and explains the "why" behind changes, directly impacting the clarity and long-term value of the codebase as an asset.
+
+Well-crafted messages ensure that future developers, including new hires, can quickly understand the rationale behind decisions, saving time, reducing the cost of onboarding and reducing the risk of misinterpretations that could lead to costly errors.
+
+They support smoother collaboration across teams, foster accountability, and create a historical record that aids in audits, troubleshooting, and strategic decision-making.
+
+This practice minimizes the risk of long-term inefficiencies, speeds up development, and ensures technical work aligns with broader business objectives.
+
 ## Why I care about good commit messages
 
 For reasons of chance I've ended up more than once maintaining and extending things created by other people, many of whom had moved on from the projects and were no longer contactable.
