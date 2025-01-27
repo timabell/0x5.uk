@@ -32,61 +32,87 @@ Something that's been increasingly bothering me as a minor but irritating fricti
 
 I finally got fed up with this gap, having encountered a long-running branch that was repeatedly merged into main, had more commits added, merged main back into the feature branch, and then the whole thing repeated all on the same branch. I was utterly defeated by this one. By four or five commits down I could no longer follow the tangle of branches and merges and couldn't tell what was on this developer's branch and what was other people's branches that had been merged in to main elsewhere.
 
-So now for the exciting new bit. I think this might be completely novel, though please get in touch if you know of anyone who's talked about this before, or any tools that can do this. I know of neither...
+So now for the exciting new bit. I think this might be completely novel, though please get in touch if you know of anyone who's talked about this before, or any tools that can do this. I know of neither…
 
-# A new way to inspect merged feature branches
+## A new way to inspect merged feature branches
 
 Here is a one-liner git command that allows you pass in the sha1 of any merge commit on `main` (usually a "Merge PR xxx" commit if you are following [github flow](https://docs.github.com/en/get-started/using-github/github-flow)) and shows a graphical log view of only the first-parent merge commits on main, and all the commits on the feature branch. Win.
 
 ```
-MERGE_COMMIT_REF=c378ac8; git log --graph --oneline --decorate --color --first-parent "$MERGE_COMMIT_REF" $(git rev-list $(git log -m --pretty=format:"%H %P" "$MERGE_COMMIT_REF" -1 | cut -f 3 -d " "))
+merge_commit=8eb7b69; feature_branch=$(git log -m --pretty=format:"%H %P" $merge_commit -1 | cut -f 3 -d " "); git log --graph --oneline --decorate --color --first-parent $(git rev-list $feature_branch ^$merge_commit^) $(git rev-list $merge_commit --first-parent)
 ```
 
-And if you want just the first-parent view of the branch as well, just remove the `rev-parse`
-```
-MERGE_COMMIT_REF=c378ac8; git log --graph --oneline --decorate --color --first-parent "$MERGE_COMMIT_REF" $(git log -m --pretty=format:"%H %P" "$MERGE_COMMIT_REF" -1 | cut -f 3 -d " ")
-```
-
-You can turn them into [git aliases for easy use](https://github.com/timabell/dotmatrix/blob/016745dfea7ac0a3f6c63ac4a2d12144af237b50/.gitconfig#L41-L42):
+You can turn them into [git aliases for easy use](https://github.com/timabell/dotmatrix/blob/63687515a344f3a1bbc1beb5b95859527cc917f5/.gitconfig#L41-L42):
 
 ```sh
-git config --global alias.trm '!f() { git log --graph --oneline --decorate --color --first-parent "$1" $(git rev-list $(git log -m --pretty=format:"%H %P" "$1" -1 | cut -f 3 -d " ")); }; f'
-git config --global alias.ggm '!f() { tig --first-parent "$1" $(git rev-list $(git log -m --pretty=format:"%H %P" "$1" -1 | cut -f 3 -d " ")); }; f'
+git config --global alias.trm '!f() { merge_commit=$1; feature_branch=$(git log -m --pretty=format:"%H %P" $merge_commit -1 | cut -f 3 -d " "); git log --graph --oneline --decorate --color --first-parent $(git rev-list $feature_branch ^$merge_commit^) $(git rev-list $merge_commit --first-parent); }; f'
+git config --global alias.ggm '!f() { merge_commit=$1; feature_branch=$(git log -m --pretty=format:"%H %P" $merge_commit -1 | cut -f 3 -d " "); tig --first-parent $(git rev-list $feature_branch ^$merge_commit^) $(git rev-list $merge_commit --first-parent); }; f'
 ```
 
 ### Break down
 
 Let's break down what how this works (oh no, I'm starting to write like gpt! halp!)
 
-Put the sha1 of the merge into a variable (because we need it twice)
+#### Store merge commit ref
+
+Put the sha1 of the merge into a variable (because we need it more than once)
 
 ```sh
-MERGE_COMMIT_REF=c378ac8
+merge_commit=8eb7b69;
 ```
+
+#### Find last feature branch commit before merge
+
+This subcommand uses log to show the parent commit sha1s, then uses cut to find the second parent sha1, i.e. the top commit of the feature branch that was merged in.
+```sh
+feature_branch=$(git log -m --pretty=format:"%H %P" $merge_commit -1 | cut -f 3 -d " ")
+```
+
+#### Git log invocation
 
 Standard git log formatting to get a nice graph, can be replaced with `tig` for a prettier graph, which is what I've done for my graphs below.
 ```sh
 git log --graph --oneline --decorate --color
 ```
 
+#### First parent filter (of main)
+
 Show only "first-parent" commits. Normally git would follow all parents and include them all in the displayed graph. With this it will only follow the "first" parent (usually `main`, ignoring parent commits from the feature branch). This applies to everything shown, so if we didn't do rev-parse later we only get first-parent on the feature branch too (obscure but can be an important difference if the feature branch had its own merge commits, something that is common with devs that use the evil "sync" button blindly).
 ```sh
 --first-parent
 ```
 
-Show the log of `main` starting at this ref
+#### Find commits on feature branch
+
+This uses [git rev-list](https://git-scm.com/docs/git-rev-list) to list all the commit sha1s that are in the feature branch, filtering out all the commits that are reachable from the last mainline commit before the feature was merged in to main.
+
 ```sh
-$MERGE_COMMIT_REF
+$(git rev-list $feature_branch ^$merge_commit^)
 ```
 
-This subcommand uses log to show the parent commit sha1s, then uses cut to find the second parent sha1, i.e. the top commit of the feature branch that was merged in.
-```sh
-$(git log -m --pretty=format:"%H %P" "$MERGE_COMMIT_REF" -1 | cut -f 3 -d " "))
-```
+The first argument, `$feature_branch`, just causes `rev-list` to list all the sha1s in the tree of parents of feature_branch (including feature branch itself).
 
-This bit is optional, if we put feature-branch-sha1 in the arg list for git-log then first-parent will filter that to only its first parents too. Seeing as we are trying to understand what the creator of the feature branch in its entirety we actually want to see all commits on that branch, even if it diverged and merged along the way. By using rev-list to list *all* the commits on that feature branch, and then feed that full list to git-log along with the merge commit sha1/ref we cunningly sidestep the first-parent and show all the commits anyway.
+The second parameter of rev-list would normally just add more sha1s to thie list, however…
+
+The two carets (`^`) in the second argument are pretty confusing; they look like a pair but mean completely different things:
+
+1. The caret at the end `…^` means the [first] *parent* commit of the merge_commit
+2. The caret at the start `^…` is an inversion/negative filter, i.e. exclude all the sha1s that would have been included if they are also reachable from `$merge_commit^`
+
+From the rev-list docs:
+
+> `git rev-list [<options>] <commit>…​ [--] [<path>…​]`
+>
+> List commits that are reachable by following the `parent` links from the given commit(s), but exclude commits that are reachable from the one(s) given with a `^` in front of them.
+
+If we put feature-branch-sha1 in the arg list for git-log then first-parent will filter that to only its first parents too. Seeing as we are trying to understand what the creator of the feature branch in its entirety we actually want to see all commits on that branch, even if it diverged and merged along the way. By using rev-list to list *all* the commits on that feature branch, and then feed that full list to git-log along with the merge commit sha1/ref we cunningly sidestep the first-parent and show all the commits anyway.
+
+#### Include first-parent commits of main
+
+This bit is optional, but it's useful to see the branch in the context of the list of first-parent commits of main. This gives an idea of just how out of date the feature branch became (i.e. it should probably have been rebased before merging, a "teachable moment").
+
 ```sh
-$(git rev-list [feature-branch-sha1])
+$(git rev-list $merge_commit --first-parent)
 ```
 
 ## Demo
@@ -167,7 +193,7 @@ bf668c0 ∙ │ ╭─╯ Mainline commit 3
 2282f5f ◎ Initial commit
 ```
 
-## Over-eager first-parent filter
+### Over-eager first-parent filter
 
 If you ask for first-parent with the sha1 of main and the branch you are no longer seeing everything that could be on the feature branch.
 
@@ -187,14 +213,15 @@ eefde39 ∙ │ Mainline commit 5
 bf668c0 ∙ │ Mainline commit 3
 91c1da2 ∙─╯ Mainline commit 2
 822449e ∙ Mainline commit 1
+…
 ```
 
-## The new command in action
+### The new command in action
 
 So now we use our magical new command, and suddenly we get everything we want:
 
 ```
-$ MERGE_COMMIT_REF=8eb7b69; tig --first-parent "$MERGE_COMMIT_REF" $(git rev-list $(git log -m --pretty=format:"%H %P" "$MERGE_COMMIT_REF" -1 | cut -f 3 -d " "))
+$ merge_commit=8eb7b69; feature_branch=$(git log -m --pretty=format:"%H %P" $merge_commit -1 | cut -f 3 -d " "); tig --first-parent $(git rev-list $feature_branch ^$merge_commit^) $(git rev-list $merge_commit --first-parent)
 
 8eb7b69 ∙ Merge branch 'feature-A'
 7714120 │ ∙ Feature A commit 3
@@ -210,11 +237,14 @@ eefde39 ∙ │ Mainline commit 5
 bf668c0 ∙ │ Mainline commit 3
 91c1da2 ∙─╯ Mainline commit 2
 822449e ∙ Mainline commit 1
+…
 ```
 
 And there it is, everything we need to know about feature A in the context of the progress of the `main` branch. Magic.
 
 (tig doesn't show the merges when it's done this way, but it's good enough to get an idea what's going on in the maze of tramlines.)
+
+I'm afraid one particularly messy developer on one client did manage to create a history that defeated this approach by not only repeatedly merging to and from main along the way (which showed fine), but also cross merging with a different feature branch which was merged to main at a different point. As I say it never ceases to amaze me what people can come up with when not adhering to good branch hygeine. Hopefully that isn't something I'll run into again any time soon.
 
 ## Bonus merge investigation tools
 
@@ -225,6 +255,14 @@ By default [git doesn't show everything in a merge commit](https://stackoverflow
 `git show --first-parent` - shows the patch of a merge commit
 
 `git show --merge --patch` shows both sides of a merge commit
+
+I also learned the existence of:
+
+ `--ancestry-path[=<commit>]`, which I still don't understand well enough to explain
+
+ and `--fork-point` which apparently [uses the local ref-log to try and find where a branch started](https://git-scm.com/docs/git-merge-base#_discussion_on_fork_point_mode)
+
+ The rabbit hole of advanced git tooling goes very deep indeed, far deeper than I've explored here.
 
 ## Light relief
 
