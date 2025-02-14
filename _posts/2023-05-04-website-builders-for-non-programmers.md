@@ -16,6 +16,7 @@ I do custom coding, but sometimes non-technical folk ask me how to build a websi
 - [wordpress.com](https://wordpress.com/)
 - [Jekyll + github pages](/2019/06/24/setting-up-a-jekyll-blog/) if you're feeling a bit brave
 - [Wix](https://www.wix.com/)
+- [neocities.org](https://neocities.org/)
 
 Hope that's helpful, they aren't in any particular order of preference so try them out and see what works for you.
 
