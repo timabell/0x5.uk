@@ -95,3 +95,6 @@ The text world is a bit short on collaborative real-time editing - google-docs i
 
 Crappy half-arsed implementations of markdown, looking at you Jira/Confluence/Slack (not really a problem of text, more something where we're almost there with and then crappy WYSIWIG implementations wreck it).
 
+# Links
+
+- ["always bet on text" by graydon2](https://graydon2.dreamwidth.org/193447.html)
