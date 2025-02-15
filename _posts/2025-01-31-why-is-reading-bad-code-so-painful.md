@@ -1,6 +1,7 @@
 ---
-title: "Why is reading bad so code painful?!"
+title: "Why is reading bad code so painful?!"
 layout: post
+redirect_from: /2025/01/31/why-is-reading-bad-so-code-painful/
 ---
 
 I was reading some code recently that had a bunch of problems at various layers, and in spite of all my years of coding and the fact that it's not even my project, I *still* find myself getting strong feelings of anguish and "pain". I found myself wondering *why*. I understand what's bad about the code, and these days can largely explain what properties of the code I'm looking at make it objectively "bad" (e.g. "this violates the single-responsibility principle"). But why it's such an emotional reaction was still puzzling to me.
