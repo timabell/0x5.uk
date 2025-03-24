@@ -20,3 +20,10 @@ You have two choices for dev and test with cosmos, both of them awful: 1) rely o
 I wrote this while waiting for the cosmos emulator to eat all my cpus on my monster desktop while running some integration tests. If I save even one person from falling into this tar pit I'll consider this post worth the investment.
 
 Can you tell I'll never be a Microsoft MVP, aside from my love of linux and the GPL.
+
+---
+
+For local development and tests:
+
+- There's the CosmosDb emulator (available in docker, yay!) which has in my experience proved to be disappointingly slow and prone to just giving up and 429'ing everything or just failing to respond, even on a super powerful machine. <https://learn.microsoft.com/en-us/azure/cosmos-db/how-to-develop-emulator>
+- I've been working on an in-memory test fake for CosmosDb which you can find here, which might ease the pain (or might make it worse, good luck and let me know in the github issues!) <https://www.nuget.org/packages/FakeCosmosDb>
