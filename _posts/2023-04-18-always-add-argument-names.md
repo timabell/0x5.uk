@@ -156,3 +156,7 @@ Learn more about primitive obsession in these article:
 - <https://blog.ploeh.dk/2011/05/25/DesignSmellPrimitiveObsession/>
 - <http://grabbagoft.blogspot.com/2007/12/dealing-with-primitive-obsession.html>
 - <https://www.freecodecamp.org/news/what-is-primitive-obsession/>
+
+## Further reading
+
+- <https://stackoverflow.com/questions/20601009/when-are-named-arguments-useful>
