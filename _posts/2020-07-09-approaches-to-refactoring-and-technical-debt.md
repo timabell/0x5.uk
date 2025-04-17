@@ -248,3 +248,7 @@ If you want to avoid the task at hand by reading the whole internet in the hope 
 		* Organised crime loan (fatal if not repaid. Legacy technology)
 * [Youtube: "7 Ways to Get Ahead of Technical Debt & Keep It Under Control" ~ Rob Walling & Derek Reimer](https://www.youtube.com/watch?v=kf1GzhiI9yQ)
 	* Seen a business acquisition fail due to tech debt found during "due diligence"!
+* The "Lava Flow" anti-pattern where code is written, ossifies and leaves an archaeological record of all previous design attempts, libraries and technologies in the current production code rather than the git logs where they belong
+	* <https://mikehadlow.blogspot.com/2014/12/the-lava-layer-anti-pattern.html>
+	* <http://antipatterns.com/lavaflow.htm>
+	* <https://en.wikipedia.org/wiki/Lava_flow_(programming)>
