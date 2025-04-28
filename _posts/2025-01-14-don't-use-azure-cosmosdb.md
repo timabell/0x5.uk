@@ -19,6 +19,8 @@ You have two choices for dev and test with cosmos, both of them awful: 1) rely o
 
 I wrote this while waiting for the cosmos emulator to eat all my cpus on my monster desktop while running some integration tests. If I save even one person from falling into this tar pit I'll consider this post worth the investment.
 
+If you think that your system couldn't possibly run in the constraints of a sql server, did you know that stackoveflow still runs on sql server, [which ran 500 million sql queries *in one day*](https://nickcraver.com/blog/2016/02/17/stack-overflow-the-architecture-2016-edition/) back in 2016.
+
 Can you tell I'll never be a Microsoft MVP, aside from my love of linux and the GPL.
 
 ---
