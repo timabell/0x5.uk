@@ -28,7 +28,7 @@ A proper 3-way diff is:
 
 Here's what a full 3-way diff looks like in kdiff:
 
-![kdiff 3-way merge screenshot](/images/blog/git-kdiff-3way-merge.png)
+[![kdiff 3-way merge screenshot](/images/blog/git-kdiff-3way-merge.png)](/images/blog/git-kdiff-3way-merge.png)
 
 For proper terminology see [git - what do 'base' 'local' 'remote' mean?](/2023/10/20/git-what-do-'base'-'local'-'remote'-mean/).
 
