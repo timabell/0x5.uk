@@ -48,7 +48,7 @@ something beyond client work.
 ---
 
 * For current availability, more information and updates <a href="https://www.linkedin.com/in/timabell/">find me on LinkedIn</a>.
-* <tim@timwise.co.uk> - drop me a line to arrange a call.
+* [Drop me a line](/contact) to arrange a call.
 * [Get notified when I’m available for contracts](http://eepurl.com/c82ZpL) - low volume mailing list.
 * CV available on request
 

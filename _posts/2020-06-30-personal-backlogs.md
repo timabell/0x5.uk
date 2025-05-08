@@ -46,7 +46,7 @@ If you're using Jira you can achieve the same effect by abusing the "sprint" fea
 
 ### Useful?
 
-[Let me know](mailto:tim@timwise.co.uk) if you use this approach and if it works for you or not.
+[Let me know](/contact) if you use this approach and if it works for you or not.
 
 ## What about normal feature development?
 
