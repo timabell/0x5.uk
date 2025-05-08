@@ -14,7 +14,7 @@ All the more reason to ditch dotnet and write in RustLang.
 
 This is definitely something to watch when using AIs/LLMs for [Vibe] coding as they will happily add libraries for which you would be in violation of their license.
 
-## The NuGet Hall Former Glory
+## The NuGet Hall of Former Glory
 
 ### [Moq](https://github.com/moq/moq4)
 
