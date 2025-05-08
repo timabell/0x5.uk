@@ -10,15 +10,16 @@ I used to be able to grab the nearest nuget lib and with a quick glance at the l
 
 The .NET ecosystem has seen a notable shift with several NuGet libraries transitioning from open source to commercial models. This has impacted developers who now need to be more vigilant about the libraries they choose to incorporate into their projects. Below is a list of major NuGet libraries that have gone commercial, along with some alternatives.
 
-All the more reason to ditch dotnet and write in RustLang.
-
 This is definitely something to watch when using AIs/LLMs for [Vibe] coding as they will happily add libraries for which you would be in violation of their license.
+
+Note: being commercially licensed is not necessarily a reason not to use a library. For example, you probably don't want to write an entire OpenId identity server from scratch just to avoid your company paying for Duende. This post is more about not walking unawares into something that at some point was FOSS, but has now shifted to something that might be difficult or impossible to use in the particular project you are working on. Some of these are more surprising than others depending on how long you have been around and how much you've been keeping up with the dramas of dotnet recently. The scope of this list is specifically dotnet projects that gained some traction while they were fully FOSS which later changed their license (or behaviour in the case of Moq) in ways that make them less universally usable.
 
 ## The NuGet Hall of Former Glory
 
 ### [Moq](https://github.com/moq/moq4)
 
-Moq, the popular mocking library, faced backlash after introducing the SponsorLink spyware dependency. 
+Introduced the SponsorLink spyware dependency, causing uproar and mass exodus.
+
 - [Reddit discussion](https://www.reddit.com/r/dotnet/comments/15ljdcc/does_moq_in_its_latest_version_extract_and_send/)
 - [GitHub issue](https://github.com/devlooped/moq/issues/1372)
 - Alternatives: 
@@ -27,7 +28,8 @@ Moq, the popular mocking library, faced backlash after introducing the SponsorLi
 
 ### [GitInfo](https://github.com/devlooped/GitInfo)
 
-GitInfo followed a similar path to Moq, and users should be cautious of libraries from the same author (devlooped, aka @kzu).
+GitInfo followed a similar path to Moq, and users should be cautious of libraries from the same author (devlooped, aka @kzu) who has lost much trust after the SponsorLink debacle.
+
 - [GitHub repository](https://github.com/devlooped/GitInfo)
 
 > "This project uses SponsorLink to attribute sponsor status"
@@ -35,6 +37,7 @@ GitInfo followed a similar path to Moq, and users should be cautious of librarie
 ### [MassTransit](https://masstransit-project.com/) as of v9
 
 MassTransit's commercialization was announced with version 9, prompting users to seek alternatives.
+
 - [Reddit discussion](https://www.reddit.com/r/dotnet/comments/1jpyczi/masstransit_going_commercial/)
 - [Official announcement](https://masstransit.io/introduction/v9-announcement)
 - Alternatives:
@@ -65,7 +68,10 @@ FluentAssertions also changed their licensing model, but a community fork remain
 ### [Duende](https://www.nuget.org/packages/Duende.IdentityServer) OpenId server
 
 - ["This new product will remain open source but will be offered with a dual license (RPL and commercial)"](https://leastprivilege.com/2020/10/01/the-future-of-identityserver/#:~:text=This%20new%20product%20will%20remain,source%20community%20and%20our%20contributors)
+- Alternatives
+  - [KeyCloak](https://www.keycloak.org/) - a Java based self-hostable open source identity server.
 
+This one doesn't really deserve the "avoid" label these days, as it's been pretty clear for many years that this is a commercial offering, however it's included here because I think it is interesting that a move from Apache to dual licensing is part of its history.
 
 ### [ImageSharp]()
 
@@ -79,13 +85,15 @@ This should be a warning to all who care about the future benefit and use of the
 
 This site has good explanations of choosing licenses: <https://choosealicense.com/>, plus a handy tool to pull-request a license to your github repo.
 
-The [RPL license](https://opensource.org/license/rpl-1-5) ([RPL on Wikipedia](https://en.wikipedia.org/wiki/Reciprocal_Public_License)) is a lesser-known license that you have to watch out for. It seems to be common in dual licensing because it effectively forbids commercial use due to the derivate works clauses. If you add an RPL library to a commercial project you'll be in big trouble.
+### RPL (Reciprocal Public License)
 
+The [RPL license](https://opensource.org/license/rpl-1-5) ([RPL on Wikipedia](https://en.wikipedia.org/wiki/Reciprocal_Public_License)) is a lesser-known license that you have to watch out for. It seems to be common in dual licensing because it effectively forbids commercial use due to the derivate works clauses. If you add an RPL library to a commercial project you'll potentially be in big trouble.
+
+It's interesting to note that [GNU considers RPL non-free](https://www.gnu.org/licenses/license-list.en.html#RPL) due to restrictions it imposes.
 
 ## Contributions welcome
 
 If you know of any that have gone south that I've missed here, and of good alternatives by all means open a PR for this post. I'm hoping there won't be too many more that do this in the coming years.
-
 
 ## Further reading
 
