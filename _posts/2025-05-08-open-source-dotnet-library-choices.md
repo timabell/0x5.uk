@@ -1,6 +1,7 @@
 ---
 title: "NuGet libraries to avoid"
 layout: post
+reddit: https://www.reddit.com/r/dotnet/comments/1khwsma/nuget_libraries_to_avoid/
 ---
 
 There has been a bout of "commercialization" of nuget packages in the dotnet world lately. There are now so many going that way I struggle to remember what's useable and what isn't.
