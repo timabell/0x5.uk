@@ -22,13 +22,15 @@ Introduced the SponsorLink spyware dependency, causing uproar and mass exodus.
 
 - [Reddit discussion](https://www.reddit.com/r/dotnet/comments/15ljdcc/does_moq_in_its_latest_version_extract_and_send/)
 - [GitHub issue](https://github.com/devlooped/moq/issues/1372)
-- Alternatives: 
-  - [FakeItEasy](https://github.com/FakeItEasy/FakeItEasy)
-  - [NSubstitute](https://github.com/nsubstitute/NSubstitute)
+
+Alternatives: 
+
+- [FakeItEasy](https://github.com/FakeItEasy/FakeItEasy)
+- [NSubstitute](https://github.com/nsubstitute/NSubstitute)
 
 ### [GitInfo](https://github.com/devlooped/GitInfo)
 
-GitInfo followed a similar path to Moq, and users should be cautious of libraries from the same author (devlooped, aka @kzu) who has lost much trust after the SponsorLink debacle.
+GitInfo followed a similar path to Moq, and users should be cautious of libraries from the same author ([devlooped, aka @kzu](https://github.com/devlooped)) who has lost much trust after the SponsorLink debacle. [Anything else by kzu](https://www.nuget.org/profiles/devlooped) should be considered tainted.
 
 - [GitHub repository](https://github.com/devlooped/GitInfo)
 
@@ -40,11 +42,14 @@ MassTransit's commercialization was announced with version 9, prompting users to
 
 - [Reddit discussion](https://www.reddit.com/r/dotnet/comments/1jpyczi/masstransit_going_commercial/)
 - [Official announcement](https://masstransit.io/introduction/v9-announcement)
-- Alternatives:
-  - [Brighter](https://github.com/BrighterCommand/Brighter)/[Darker](https://github.com/BrighterCommand/Darker)
-  - [Rebus](https://github.com/rebus-org/Rebus) - MIT license, though the [original author joined the NServiceBus owners in 2013 apparently](https://udidahan.com/2013/09/11/on-mookid-joining-nservicebus-and-what-that-means-for-rebus/)
-  - Raw [Service Bus SDK](https://learn.microsoft.com/en-us/dotnet/api/overview/azure/messaging.servicebus-readme?view=azure-dotnet)
-  - ~~No better: [NServiceBus](https://particular.net/nservicebus) (see below)~~
+
+Alternatives:
+
+- [Brighter](https://github.com/BrighterCommand/Brighter)/[Darker](https://github.com/BrighterCommand/Darker)
+- [Rebus](https://github.com/rebus-org/Rebus) - MIT license,
+  - the [original author briefly joined the NServiceBus owners in 2013](https://udidahan.com/2013/09/11/on-mookid-joining-nservicebus-and-what-that-means-for-rebus/) but [left after a couple of months to support Rebus](https://www.reddit.com/r/dotnet/comments/1khwsma/comment/mre8b5r/) (yay)
+- Raw [Service Bus SDK](https://learn.microsoft.com/en-us/dotnet/api/overview/azure/messaging.servicebus-readme?view=azure-dotnet)
+- ~~No better: [NServiceBus](https://particular.net/nservicebus) (see below)~~
 
 
 ### [NServiceBus](https://particular.net/nservicebus)
@@ -61,15 +66,19 @@ Both libraries have moved towards a commercial model, as announced by their crea
 ### [FluentAssertions](https://fluentassertions.com/)
 
 FluentAssertions also changed their licensing model, but a community fork remains available under Apache 2.
-- [Community fork](https://github.com/AwesomeAssertions/AwesomeAssertions)
-- Alternatives:
-  - [Shouldly](https://docs.shouldly.org/)
+
+Alternatives:
+
+- [Community fork "AwesomeAssertions"](https://github.com/AwesomeAssertions/AwesomeAssertions)
+- [Shouldly](https://docs.shouldly.org/)
 
 ### [Duende](https://www.nuget.org/packages/Duende.IdentityServer) OpenId server
 
 - ["This new product will remain open source but will be offered with a dual license (RPL and commercial)"](https://leastprivilege.com/2020/10/01/the-future-of-identityserver/#:~:text=This%20new%20product%20will%20remain,source%20community%20and%20our%20contributors)
-- Alternatives
-  - [KeyCloak](https://www.keycloak.org/) - a Java based self-hostable open source identity server.
+
+Alternatives
+
+- [KeyCloak](https://www.keycloak.org/) - a Java based self-hostable open source identity server.
 
 This one doesn't really deserve the "avoid" label these days, as it's been pretty clear for many years that this is a commercial offering, however it's included here because I think it is interesting that a move from Apache to dual licensing is part of its history.
 
