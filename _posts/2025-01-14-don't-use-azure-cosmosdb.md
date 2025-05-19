@@ -23,9 +23,14 @@ If you think that your system couldn't possibly run in the constraints of a sql 
 
 Can you tell I'll never be a Microsoft MVP, aside from my love of linux and the GPL.
 
----
 
-For local development and tests:
+## Local dev pain
 
-- There's the CosmosDb emulator (available in docker, yay!) which has in my experience proved to be disappointingly slow and prone to just giving up and 429'ing everything or just failing to respond, even on a super powerful machine. <https://learn.microsoft.com/en-us/azure/cosmos-db/how-to-develop-emulator>
-- I've been working on an in-memory test fake for CosmosDb which you can find here, which might ease the pain (or might make it worse, good luck and let me know in the github issues!) <https://www.nuget.org/packages/FakeCosmosDb>
+For local development and tests there's the CosmosDb emulator (available in docker, yay!) which has in my experience proved to be disappointingly slow and prone to just giving up and 429'ing everything or just failing to respond, even on a super powerful machine. <https://learn.microsoft.com/en-us/azure/cosmos-db/how-to-develop-emulator>
+
+It also has a built in expiry, which is a pain in the backside because docker is designed to cache `:latest` instead of constantly pulling from the registry. <https://github.com/Azure/azure-cosmos-db-emulator-docker/issues/60>
+
+### Mock it out
+
+I've been working on an in-memory test fake for CosmosDb which you can find here, which might ease the pain (or might make it worse, good luck and let me know in the github issues!) <https://www.nuget.org/packages/FakeCosmosDb>
+
