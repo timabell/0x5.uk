@@ -54,6 +54,10 @@ Tip: write adult/kid on two pieces of paper, take a photo of each from the respe
 
 ## The hidden upload
 
+ℹ️ The following is for upload to Amazon Photos via the silk browser in the adult profile. This is the way I did it because this is what support showed me how to do, and because I was looking to Amazon for an end-to-end solution. I've since realised that the key insight here is that even though the file browser apps are unable to see the kids' photos, the web browser is able to select and upload them. I don't know what magical back-door the browser and gallery are using to be able to see them, but the fact the file browser can't completely threw me off the scent here.
+
+You can actually use the website of any of the file storage services for this - dropbox, google drive, one drive etc. It's the installed app versions that can't access the photos. The browser however, has special magical access somehow.
+
 ⚠️ Before doing this, ensure you have _nothing_ in the "Folders > Pictures > Web" folder of [amazon photos](https://www.amazon.co.uk/photos), otherwise they'll all get mixed up. Move anything there out of the way first.
 
 1. Go into the grown up profile
