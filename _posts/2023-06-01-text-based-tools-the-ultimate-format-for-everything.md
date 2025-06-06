@@ -68,6 +68,10 @@ This entry is only half tongue-in-cheek. I think it's worth pointing out that pr
 
 ### Graphs & flowcharts
 
+There are many formats for rendering diagrams from plain text description
+
+#### GraphViz / dot
+
 The GraphViz dot format is amazing, it takes a bit of getting used to, but once you've got it then you can rearrange your flow chart with vim in a few keypresses and have the whole thing rearranged in milliseconds. Amazing.
 
 There's even some neat web based real-time renderers:
@@ -75,7 +79,15 @@ There's even some neat web based real-time renderers:
 - <https://dreampuf.github.io/GraphvizOnline/>
 - <https://sketchviz.com/>
 
+#### Mermaid
+
 For UML, graphviz and many other formats there is [mermaid.js](https://mermaid.js.org/), and amazingly you can embed the mermaid formats in markdown and [github pages will render your mermaid diagrams](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-diagrams). Win.
+
+#### PlantUML
+
+[PlantUML](https://plantuml.com/) is a format and renderer for many types of diagrams, including UML obviously.
+
+[Chris Bimpson posted "Automating Architecture Diagrams"](https://christopher-bimson.github.io/2025/05/automating-architecture-diagrams/) which provides a great example of using this in practice, though there are many ways to use this tooling.
 
 ### Documenting things in markdown
 
