@@ -11,8 +11,9 @@ permalink: /contact/
 - 💬 [Telegram](https://t.me/tim_abell)
 - 💬 [Signal](https://signal.me/#eu/Hl987PqWXi7vbnqoVzw7domkvV615AS4fu95GtncR8qG7xTU-6xAA4dDi4vaYd5G)
 - 📞 [+447779577969](tel:+447779577969)
-- 🏢 [LinkedIn](https://www.linkedin.com/in/timabell)
 - 📆 [Book a google meet call](https://savvycal.com/tim-abell/chat)
+- 🏢 [LinkedIn](https://www.linkedin.com/in/timabell)
+- 🎮 [Discord](https://discord.com/users/890701039735558164)
 
 ---
 
