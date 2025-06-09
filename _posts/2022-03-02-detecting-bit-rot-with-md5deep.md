@@ -74,3 +74,30 @@ I have a monthly calendar reminder to run backups. When that goes off I:
 I run one hash file for all folders. I started with one per top level folder but that meant the verify couldn't spot things moved between folders and it reported them as missing.
 
 It would be nice to iterate on this but it's a good start.
+
+## Updated workflow Jun 2025
+
+I've ditched the odd hashdeep format that I only used because of the "audit" capability, and am now using the more common md5deep format (same binary, different file format),
+
+```sh
+╰─$ cat checksum-home.sh 
+#!/bin/bash
+set -e # exit on error
+cd ~
+backup_paths=(Music Downloads Documents etc...)
+hashfile="Documents/checksums/home/md5deep-checksums-$(date "+%Y%m%d-%H%M%S").md5"
+# -r = recursive
+# -l = relative paths
+time md5deep -r -l "${backup_paths[@]}" | tee "$hashfile"
+```
+<https://explainshell.com/explain?cmd=md5deep+-rl+.>
+
+... then using [my fork of md5-tools](https://github.com/timabell/md5-tools) - subcommand `md5-diff` - to assess differences between hash files, filtered through a quick [awol-hashes bash script](https://gist.github.com/timabell/f7f776c7f0792ea13ef44798082b9935) to show only the files that have vanished or been modified.
+
+The result is then sent piped through [paths2html](https://github.com/rustworkshop/paths2html) that I wrote to give a collabsible html view of the missing files for easy review.
+
+```sh
+md5-diff "$before" "$after" | grep --regexp '^\+A' | sed 's/^\+A //' | tee "$missing_hashes_file"
+cat "$missing_hashes_file" | awk '{print substr($0, index($0, $2))}' | paths2html > "$missing_hashes_html_file"
+xdg-open "$missing_hashes_html_file"
+```
