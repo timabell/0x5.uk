@@ -219,6 +219,38 @@ Keyring because nodejs packages are signed and validated
 	asdf install
 	gem install bundler
 
+## Disable ipv6
+
+On servers at least, while [virgin internet don't support it](https://www.havevirginmediaenabledipv6yet.co.uk/).
+
+Without ISP / router support the machines fail to get ipv6 addresses and everything breaks, including syncthing which listens on ipv6 then nothing can reach it.
+
+Create file at `/etc/sysctl.d/11-kill-ipv6.conf` with contents:
+
+```
+net.ipv6.conf.all.disable_ipv6 = 1
+net.ipv6.conf.default.disable_ipv6 = 1
+net.ipv6.conf.lo.disable_ipv6 = 1 
+```
+
+Reload sysctl
+
+```
+sudo sysctl --system
+```
+
+Check it's set
+
+```
+cat /proc/sys/net/ipv6/conf/all/disable_ipv6
+```
+
+Reboot.
+
+- <https://idroot.us/disable-ipv6-linux-mint-22/>
+- <https://superuser.com/questions/625840/how-do-i-reload-sysctl-from-sysctl-d-directory/625852#625852>
+- <https://www.reddit.com/r/linuxmint/comments/b8mhs5/comment/ejyw2xe/>
+
 ## See also
 
 * <https://github.com/thoughtbot/laptop>
