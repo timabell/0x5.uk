@@ -43,7 +43,7 @@ private industry), so as an aside let me explain:
 ~~The Product Manager is more widely known in industry as Product Owner~~ (well
 that's what I thought, actually it turns out [product owner and product manager
 are not quite the
-same](https://melissaperri.com/blog/2017/06/29/product-manager-vs-product-owner)).
+same](https://melissaperri.com/blog/2017/06/29/product-manager-vs-product-owner) and [there is depth to the product manager/owner question](https://www.romanpichler.com/blog/product-manager-vs-product-owner/)).
 This is someone who figures out the balance of features in a service and the
 software that supports it, based on all the various constraints and inputs
 (e.g. user need, security, stability, internal need). One output of this role
