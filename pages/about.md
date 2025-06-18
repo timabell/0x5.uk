@@ -35,7 +35,7 @@ Some of the speaking/teaching I've done:
 - 22 Jan 2020 eSynergy tech event - Digital Delivery at Department for Education (~60 attendees)
   ![](../images/blog/IMG_20200122_193503_esynergy_dfe_talk3_smaller.jpg)
 - 24 Feb 2024 [dotnet reading](https://www.meetup.com/dot-net-thames-valley/) - outside-in testing (last minute stand-in for unavailable speaker so not listed on meetup) (~40 attendees)
-- 17 June 2025 - [dotnet oxford lightening talk](https://www.meetup.com/dotnetoxford/events/307454172/) - Rust intro for C# devs
+- 17 June 2025 - [dotnet oxford lightening talk](https://www.meetup.com/dotnetoxford/events/307454172/) - [Rust intro for C# devs](https://deck.0x5.uk/intro-to-rust-for-csharp-devs)
 
 ## Podcast guest
 
