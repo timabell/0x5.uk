@@ -37,6 +37,11 @@ Some of the speaking/teaching I've done:
 - 24 Feb 2024 [dotnet reading](https://www.meetup.com/dot-net-thames-valley/) - outside-in testing (last minute stand-in for unavailable speaker so not listed on meetup) (~40 attendees)
 - 17 June 2025 - [dotnet oxford lightening talk](https://www.meetup.com/dotnetoxford/events/307454172/) - [Rust intro for C# devs](https://deck.0x5.uk/intro-to-rust-for-csharp-devs)
 
+### Slide decks
+
+- [Slide decks](https://deck.0x5.uk/)
+- [Marp slide deck sources](https://github.com/timabell/marp-decks)
+
 ## Podcast guest
 
 As well has hosting my own show(s), I've appeared on a couple of others:
