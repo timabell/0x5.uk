@@ -44,8 +44,51 @@ Finally, be prepared: if you discover down the road that your codebase has becom
 
 This article is based on recent research and industry reports on AI-generated code quality and business impact. The case is getting stronger that they hype is not bourne out by the actual results being observed in industry when studied rigorously.
 
-- GitClear analysis via [devclass.com](https://devclass.com/2025/02/20/ai-is-eroding-code-quality-states-new-in-depth-report/)
-- [devclass.com](https://devclass.com/2025/02/20/ai-is-eroding-code-quality-states-new-in-depth-report/),
-- Google DORA 2024 report [devclass.com](https://devclass.com/2025/02/20/ai-is-eroding-code-quality-states-new-in-depth-report/),
-- Uplevel study via CIO.com [cio.com](https://www.cio.com/article/3540579/devs-gaining-little-if-anything-from-ai-coding-assistants.html),
-- Harness survey via DevOps/ITPro [itpro.com](https://www.itpro.com/software/development/ai-coding-tools-arent-the-solution-to-the-unfolding-developer-crisis-teams-think-they-can-boost-productivity-and-delivery-times-but-end-up-bogged-down-by-manual-remediation-and-unsafe-code)
+### Published articles
+
+> "It becomes increasingly more challenging to understand and debug the AI-generated code, and troubleshooting becomes so resource-intensive that it is easier to rewrite the code from scratch than fix it." - Ivan Gekht, CEO, Gehtsoft
+>
+> ~ ["Devs gaining little (if anything) from AI coding assistants" - CIO.com"](https://www.cio.com/article/3540579/devs-gaining-little-if-anything-from-ai-coding-assistants.html#:~:text=%E2%80%9CIt%20becomes%20increasingly%20more%20challenging,%E2%80%94Ivan%20Gekht%2C%20CEO%2C%20Gehtsoft)
+
+---
+
+> "It is easy to say, as Google does, that organizations should establish guidelines for use of AI to address concerns; but tools which encourage bad practice will inevitably increase bad practice until they are improved."
+>
+> ~ ["AI is eroding code quality states new in-depth report - devclass.com"](https://devclass.com/2025/02/20/ai-is-eroding-code-quality-states-new-in-depth-report/#:~:text=It%20is%20easy%20to%20say%2C%20as%20Google%20does%2C%20that%20organizations%20should%20establish%20guidelines%20for%20use%20of%20AI%20to%20address%20concerns;%20but%20tools%20which%20encourage%20bad%20practice%20will%20inevitably%20increase%20bad%20practice%20until%20they%20are%20improved.)
+
+---
+
+- ["AI coding tools aren’t the solution to the unfolding 'developer crisis'"- itpro.com"](https://www.itpro.com/software/development/ai-coding-tools-arent-the-solution-to-the-unfolding-developer-crisis-teams-think-they-can-boost-productivity-and-delivery-times-but-end-up-bogged-down-by-manual-remediation-and-unsafe-code) - Based on the Harness report (below)
+- ["‘We’re trading deep understanding for quick fixes’: Junior software developers lack coding skills because of an overreliance on AI tools – and it could spell trouble for the future of development - IT Pro"](https://www.itpro.com/software/development/junior-developer-ai-tools-coding-skills)
+- ["The rising costs of downtime - BigPanda"](https://www.bigpanda.io/blog/it-outage-costs-2024/)
+- ["The Hidden Cost of AI-Generated Code: What Research and Industry Trends Are Revealing - TurinTech AI"](https://www.turintech.ai/blog/the-hidden-cost-of-ai-generated-code-what-research-and-industry-trends-are-revealing)
+
+---
+
+> "Sure, the code works, but ask why it works that way instead of another way? Crickets. Ask about edge cases? Blank stares."
+>
+> ~ [New Junior Developers Can’t Actually Code - N’s Blog](https://nmn.gl/blog/ai-and-learning#:~:text=Sure%2C%20the%20code%20works%2C%20but%20ask%20why%20it%20works%20that%20way%20instead%20of%20another%20way?%20Crickets.%20Ask%20about%20edge%20cases?%20Blank%20stares.)
+
+### In depth reports & research
+
+> "The adoption of AI codegen tools thus far has actually resulted in a significant increase in the developer workload–while AI accelerates initial code production, it creates new demands around code review, security validation, and quality assurance. This increased verification overhead arguably offsets a considerable amount of the productivity gains."
+>
+> ~ ["The State of Software Delivery Report 2025: Beyond CodeGen: The Role of AI in the SDLC" - harness.io](https://www.harness.io/state-of-software-delivery#:~:text=The%20adoption%20of%20AI%20codegen,%E2%80%8D)
+
+---
+
+> "our research revealed a critical finding: AI adoption may negatively impact software delivery performance. As AI adoption increased, it was accompanied by an estimated  decrease in delivery throughput by 1.5%, and an estimated reduction in delivery stability by 7.2%. Our data suggest that improving the development process does not automatically improve software delivery"
+>
+> ~ [Google DORA 2024 report](https://cloud.google.com/blog/products/devops-sre/announcing-the-2024-dora-report#:~:text=our%20research%20revealed%20a%20critical,not%20automatically%20improve%20software%20delivery)
+
+---
+
+> "Developers with Copilot access saw a significantly higher bug rate while their issue throughput remained consistent"
+>
+> ~ ["Gen AI for Coding" Research Report - Uplevel Data Labs"](https://resources.uplevelteam.com/gen-ai-for-coding#:~:text=Developers%20with%20Copilot%20access%20saw%20a%20significantly%20higher%20bug%20rate%20while%20their%20issue%20throughput%20remained%20consistent.)
+
+---
+
+> "We observe a spike in the prevalence of duplicate code blocks, along with increases in short-term churn code, and the continued decline of moved lines (code reuse)."
+>
+> ~ ["AI Copilot Code Quality: 2025 Data Suggests 4x Growth in Code Clones" - GitClear](https://www.gitclear.com/ai_assistant_code_quality_2025_research#:~:text=We%20observe%20a%20spike%20in%20the%20prevalence%20of%20duplicate%20code%20blocks%2C%20along%20with%20increases%20in%20short%2Dterm%20churn%20code%2C%20and%20the%20continued%20decline%20of%20moved%20lines%20(code%20reuse).)
