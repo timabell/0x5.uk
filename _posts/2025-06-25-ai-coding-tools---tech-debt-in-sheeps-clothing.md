@@ -92,3 +92,9 @@ This article is based on recent research and industry reports on AI-generated co
 > "We observe a spike in the prevalence of duplicate code blocks, along with increases in short-term churn code, and the continued decline of moved lines (code reuse)."
 >
 > ~ ["AI Copilot Code Quality: 2025 Data Suggests 4x Growth in Code Clones" - GitClear](https://www.gitclear.com/ai_assistant_code_quality_2025_research#:~:text=We%20observe%20a%20spike%20in%20the%20prevalence%20of%20duplicate%20code%20blocks%2C%20along%20with%20increases%20in%20short%2Dterm%20churn%20code%2C%20and%20the%20continued%20decline%20of%20moved%20lines%20(code%20reuse).)
+
+---
+
+> "I decided to investigate more systematically how well such AI startups were doing. I found that many were proving not nearly as valuable to society as all the hype would suggest."
+>
+> ~ ["AI and Economic Productivity: Expect Evolution, Not Revolution" - IEEE Spectrum, 2019](https://spectrum.ieee.org/ai-and-economic-productivity-expect-evolution-not-revolution#:~:text=I%20decided%20to%20investigate%20more%20systematically%20how%20well%20such%20AI%20startups%20were%20doing.%20I%20found%20that%20many%20were%20proving%20not%20nearly%20as%20valuable%20to%20society%20as%20all%20the%20hype%20would%20suggest.) by [Dr. Jeffrey Funk](https://www.linkedin.com/in/dr-jeffrey-funk-a979435/)
