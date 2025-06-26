@@ -40,9 +40,11 @@ As someone with over 20 years in software engineering, I’ve seen this pattern 
 
 Finally, be prepared: if you discover down the road that your codebase has become an unmaintainable AI-generated house of cards, don’t panic. **I can help.** I’ve spent decades untangling disastrous, brittle systems and turning them into solid, scalable platforms. The sooner you address the issue, the less **downtime** and cost you’ll suffer. Technology trends come and go, but solid software engineering practices are timeless. When the hype dust settles and the **consequences** of over-relying on today’s LLMs rear their head, make sure you have seasoned experts on hand to set things right. _You don’t have to wait for an outage to take action – let’s connect and ensure your software foundation stays strong._ Your future self (and your customers and CFO) will thank you.
 
-## Sources
+## Sources, references & further reading
 
-This article is based on recent research and industry reports on AI-generated code quality and business impact. The case is getting stronger that they hype is not bourne out by the actual results being observed in industry when studied rigorously.
+This article is based on recent research and industry reports on AI-generated code quality and business impact. Full list of sources below.
+
+The case is getting stronger that they hype is not bourne out by the actual results being observed in industry when studied rigorously beyond individual anecdote, the wow-factor of first encounters with an LLM, marketing-hype and studies commissioned by the AI vendors.
 
 ### Published articles
 
