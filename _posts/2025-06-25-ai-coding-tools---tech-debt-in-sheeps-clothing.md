@@ -65,7 +65,7 @@ This article is based on recent research and industry reports on AI-generated co
 
 ---
 
-> "Sure, the code works, but ask why it works that way instead of another way? Crickets. Ask about edge cases? Blank stares."
+> "Sure, the code works, but ask *why* it works that way instead of another way? Crickets. Ask about edge cases? Blank stares."
 >
 > ~ [New Junior Developers Can’t Actually Code - N’s Blog](https://nmn.gl/blog/ai-and-learning#:~:text=Sure%2C%20the%20code%20works%2C%20but%20ask%20why%20it%20works%20that%20way%20instead%20of%20another%20way?%20Crickets.%20Ask%20about%20edge%20cases?%20Blank%20stares.)
 
