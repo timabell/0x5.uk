@@ -79,9 +79,17 @@ Perhaps the most damning feedback comes from the trenches: [_“It is easier to 
 
 ## Hype vs. Reality: Don’t Buy Fool’s Gold
 
-It’s easy to be swept up in the hype. In today’s “AI revolution,” many technical folks are eagerly justifying these tools – some genuinely optimistic, others perhaps seeing **fool’s gold** in the latest trend. We’ve all heard enthusiastic voices touting how AI will write flawless code and free us from grunt work. But as an engineering leader, you must cut through that noise. The facts on the ground are clear: current LLM-based coding tools are **not** on par with an experienced human engineer when it comes to producing clean, robust, supportable code. They might get there someday, but **today they’re not even close**. As one industry expert observed, we risk _“trading deep understanding for quick fixes”_ by over-relying on AI, especially with less-experienced devs [itpro.com](https://www.itpro.com/software/development/junior-developer-ai-tools-coding-skills#:~:text=%E2%80%9C-,We%E2%80%99re%20trading%20deep%20understanding%20for%20quick%20fixes,-%2C%20and%20while%20it). That trade-off can **backfire** spectacularly when complex systems start misbehaving.
+It’s easy to be swept up in the hype. In today’s “AI revolution,” many technical folks are eagerly justifying these tools – some genuinely optimistic, others perhaps seeing **fool’s gold** in the latest trend. We’ve all heard enthusiastic voices touting how AI will write flawless code and free us from grunt work. But as an engineering leader, you must cut through that noise. The facts on the ground are clear: current LLM-based coding tools are **not** on par with an experienced human engineer when it comes to producing clean, robust, supportable code. They might get there someday, but **today they’re not even close**. As one industry expert observed, we risk [_“trading deep understanding for quick fixes”_ (itpro.com/Goel)](https://www.itpro.com/software/development/junior-developer-ai-tools-coding-skills#:~:text=%E2%80%9C-,We%E2%80%99re%20trading%20deep%20understanding%20for%20quick%20fixes,-%2C%20and%20while%20it) by over-relying on AI, especially with less-experienced devs. That trade-off can **backfire** spectacularly when complex systems start misbehaving.
 
-None of this is to say AI has no place in software development – it can be a handy helper for boilerplate suggestions or exploration. The key is **not to overuse or force it on programmers** as a substitute for proper engineering practice. Wise CTOs and architects will treat AI outputs as junior developer code: useful, but to be thoroughly reviewed, tested, and often heavily refactored. Blind faith in the current generation of LLMs is misplaced. They don’t understand your business domain, architecture, or quality standards – so treat the hype with healthy skepticism. The cost of getting it wrong isn’t just a petty code style issue; it’s **lost revenue from outages**, **ballooning maintenance costs**, and **slower time-to-market** for new initiatives while your team struggles under a mountain of AI-induced rework. In short, rushing unwarranted AI-generated code into your core systems can put your company on a fast track to the kind of **technical debt** that cripples agility.
+> The facts on the ground are clear: current LLM-based coding tools are not on par with an experienced human engineer when it comes to producing clean, robust, supportable code.
+
+None of this is to say AI has no place in software development – it can be a handy helper for boilerplate suggestions or exploration. The key is **not to overuse or force it on programmers** as a substitute for proper engineering practice. Wise CTOs and architects will treat AI outputs as junior developer code: useful, but to be thoroughly reviewed, tested, and often heavily refactored.
+
+Blind faith in the current generation of LLMs is misplaced. They don’t understand your business domain, architecture, or quality standards – so treat the hype with healthy skepticism. The cost of getting it wrong isn’t just a petty code style issue; it’s **lost revenue from outages**, **ballooning maintenance costs**, and **slower time-to-market** for new initiatives while your team struggles under a mountain of AI-induced rework. In short, rushing unwarranted AI-generated code into your core systems can put your company on a fast track to [the kind of **technical debt** that cripples agility](https://charmconsulting.co.uk/2020/11/27/leaders-guide-to-technical-debt/).
+
+> Blind faith in the current generation of LLMs is misplaced  
+> ...  
+> a fast track to the kind of technical debt that cripples agility.
 
 ## Conclusion: Mitigate Now, or Pay (More) Later
 
@@ -143,6 +151,12 @@ The case is getting stronger that they hype is not bourne out by the actual resu
 > “A mess is not a technical debt. A mess is just a mess.” ~ Uncle Bob
 >
 > [Approaches to refactoring, technical debt and legacy code](/2020/07/09/approaches-to-refactoring-and-technical-debt/)
+
+---
+
+> "We need to rewrite x/y, or maybe even the entire system"
+>
+> [Leaders guide to technical debt - aka "why can't we ship anything!?"](https://charmconsulting.co.uk/2020/11/27/leaders-guide-to-technical-debt/)
 
 ### In depth reports & research
 
