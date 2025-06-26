@@ -60,10 +60,15 @@ The case is getting stronger that they hype is not bourne out by the actual resu
 
 ---
 
-- ["AI coding tools aren’t the solution to the unfolding 'developer crisis'"- itpro.com"](https://www.itpro.com/software/development/ai-coding-tools-arent-the-solution-to-the-unfolding-developer-crisis-teams-think-they-can-boost-productivity-and-delivery-times-but-end-up-bogged-down-by-manual-remediation-and-unsafe-code) - Based on the Harness report (below)
-- ["‘We’re trading deep understanding for quick fixes’: Junior software developers lack coding skills because of an overreliance on AI tools – and it could spell trouble for the future of development - IT Pro"](https://www.itpro.com/software/development/junior-developer-ai-tools-coding-skills)
-- ["The rising costs of downtime - BigPanda"](https://www.bigpanda.io/blog/it-outage-costs-2024/)
-- ["The Hidden Cost of AI-Generated Code: What Research and Industry Trends Are Revealing - TurinTech AI"](https://www.turintech.ai/blog/the-hidden-cost-of-ai-generated-code-what-research-and-industry-trends-are-revealing)
+> "Costs are rising. Unplanned downtime now averages $14,056 per minute, rising to $23,750 for large enterprises."
+>
+> ~ ["The rising costs of downtime - BigPanda"](https://www.bigpanda.io/blog/it-outage-costs-2024/)
+
+---
+
+> "AI-generated code is increasing the burden on development teams, rather than reducing it.  This isn’t just an isolated finding. Across the industry, teams are realizing that while AI can accelerate code production, it often introduces new inefficiencies in validation, security, and maintainability."
+>
+> ~ ["The Hidden Cost of AI-Generated Code: What Research and Industry Trends Are Revealing - TurinTech AI"](https://www.turintech.ai/blog/the-hidden-cost-of-ai-generated-code-what-research-and-industry-trends-are-revealing)
 
 ---
 
@@ -100,3 +105,10 @@ The case is getting stronger that they hype is not bourne out by the actual resu
 > "I decided to investigate more systematically how well such AI startups were doing. I found that many were proving not nearly as valuable to society as all the hype would suggest."
 >
 > ~ ["AI and Economic Productivity: Expect Evolution, Not Revolution" - IEEE Spectrum, 2019](https://spectrum.ieee.org/ai-and-economic-productivity-expect-evolution-not-revolution#:~:text=I%20decided%20to%20investigate%20more%20systematically%20how%20well%20such%20AI%20startups%20were%20doing.%20I%20found%20that%20many%20were%20proving%20not%20nearly%20as%20valuable%20to%20society%20as%20all%20the%20hype%20would%20suggest.) by [Dr. Jeffrey Funk](https://www.linkedin.com/in/dr-jeffrey-funk-a979435/)
+
+### Secondary articles
+
+These are journalistic pieces based on other primary sources listed in this article:
+
+- ["‘We’re trading deep understanding for quick fixes’: Junior software developers lack coding skills because of an overreliance on AI tools – and it could spell trouble for the future of development - itpro.com"](https://www.itpro.com/software/development/junior-developer-ai-tools-coding-skills) - based on N's blog (above)
+- ["AI coding tools aren’t the solution to the unfolding 'developer crisis'"- itpro.com"](https://www.itpro.com/software/development/ai-coding-tools-arent-the-solution-to-the-unfolding-developer-crisis-teams-think-they-can-boost-productivity-and-delivery-times-but-end-up-bogged-down-by-manual-remediation-and-unsafe-code) - Based on the Harness report (above)
