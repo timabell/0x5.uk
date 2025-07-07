@@ -82,7 +82,7 @@ Alternatives
 
 This one doesn't really deserve the "avoid" label these days, as it's been pretty clear for many years that this is a commercial offering, however it's included here because I think it is interesting that a move from Apache to dual licensing is part of its history.
 
-### [ImageSharp]()
+### [ImageSharp](https://github.com/SixLabors/ImageSharp)
 
 - ["The Six Labors Split License"](https://sixlabors.com/posts/license-changes/#:~:text=The%20Six%20Labors%20Split%20License,Six%20Labors%20Commercial%20Use%20License)
 

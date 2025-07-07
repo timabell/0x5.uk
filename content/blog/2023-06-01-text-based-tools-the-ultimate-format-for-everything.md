@@ -39,7 +39,7 @@ As per this blog, see ["Setting up a static website/blog with jekyll"](/2019/06/
 
 #### Reveal.js
 
-[reveal.js]() can parse markdown files with a sprinkling of html & css allowed inline (very handy) and turn them into stunning modern presentations with slick animations and multi-step reveals, amazing.
+[reveal.js](https://revealjs.com/) can parse markdown files with a sprinkling of html & css allowed inline (very handy) and turn them into stunning modern presentations with slick animations and multi-step reveals, amazing.
 
 I was trying to create some slides in google-slides thinking that would be the quick way, ran into some bizarre formatting limitation and went hunting for alternatives. I haven't looked back, at least for things I don't need real-time collaboration on.
 

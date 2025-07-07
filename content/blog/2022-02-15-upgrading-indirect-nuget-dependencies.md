@@ -22,7 +22,7 @@ If you have the option then look into replacing nuget with [paket](https://fspro
 
 ## Indirect dependencies
 
-Say you depend on [Microsoft.AspNetCore.Http v2.2.2](https://www.nuget.org/packages/Microsoft.AspNetCore.Http/2.2.2) (which is the latest available at time of writing), which in turn depends on [Microsoft.AspNetCore.Http.Abstractions >= v2.2.0](https://www.nuget.org/packages/Microsoft.AspNetCore.Http.Abstractions/2.2.0)  (also currently the latest) which in turn depends on [System.Text.Encodings.Web >= 4.5.0]()
+Say you depend on [Microsoft.AspNetCore.Http v2.2.2](https://www.nuget.org/packages/Microsoft.AspNetCore.Http/2.2.2) (which is the latest available at time of writing), which in turn depends on [Microsoft.AspNetCore.Http.Abstractions >= v2.2.0](https://www.nuget.org/packages/Microsoft.AspNetCore.Http.Abstractions/2.2.0)  (also currently the latest) which in turn depends on [System.Text.Encodings.Web >= 4.5.0](https://www.nuget.org/packages/System.Text.Encodings.Web/4.5.0)
 
 And then you discover, say, just for a fun example, that [System.Text.Encodings.Web v4.5.0 has the Remote Code Execution (RCE) Vulnerability CVE-2021-26701](https://github.com/dotnet/announcements/issues/178).
 
