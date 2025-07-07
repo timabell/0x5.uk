@@ -4,7 +4,7 @@
     <title>{% if page.title %}{{ page.title }} – {% endif %}{{ config.title }} – {{ config.description }}</title>
     {% include "meta.html" %}
 
-    <link rel="stylesheet" type="text/css" href="{{ config.base_url }}/style.css" />
+    <link rel="stylesheet" type="text/css" href="/style.css" />
     <link rel="alternate" type="application/rss+xml" title="{{ config.title }} - {{ config.description }}" href="{{ config.base_url }}/rss.xml" />
     {% if current_path is defined %}
     <link rel="canonical" href="{{ config.base_url }}{{ current_path }}" />
