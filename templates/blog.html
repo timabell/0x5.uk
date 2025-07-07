@@ -1,0 +1,35 @@
+{% extends "base.html" %}
+
+{% block content %}
+  {{ section.content | safe }}
+
+  <div class="posts">
+    {% set recent_posts = section.pages | slice(end=3) %}
+    {% for post in recent_posts %}
+      <article class="post">
+        <h1><a href="{{ post.permalink }}">{{ post.title }}</a></h1>
+
+        <div>
+          <div class="post_date">{{ post.date | date(format="%B %e, %Y") }}</div>
+          <!-- Reading time removed - could be re-implemented with Zola hooks if needed -->
+        </div>
+
+        <div class="entry">
+          {{ post.content | striptags | truncate(length=200) }}
+      </div>
+
+      <a href="{{ post.permalink }}" class="read-more">Read More</a>
+    </article>
+  {% endfor %}
+
+  <h2>Older posts</h2>
+  {% set older_posts = section.pages | slice(start=3) %}
+  {% for post in older_posts %}
+    <div>
+      <a href="{{ post.permalink }}">{{ post.title }}</a><br/>
+        <span class="post_date">{{ post.date | date(format="%B %e, %Y") }}</span>
+    </div>
+  {% endfor %}
+</div>
+
+{% endblock content %}
