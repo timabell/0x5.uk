@@ -1,7 +1,6 @@
----
-title: Tips for remembering names
-layout: post
----
++++
+title = "Tips for remembering names"
++++
 
 ## The Tips
 

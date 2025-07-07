@@ -1,8 +1,9 @@
----
-title: "Busy busy"
-date: 2004-08-10
-slashdot_url: https://slashdot.org/journal/79902/busy-busy
----
++++
+title = "Busy busy"
+date = "2004-08-10T00:00:00+00:00"
+[extra]
+slashdot_url = "https://slashdot.org/journal/79902/busy-busy"
++++
 
 <p>Life is good.<br>I'm far too busy to write anything interesting in my journal so instead here's the possibly sexist joke that fluffy sent me last week.</p>
 <p>Made me laugh anyway. Well I had had quite a few drinks and it was about 1am.</p>

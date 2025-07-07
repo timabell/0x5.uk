@@ -1,13 +1,12 @@
----
-layout: post
-title: Converting kml to gpx with python
-date: '2014-02-03T20:27:00.000Z'
-author: Tim Abell
-tags:
-modified_time: '2014-02-03T20:29:19.425Z'
-blogger_id: tag:blogger.com,1999:blog-5082828566240519947.post-6598892897913494731
-blogger_orig_url: https://timwise.blogspot.com/2014/02/converting-kml-to-gpx-with-python.html
----
++++
+title = "Converting kml to gpx with python"
+date = "2014-02-03T20:27:00.000Z"
+[extra]
+tags = ""
+modified_time = "2014-02-03T20:29:19.425Z"
+blogger_id = "tag:blogger.com,1999:blog-5082828566240519947.post-6598892897913494731"
+blogger_orig_url = "https://timwise.blogspot.com/2014/02/converting-kml-to-gpx-with-python.html"
++++
 
 Today I wanted to geo-code some of my photos.
 

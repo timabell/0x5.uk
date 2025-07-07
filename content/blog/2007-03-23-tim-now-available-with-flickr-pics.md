@@ -1,14 +1,13 @@
----
-layout: post
-title: tim; now available with flickr pics
-date: '2007-03-23T22:21:00.000Z'
-author: Tim Abell
-tags:
-- flickr photos
-modified_time: '2007-03-23T23:37:22.215Z'
-blogger_id: tag:blogger.com,1999:blog-5082828566240519947.post-7110396020145859598
-blogger_orig_url: https://timwise.blogspot.com/2007/03/tim-now-available-with-flickr-pics.html
----
++++
+title = "tim; now available with flickr pics"
+date = "2007-03-23T22:21:00.000Z"
+[extra]
+modified_time = "2007-03-23T23:37:22.215Z"
+blogger_id = "tag:blogger.com,1999:blog-5082828566240519947.post-7110396020145859598"
+blogger_orig_url = "https://timwise.blogspot.com/2007/03/tim-now-available-with-flickr-pics.html"
+[taxonomies]
+tags = ["flickr photos"]
++++
 
 [me on flickr](http://www.flickr.com/photos/7463254%40N02/)  
 

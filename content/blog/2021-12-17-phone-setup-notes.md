@@ -1,7 +1,6 @@
----
-title: Phone setup notes
-layout: post
----
++++
+title = "Phone setup notes"
++++
 
 This is epic, so here's a table of contents:
 

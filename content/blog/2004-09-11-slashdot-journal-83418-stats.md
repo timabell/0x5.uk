@@ -1,8 +1,9 @@
----
-title: "stats"
-date: 2004-09-11
-slashdot_url: https://slashdot.org/journal/83418/stats
----
++++
+title = "stats"
+date = "2004-09-11T00:00:00+00:00"
+[extra]
+slashdot_url = "https://slashdot.org/journal/83418/stats"
++++
 
 <p>Woo!<br>Mandrake, Apache, AWStats, wget, cron, sleepless nights...<br><nobr> </nobr>... and now I have up to date stats for <a href="http://www.timwise.co.uk/">timwise.co.uk</a>, updated automatically overnight every night for the previous day's usage. Including the cubs site.<br>See the stats link bottom right of the home page.</p>
 <p>Joy.</p>

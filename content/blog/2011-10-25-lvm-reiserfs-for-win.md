@@ -1,17 +1,13 @@
----
-layout: post
-title: LVM + ReiserFS for the win
-date: '2011-10-25T06:17:00.002Z'
-author: Tim Abell
-tags:
-- howto
-- ubuntu
-- linux
-- lvm
-modified_time: '2011-10-25T06:20:59.060Z'
-blogger_id: tag:blogger.com,1999:blog-5082828566240519947.post-149678347610055760
-blogger_orig_url: https://timwise.blogspot.com/2011/10/lvm-reiserfs-for-win.html
----
++++
+title = "LVM + ReiserFS for the win"
+date = "2011-10-25T06:17:00.002Z"
+[extra]
+modified_time = "2011-10-25T06:20:59.060Z"
+blogger_id = "tag:blogger.com,1999:blog-5082828566240519947.post-149678347610055760"
+blogger_orig_url = "https://timwise.blogspot.com/2011/10/lvm-reiserfs-for-win.html"
+[taxonomies]
+tags = ["howto", "ubuntu", "linux", "lvm"]
++++
 
 LVM + ReiserFS for the win!
 

@@ -1,28 +1,14 @@
----
-layout: post
-title: Developers, Love Your SQL Database
-date: 2018-03-12 19:30:15.000000000 +00:00
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories: []
-tags: []
-meta:
-  _wpcom_is_markdown: '1'
-  _rest_api_published: '1'
-  _rest_api_client_id: "-1"
-  _publicize_job_id: '15656264083'
-  timeline_notification: '1520883016'
-author:
-  login: timabell
-  email: tim@timwise.co.uk
-  display_name: timabell
-  first_name: ''
-  last_name: ''
-permalink: "/2018/03/12/developers-love-your-sql-database/"
----
++++
+title = "Developers, Love Your SQL Database"
+date = "2018-03-12T19:30:15+00:00"
+[extra]
+type = "post"
+parent_id = "0"
+published = true
+password = ""
+status = "publish"
+permalink = "/2018/03/12/developers-love-your-sql-database/"
++++
 Developers, don't be afraid of your SQL database, don't try and ignore it, try and make it the best it can be just like you do for your code.
 
 ## What's wrong today

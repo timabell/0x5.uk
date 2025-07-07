@@ -1,17 +1,14 @@
----
-layout: post
-title: Announcing the Communication Book project
-date: '2012-03-21T21:04:00.004Z'
-author: Tim Abell
-tags:
-- communication-book
-- oss
-- java
-modified_time: '2012-03-21T21:12:59.474Z'
-thumbnail: http://2.bp.blogspot.com/-pMoDVHCIh24/T2pDE3IeGxI/AAAAAAAAAEM/dKiGFEIYC4U/s72-c/screenshot_v0.3-r34.png
-blogger_id: tag:blogger.com,1999:blog-5082828566240519947.post-3479941793818984960
-blogger_orig_url: https://timwise.blogspot.com/2012/03/announcing-communication-book-project.html
----
++++
+title = "Announcing the Communication Book project"
+date = "2012-03-21T21:04:00.004Z"
+[extra]
+modified_time = "2012-03-21T21:12:59.474Z"
+thumbnail = "http://2.bp.blogspot.com/-pMoDVHCIh24/T2pDE3IeGxI/AAAAAAAAAEM/dKiGFEIYC4U/s72-c/screenshot_v0.3-r34.png"
+blogger_id = "tag:blogger.com,1999:blog-5082828566240519947.post-3479941793818984960"
+blogger_orig_url = "https://timwise.blogspot.com/2012/03/announcing-communication-book-project.html"
+[taxonomies]
+tags = ["communication-book", "oss", "java"]
++++
 
 ![](/assets/screenshot_v0.3-r34.png)
 

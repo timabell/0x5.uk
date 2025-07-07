@@ -1,25 +1,14 @@
----
-layout: post
-title: Enabling TV-Out on Ubuntu Linux 7.10 on a Dell Inspiron 8500
-date: '2007-12-09T01:41:00.001Z'
-author: Tim Abell
-tags:
-- howto
-- nvidia
-- inspiron 8500
-- ubuntu
-- hardware
-- composite video
-- linux
-- dell
-- laptop
-- proprietary
-- oss
-modified_time: '2007-12-09T03:13:46.284Z'
-thumbnail: http://farm3.static.flickr.com/2419/2096850378_d98545fdc9_t.jpg
-blogger_id: tag:blogger.com,1999:blog-5082828566240519947.post-8211898069521983285
-blogger_orig_url: https://timwise.blogspot.com/2007/12/enabling-tv-out-on-ubuntu-linux-710-on.html
----
++++
+title = "Enabling TV-Out on Ubuntu Linux 7.10 on a Dell Inspiron 8500"
+date = "2007-12-09T01:41:00.001Z"
+[extra]
+modified_time = "2007-12-09T03:13:46.284Z"
+thumbnail = "http://farm3.static.flickr.com/2419/2096850378_d98545fdc9_t.jpg"
+blogger_id = "tag:blogger.com,1999:blog-5082828566240519947.post-8211898069521983285"
+blogger_orig_url = "https://timwise.blogspot.com/2007/12/enabling-tv-out-on-ubuntu-linux-710-on.html"
+[taxonomies]
+tags = ["howto", "nvidia", "inspiron 8500", "ubuntu", "hardware", "composite video", "linux", "dell", "laptop", "proprietary", "oss"]
++++
 
 This weekend, I finally got the tv-out working under linux (Ubuntu 7.10 aka
 gusty gibbon) on my laptop. Here's what was involved, including some of the

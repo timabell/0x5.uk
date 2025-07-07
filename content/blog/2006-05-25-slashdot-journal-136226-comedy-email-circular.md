@@ -1,8 +1,9 @@
----
-title: "comedy email circular"
-date: 2006-05-25
-slashdot_url: https://slashdot.org/journal/136226/comedy-email-circular
----
++++
+title = "comedy email circular"
+date = "2006-05-25T00:00:00+00:00"
+[extra]
+slashdot_url = "https://slashdot.org/journal/136226/comedy-email-circular"
++++
 
 <p>Thanks to our head of sales for this one:</p>
 <p>=========================================</p>

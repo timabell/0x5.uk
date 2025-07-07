@@ -1,8 +1,9 @@
----
-title: "copying all (hidden) files in linux with cp"
-date: 2005-09-29
-slashdot_url: https://slashdot.org/journal/118511/copying-all-hidden-files-in-linux-with-cp
----
++++
+title = "copying all (hidden) files in linux with cp"
+date = "2005-09-29T00:00:00+00:00"
+[extra]
+slashdot_url = "https://slashdot.org/journal/118511/copying-all-hidden-files-in-linux-with-cp"
++++
 
 <p>One of my old pet hates in Windoze is the default explorer setting to hide system files, which means you don't get everything when copying stuff.</p>
 <p>In linux, a hidden a file or directory is anything that starts with a dot.<br>So, I want to take a copy of my ~/ (home, like windoze profile), hidden files and all.</p>

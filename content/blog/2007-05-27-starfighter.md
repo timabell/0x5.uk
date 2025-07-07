@@ -1,18 +1,13 @@
----
-layout: post
-title: starfighter
-date: '2007-05-27T13:44:00.000Z'
-author: Tim Abell
-tags:
-- starfighter
-- linux
-- games
-- fun
-- oss
-modified_time: '2007-05-27T14:03:29.172Z'
-blogger_id: tag:blogger.com,1999:blog-5082828566240519947.post-3601923976003048564
-blogger_orig_url: https://timwise.blogspot.com/2007/05/starfighter.html
----
++++
+title = "starfighter"
+date = "2007-05-27T13:44:00.000Z"
+[extra]
+modified_time = "2007-05-27T14:03:29.172Z"
+blogger_id = "tag:blogger.com,1999:blog-5082828566240519947.post-3601923976003048564"
+blogger_orig_url = "https://timwise.blogspot.com/2007/05/starfighter.html"
+[taxonomies]
+tags = ["starfighter", "linux", "games", "fun", "oss"]
++++
 
 <http://starfighter.nongnu.org/>
 

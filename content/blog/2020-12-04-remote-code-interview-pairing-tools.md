@@ -1,7 +1,6 @@
----
-title: Remote code interview pairing tools
-layout: post
----
++++
+title = "Remote code interview pairing tools"
++++
 
 Things that you could use to do simple coding exercises in the new world of remote everything.
 

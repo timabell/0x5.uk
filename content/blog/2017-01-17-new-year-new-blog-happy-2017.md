@@ -1,22 +1,14 @@
----
-layout: post
-title: New year new blog, happy 2017
-date: 2017-01-17 01:00:09.000000000 +00:00
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories: []
-tags: []
-author:
-  login: timabell
-  email: tim@timwise.co.uk
-  display_name: timabell
-  first_name: ''
-  last_name: ''
-permalink: "/2017/01/17/new-year-new-blog-happy-2017/"
----
++++
+title = "New year new blog, happy 2017"
+date = "2017-01-17T01:00:09+00:00"
+[extra]
+type = "post"
+parent_id = "0"
+published = true
+password = ""
+status = "publish"
+permalink = "/2017/01/17/new-year-new-blog-happy-2017/"
++++
 I've used blogger for years, but the layout for code has not improved for a long time. I've also found my domain's website stagnating because of the hassle of updating it, so I've moved the whole kaboodle to [wordpress.com](https://wordpress.com/).
 
 Find my old blog and all its content at <http://timwise.blogspot.co.uk/>

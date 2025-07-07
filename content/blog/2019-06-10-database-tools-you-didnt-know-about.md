@@ -1,9 +1,9 @@
----
-layout: post
-title: Database tools I was surprised existed
-description: A complete list of tools for database people and developers
-category: blog
----
++++
+title = "Database tools I was surprised existed"
+[extra]
+description = "A complete list of tools for database people and developers"
+category = "blog"
++++
 
 But you already know all the tools for working with databases don't you?
 

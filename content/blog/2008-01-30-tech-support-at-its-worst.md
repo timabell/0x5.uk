@@ -1,18 +1,13 @@
----
-layout: post
-title: Tech support at its worst
-date: '2008-01-30T18:51:00.001Z'
-author: Tim Abell
-tags:
-- mcts
-- mcp
-- review
-- training
-- microsoft
-modified_time: '2008-06-02T15:06:04.721Z'
-blogger_id: tag:blogger.com,1999:blog-5082828566240519947.post-7104045740264013043
-blogger_orig_url: https://timwise.blogspot.com/2008/01/tech-support-at-its-worst.html
----
++++
+title = "Tech support at its worst"
+date = "2008-01-30T18:51:00.001Z"
+[extra]
+modified_time = "2008-06-02T15:06:04.721Z"
+blogger_id = "tag:blogger.com,1999:blog-5082828566240519947.post-7104045740264013043"
+blogger_orig_url = "https://timwise.blogspot.com/2008/01/tech-support-at-its-worst.html"
+[taxonomies]
+tags = ["mcts", "mcp", "review", "training", "microsoft"]
++++
 
 As you may know, I'm working through a Microsoft e-learning course at the
 moment. Having had a [few

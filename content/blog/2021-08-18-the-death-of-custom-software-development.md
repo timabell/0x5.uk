@@ -1,7 +1,6 @@
----
-title: The death of custom software development
-layout: post
----
++++
+title = "The death of custom software development"
++++
 
 I've been around this industry for a long time and have been quietly observing the bigger trends while I fiddle around with the details of software.
 Here's what I've noticed: writing software by hand is doomed. Expect that it isn't, and it's a bit more nuanced than that.

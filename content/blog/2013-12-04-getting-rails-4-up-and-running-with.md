@@ -1,13 +1,12 @@
----
-layout: post
-title: Getting rails 4 up and running with rbenv on Ubuntu 13.10
-date: '2013-12-04T23:16:00.003Z'
-author: Tim Abell
-tags:
-modified_time: '2013-12-05T10:09:30.811Z'
-blogger_id: tag:blogger.com,1999:blog-5082828566240519947.post-6247915904489237488
-blogger_orig_url: https://timwise.blogspot.com/2013/12/getting-rails-4-up-and-running-with.html
----
++++
+title = "Getting rails 4 up and running with rbenv on Ubuntu 13.10"
+date = "2013-12-04T23:16:00.003Z"
+[extra]
+tags = ""
+modified_time = "2013-12-05T10:09:30.811Z"
+blogger_id = "tag:blogger.com,1999:blog-5082828566240519947.post-6247915904489237488"
+blogger_orig_url = "https://timwise.blogspot.com/2013/12/getting-rails-4-up-and-running-with.html"
++++
 
 _Brain dump warning!_
 

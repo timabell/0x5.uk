@@ -1,7 +1,6 @@
----
-title: New rust and ssbf podcast episodes
-layout: post
----
++++
+title = "New rust and ssbf podcast episodes"
++++
 
 Hello readers,
 

@@ -1,7 +1,6 @@
----
-title: Finding a contractor accountants
-layout: post
----
++++
+title = "Finding a contractor accountants"
++++
 
 Boring but important, having an accountant firm to make sure the books are HMRC-proof is important.
 

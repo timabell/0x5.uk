@@ -1,8 +1,8 @@
----
-title: Zero-downtime website rewrite migrations
-layout: post
-reddit: https://www.reddit.com/user/timabell/comments/13or19w/zerodowntime_website_rewrite_migrations/
----
++++
+title = "Zero-downtime website rewrite migrations"
+[extra]
+reddit = "https://www.reddit.com/user/timabell/comments/13or19w/zerodowntime_website_rewrite_migrations/"
++++
 
 As we know, big-bang rewrites are incredibly dangerous. They are likely to fail or be rejected. For example, the new thing never reaches "feature parity" and gets rejected in favour of the system you were trying to replace.
 

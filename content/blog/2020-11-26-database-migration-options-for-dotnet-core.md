@@ -1,7 +1,6 @@
----
-title: Database migration options for dotnet core
-layout: post
----
++++
+title = "Database migration options for dotnet core"
++++
 
 ## Options
 

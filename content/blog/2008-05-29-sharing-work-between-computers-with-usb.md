@@ -1,21 +1,14 @@
----
-layout: post
-title: sharing work between computers with a usb flash drive and git
-date: '2008-05-29T23:36:00.007Z'
-author: Tim Abell
-tags:
-- howto
-- backup
-- dev
-- linux
-- git
-- oss
-- svn
-modified_time: '2008-06-04T17:18:17.112Z'
-thumbnail: http://farm4.static.flickr.com/3180/2500350904_0b0c2a44f3_t.jpg
-blogger_id: tag:blogger.com,1999:blog-5082828566240519947.post-4719348621403422584
-blogger_orig_url: https://timwise.blogspot.com/2008/05/sharing-work-between-computers-with-usb.html
----
++++
+title = "sharing work between computers with a usb flash drive and git"
+date = "2008-05-29T23:36:00.007Z"
+[extra]
+modified_time = "2008-06-04T17:18:17.112Z"
+thumbnail = "http://farm4.static.flickr.com/3180/2500350904_0b0c2a44f3_t.jpg"
+blogger_id = "tag:blogger.com,1999:blog-5082828566240519947.post-4719348621403422584"
+blogger_orig_url = "https://timwise.blogspot.com/2008/05/sharing-work-between-computers-with-usb.html"
+[taxonomies]
+tags = ["howto", "backup", "dev", "linux", "git", "oss", "svn"]
++++
 
 I couldn't find anything exactly matching this on the net when I was figuring
 it out, so here's what I did.

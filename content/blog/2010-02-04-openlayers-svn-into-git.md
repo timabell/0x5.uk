@@ -1,16 +1,13 @@
----
-layout: post
-title: openlayers svn into git
-date: '2010-02-04T14:01:00.014Z'
-author: Tim Abell
-tags:
-- git
-- openlayers
-- svn
-modified_time: '2011-05-18T22:12:01.236Z'
-blogger_id: tag:blogger.com,1999:blog-5082828566240519947.post-1272986229621647717
-blogger_orig_url: https://timwise.blogspot.com/2010/02/openlayers-svn-into-git.html
----
++++
+title = "openlayers svn into git"
+date = "2010-02-04T14:01:00.014Z"
+[extra]
+modified_time = "2011-05-18T22:12:01.236Z"
+blogger_id = "tag:blogger.com,1999:blog-5082828566240519947.post-1272986229621647717"
+blogger_orig_url = "https://timwise.blogspot.com/2010/02/openlayers-svn-into-git.html"
+[taxonomies]
+tags = ["git", "openlayers", "svn"]
++++
 
 Initial clone:
 

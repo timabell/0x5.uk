@@ -1,7 +1,6 @@
----
-title: The trap of two-stage commitments
-layout: post
----
++++
+title = "The trap of two-stage commitments"
++++
 
 When you know there is a future time at which you'll have to "really commit" (e.g. sign something, put money down, put something in writing, commit publicly etc.) it's easy to blasély commit without thinking too hard about how things might have changed by the time the more concrete commitment is needed, or perhaps if you even really mean it. This is a trap!
 

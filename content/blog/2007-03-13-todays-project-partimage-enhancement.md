@@ -1,18 +1,13 @@
----
-layout: post
-title: Today's project - partimage enhancement
-date: '2007-03-13T22:01:00.000Z'
-author: Tim Abell
-tags:
-- partimage
-- dev
-- linux
-- oss
-- project
-modified_time: '2007-03-13T22:27:10.644Z'
-blogger_id: tag:blogger.com,1999:blog-5082828566240519947.post-6030191776095000293
-blogger_orig_url: https://timwise.blogspot.com/2007/03/todays-project-partimage-enhancement.html
----
++++
+title = "Today's project - partimage enhancement"
+date = "2007-03-13T22:01:00.000Z"
+[extra]
+modified_time = "2007-03-13T22:27:10.644Z"
+blogger_id = "tag:blogger.com,1999:blog-5082828566240519947.post-6030191776095000293"
+blogger_orig_url = "https://timwise.blogspot.com/2007/03/todays-project-partimage-enhancement.html"
+[taxonomies]
+tags = ["partimage", "dev", "linux", "oss", "project"]
++++
 
 *me and [partimage](http://www.partimage.org/)*
 

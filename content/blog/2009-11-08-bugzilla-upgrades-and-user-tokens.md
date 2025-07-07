@@ -1,17 +1,13 @@
----
-layout: post
-title: bugzilla upgrades and user tokens
-date: '2009-11-08T18:12:00.006Z'
-author: Tim Abell
-tags:
-- mysql
-- bugzilla
-- troubleshooting
-- sys admin
-modified_time: '2009-11-10T22:28:00.731Z'
-blogger_id: tag:blogger.com,1999:blog-5082828566240519947.post-1315274421552207269
-blogger_orig_url: https://timwise.blogspot.com/2009/11/bugzilla-upgrades-and-user-tokens.html
----
++++
+title = "bugzilla upgrades and user tokens"
+date = "2009-11-08T18:12:00.006Z"
+[extra]
+modified_time = "2009-11-10T22:28:00.731Z"
+blogger_id = "tag:blogger.com,1999:blog-5082828566240519947.post-1315274421552207269"
+blogger_orig_url = "https://timwise.blogspot.com/2009/11/bugzilla-upgrades-and-user-tokens.html"
+[taxonomies]
+tags = ["mysql", "bugzilla", "troubleshooting", "sys admin"]
++++
 
 It's bugzilla upgrade time for my private install, and I have for the second time run into a strange issue with the tokens system. Since this is the second time and I know how to fix it, here it is for the record.
 

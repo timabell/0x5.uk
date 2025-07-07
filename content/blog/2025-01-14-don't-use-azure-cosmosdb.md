@@ -1,7 +1,6 @@
----
-title: "Don't use Azure CosmosDB"
-layout: post
----
++++
+title = "Don't use Azure CosmosDB"
++++
 
  Don't use Azure CosmosDB for your next project.
 

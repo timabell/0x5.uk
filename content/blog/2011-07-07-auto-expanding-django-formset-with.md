@@ -1,18 +1,13 @@
----
-layout: post
-title: Auto-expanding django formset with jQuery
-date: '2011-07-07T23:02:00.009Z'
-author: Tim Abell
-tags:
-- howto
-- dhtml
-- django
-- code
-- jQuery
-modified_time: '2011-07-08T23:00:55.354Z'
-blogger_id: tag:blogger.com,1999:blog-5082828566240519947.post-1390054549969590161
-blogger_orig_url: https://timwise.blogspot.com/2011/07/auto-expanding-django-formset-with.html
----
++++
+title = "Auto-expanding django formset with jQuery"
+date = "2011-07-07T23:02:00.009Z"
+[extra]
+modified_time = "2011-07-08T23:00:55.354Z"
+blogger_id = "tag:blogger.com,1999:blog-5082828566240519947.post-1390054549969590161"
+blogger_orig_url = "https://timwise.blogspot.com/2011/07/auto-expanding-django-formset-with.html"
+[taxonomies]
+tags = ["howto", "dhtml", "django", "code", "jQuery"]
++++
 
 As it took me quite a while to get it how I like it, here's the relevant bits for making a django formset (custom markup in a table), that automatically adds rows (formset forms) client-side / in the browser keeping up as you fill in the form.  
 

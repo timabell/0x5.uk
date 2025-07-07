@@ -1,17 +1,13 @@
----
-layout: post
-title: Multiple working folders for git on Windows XP
-date: '2011-11-16T09:46:00.011Z'
-author: Tim Abell
-tags:
-- howto
-- windows
-- git
-- ntfs
-modified_time: '2011-11-17T14:47:33.704Z'
-blogger_id: tag:blogger.com,1999:blog-5082828566240519947.post-2649869241370803794
-blogger_orig_url: https://timwise.blogspot.com/2011/11/multiple-working-folders-for-git-on.html
----
++++
+title = "Multiple working folders for git on Windows XP"
+date = "2011-11-16T09:46:00.011Z"
+[extra]
+modified_time = "2011-11-17T14:47:33.704Z"
+blogger_id = "tag:blogger.com,1999:blog-5082828566240519947.post-2649869241370803794"
+blogger_orig_url = "https://timwise.blogspot.com/2011/11/multiple-working-folders-for-git-on.html"
+[taxonomies]
+tags = ["howto", "windows", "git", "ntfs"]
++++
 
 Multiple working folders for git on Windows XP (lucky me)
 

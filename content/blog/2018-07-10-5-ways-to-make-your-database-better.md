@@ -1,9 +1,9 @@
----
-layout: post
-title: 5 ways to make your database better - by Tim Abell
-description: Step up your database game with these top tips.
-category: blog
----
++++
+title = "5 ways to make your database better - by Tim Abell"
+[extra]
+description = "Step up your database game with these top tips."
+category = "blog"
++++
 
 ## [1] Documentation
 

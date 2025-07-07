@@ -1,7 +1,6 @@
----
-title: Always Add Argument (Parameter) Names
-layout: post
----
++++
+title = "Always Add Argument (Parameter) Names"
++++
 
 An argument (lol) for the use of explicit argument names in C# function calls even when they seem redundant.
 

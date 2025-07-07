@@ -1,8 +1,9 @@
----
-title: "Play / 14th Oct"
-date: 2004-09-28
-slashdot_url: https://slashdot.org/journal/85200/play--14th-oct
----
++++
+title = "Play / 14th Oct"
+date = "2004-09-28T00:00:00+00:00"
+[extra]
+slashdot_url = "https://slashdot.org/journal/85200/play--14th-oct"
++++
 
 <p><a href="http://twyrusdrama.org.uk/Oct04.htm">http://twyrusdrama.org.uk/Oct04.htm</a></p>
 <p>Hello one and all,</p>

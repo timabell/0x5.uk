@@ -1,7 +1,6 @@
----
-title: "Tech lead lessons learned"
-layout: post
----
++++
+title = "Tech lead lessons learned"
++++
 
 1. Love Jira. The main method of ensuring the team builds the right thing at the right time is a quality & well ordered backlog.
 2. The team owns the stories and tickets. The tickets are just a tool for the team to manage the sheer volume of information and plans for what they want to build. If the team likes the tickets that's all that matters. Definition of ready should be defined by the team, bounce tickets that don't meet the standard.

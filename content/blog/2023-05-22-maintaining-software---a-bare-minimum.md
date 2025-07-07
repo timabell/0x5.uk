@@ -1,7 +1,6 @@
----
-title: Maintaining software - a bare minimum
-layout: post
----
++++
+title = "Maintaining software - a bare minimum"
++++
 
 All the press goes to new features, but there's a lot that has to happen just to stand still in software development.
 

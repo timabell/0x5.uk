@@ -1,8 +1,8 @@
----
-layout: post
-title: Blog refresh - bye bye wordpress, hello jekyll
-categories: [meta]
----
++++
+title = "Blog refresh - bye bye wordpress, hello jekyll"
+[taxonomies]
+categories = ["meta"]
++++
 
 The old blog is gone. Move over wordpress, long live [github
 pages](https://pages.github.com/).

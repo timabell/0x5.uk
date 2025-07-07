@@ -1,7 +1,6 @@
----
-title: "Running a beefy virtualbox dev server"
-layout: post
----
++++
+title = "Running a beefy virtualbox dev server"
++++
 
 ## Why
 

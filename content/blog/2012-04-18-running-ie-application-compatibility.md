@@ -1,19 +1,14 @@
----
-layout: post
-title: Running IE Application Compatibility VPC under Virtual Box
-date: '2012-04-18T21:59:00.005Z'
-author: Tim Abell
-tags:
-- virtualbox
-- workaround
-- vpc
-- windows
-- linux
-modified_time: '2013-09-09T19:58:02.140Z'
-thumbnail: http://2.bp.blogspot.com/-6nGRU7FIXbw/T487RpEWm5I/AAAAAAAAAE0/TPYAZzmUYy8/s72-c/sata-controller.png
-blogger_id: tag:blogger.com,1999:blog-5082828566240519947.post-1232309832274484466
-blogger_orig_url: https://timwise.blogspot.com/2012/04/running-ie-application-compatibility.html
----
++++
+title = "Running IE Application Compatibility VPC under Virtual Box"
+date = "2012-04-18T21:59:00.005Z"
+[extra]
+modified_time = "2013-09-09T19:58:02.140Z"
+thumbnail = "http://2.bp.blogspot.com/-6nGRU7FIXbw/T487RpEWm5I/AAAAAAAAAE0/TPYAZzmUYy8/s72-c/sata-controller.png"
+blogger_id = "tag:blogger.com,1999:blog-5082828566240519947.post-1232309832274484466"
+blogger_orig_url = "https://timwise.blogspot.com/2012/04/running-ie-application-compatibility.html"
+[taxonomies]
+tags = ["virtualbox", "workaround", "vpc", "windows", "linux"]
++++
 
 This post is no longer necessary as microsoft now provide official virtualbox
 images, yay!

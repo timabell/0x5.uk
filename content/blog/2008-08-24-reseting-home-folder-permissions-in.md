@@ -1,19 +1,13 @@
----
-layout: post
-title: reseting home folder permissions in ubuntu linux
-date: '2008-08-24T15:03:00.006Z'
-author: Tim Abell
-tags:
-- howto
-- ubuntu
-- linux
-- script
-- bash
-- sys admin
-modified_time: '2014-08-27T18:59:53.163Z'
-blogger_id: tag:blogger.com,1999:blog-5082828566240519947.post-7821587094191713961
-blogger_orig_url: https://timwise.blogspot.com/2008/08/reseting-home-folder-permissions-in.html
----
++++
+title = "reseting home folder permissions in ubuntu linux"
+date = "2008-08-24T15:03:00.006Z"
+[extra]
+modified_time = "2014-08-27T18:59:53.163Z"
+blogger_id = "tag:blogger.com,1999:blog-5082828566240519947.post-7821587094191713961"
+blogger_orig_url = "https://timwise.blogspot.com/2008/08/reseting-home-folder-permissions-in.html"
+[taxonomies]
+tags = ["howto", "ubuntu", "linux", "script", "bash", "sys admin"]
++++
 
 If you are like me and my coworkers, you often end up running stuff as root in
 your home folder and end up not able to access your own files.

@@ -1,8 +1,9 @@
----
-title: "message to motorola support"
-date: 2003-11-17
-slashdot_url: https://slashdot.org/journal/52397/message-to-motorola-support
----
++++
+title = "message to motorola support"
+date = "2003-11-17T00:00:00+00:00"
+[extra]
+slashdot_url = "https://slashdot.org/journal/52397/message-to-motorola-support"
++++
 
 <p>to: mcrc@ei.css.mot.co.uk<br>subject: support request</p>
 <p>Dear Sirs,</p>

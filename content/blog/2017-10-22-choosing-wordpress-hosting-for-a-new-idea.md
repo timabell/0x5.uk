@@ -1,10 +1,10 @@
----
-layout: post
-title: Choosing wordpress hosting for a new idea
-date: 2017-10-22 11:32:08.000000000 +01:00
-type: post
-permalink: "/2017/10/22/choosing-wordpress-hosting-for-a-new-idea/"
----
++++
+title = "Choosing wordpress hosting for a new idea"
+date = "2017-10-22T11:32:08+01:00"
+[extra]
+type = "post"
+permalink = "/2017/10/22/choosing-wordpress-hosting-for-a-new-idea/"
++++
 I need somewhere to keep the marketing site/content for my new [Sql Data Viewer](https://sqldataviewer.com/) product. (Since renamed to [SQL Schema Explorer](https://timabell.github.io/schema-explorer/).
 
 I could use [github pages](https://pages.github.com/) or something similar, but I've found the overhead of needing a dev environment to make any change puts me off getting things done. I've been using wordpress.com for this blog and am pretty happy, especially having a mobile app. I've also heard using wordpress makes it easier to outsource content/design if you have enough success to make that worthwhile.

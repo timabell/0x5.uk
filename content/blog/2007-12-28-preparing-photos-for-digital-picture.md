@@ -1,20 +1,13 @@
----
-layout: post
-title: Preparing photos for a digital picture frame
-date: '2007-12-28T19:28:00.003Z'
-author: Tim Abell
-tags:
-- photography
-- howto
-- ubuntu
-- hardware
-- linux
-- script
-- oss
-modified_time: '2008-10-04T23:47:09.540Z'
-blogger_id: tag:blogger.com,1999:blog-5082828566240519947.post-8312628495426408900
-blogger_orig_url: https://timwise.blogspot.com/2007/12/preparing-photos-for-digital-picture.html
----
++++
+title = "Preparing photos for a digital picture frame"
+date = "2007-12-28T19:28:00.003Z"
+[extra]
+modified_time = "2008-10-04T23:47:09.540Z"
+blogger_id = "tag:blogger.com,1999:blog-5082828566240519947.post-8312628495426408900"
+blogger_orig_url = "https://timwise.blogspot.com/2007/12/preparing-photos-for-digital-picture.html"
+[taxonomies]
+tags = ["photography", "howto", "ubuntu", "hardware", "linux", "script", "oss"]
++++
 
 Challenge of the day was to fit as many photos as possible on a single flash
 card to stick in a digital photo frame. Here's how it's done.

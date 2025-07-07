@@ -1,13 +1,12 @@
----
-layout: post
-title: Multi-room music at home
-date: '2007-03-16T17:09:00.000Z'
-author: Tim Abell
-tags: 
-modified_time: '2007-03-16T17:45:55.271Z'
-blogger_id: tag:blogger.com,1999:blog-5082828566240519947.post-40259322387808297
-blogger_orig_url: https://timwise.blogspot.com/2007/03/multi-room-music-at-home.html
----
++++
+title = "Multi-room music at home"
+date = "2007-03-16T17:09:00.000Z"
+[extra]
+tags = ""
+modified_time = "2007-03-16T17:45:55.271Z"
+blogger_id = "tag:blogger.com,1999:blog-5082828566240519947.post-40259322387808297"
+blogger_orig_url = "https://timwise.blogspot.com/2007/03/multi-room-music-at-home.html"
++++
 
 me and [slimserver](http://freshmeat.net/projects/slimserver/)  
 

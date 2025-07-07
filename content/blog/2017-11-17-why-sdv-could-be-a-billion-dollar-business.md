@@ -1,27 +1,14 @@
----
-layout: post
-title: Why SDV could be a billion dollar business
-date: 2017-11-17 23:10:48.000000000 +00:00
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories: []
-tags: []
-meta:
-  _wpcom_is_markdown: '1'
-  _rest_api_published: '1'
-  _rest_api_client_id: "-1"
-  _publicize_job_id: '11558131858'
-author:
-  login: timabell
-  email: tim@timwise.co.uk
-  display_name: timabell
-  first_name: ''
-  last_name: ''
-permalink: "/2017/11/17/why-sdv-could-be-a-billion-dollar-business/"
----
++++
+title = "Why SDV could be a billion dollar business"
+date = "2017-11-17T23:10:48+00:00"
+[extra]
+type = "post"
+parent_id = "0"
+published = true
+password = ""
+status = "publish"
+permalink = "/2017/11/17/why-sdv-could-be-a-billion-dollar-business/"
++++
 Okay maybe a billion is a long shot, but I read the Hiten Shah article on [how Trello could have been a $1B business](https://producthabits.com/why-trello-failed-to-build-a-1-billion-business/) (via [startup chat](https://thestartupchat.com/ep258/)) and was surprised to discover there are lessons for how I can turn [Sql Data Viewer](https://sqldataviewer.com/) into a sustainable business.
 
 What trello and SDV have in common:

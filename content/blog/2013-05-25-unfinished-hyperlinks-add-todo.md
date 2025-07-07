@@ -1,13 +1,12 @@
----
-layout: post
-title: Unfinished hyperlinks - add a todo
-date: '2013-05-25T10:03:00.001Z'
-author: Tim Abell
-tags:
-modified_time: '2014-11-07T15:22:19.522Z'
-blogger_id: tag:blogger.com,1999:blog-5082828566240519947.post-4587715440628289713
-blogger_orig_url: https://timwise.blogspot.com/2013/05/unfinished-hyperlinks-add-todo.html
----
++++
+title = "Unfinished hyperlinks - add a todo"
+date = "2013-05-25T10:03:00.001Z"
+[extra]
+tags = ""
+modified_time = "2014-11-07T15:22:19.522Z"
+blogger_id = "tag:blogger.com,1999:blog-5082828566240519947.post-4587715440628289713"
+blogger_orig_url = "https://timwise.blogspot.com/2013/05/unfinished-hyperlinks-add-todo.html"
++++
 
 Just a quick post;
 

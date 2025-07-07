@@ -1,19 +1,13 @@
----
-layout: post
-title: backuppc and windows vista
-date: '2009-10-23T01:51:00.005Z'
-author: Tim Abell
-tags:
-- howto
-- backup
-- vista
-- windows
-- linux
-- wip
-modified_time: '2009-10-24T22:29:34.727Z'
-blogger_id: tag:blogger.com,1999:blog-5082828566240519947.post-1285384210635406754
-blogger_orig_url: https://timwise.blogspot.com/2009/10/backuppc-and-windows-vista.html
----
++++
+title = "backuppc and windows vista"
+date = "2009-10-23T01:51:00.005Z"
+[extra]
+modified_time = "2009-10-24T22:29:34.727Z"
+blogger_id = "tag:blogger.com,1999:blog-5082828566240519947.post-1285384210635406754"
+blogger_orig_url = "https://timwise.blogspot.com/2009/10/backuppc-and-windows-vista.html"
+[taxonomies]
+tags = ["howto", "backup", "vista", "windows", "linux", "wip"]
++++
 
 Steps I took to get a [backuppc](http://backuppc.sourceforge.net/) server on an
 ubuntu 8.10 pc in order to be able to back up a windows vista business pc. I've

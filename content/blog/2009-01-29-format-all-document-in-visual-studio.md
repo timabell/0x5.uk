@@ -1,16 +1,13 @@
----
-layout: post
-title: format all documents in a visual studio solution
-date: '2009-01-29T11:49:00.011Z'
-author: Tim Abell
-tags:
-- macro
-- vb
-- visual studio
-modified_time: '2009-06-25T11:59:34.737Z'
-blogger_id: tag:blogger.com,1999:blog-5082828566240519947.post-8623933611307349730
-blogger_orig_url: https://timwise.blogspot.com/2009/01/format-all-document-in-visual-studio.html
----
++++
+title = "format all documents in a visual studio solution"
+date = "2009-01-29T11:49:00.011Z"
+[extra]
+modified_time = "2009-06-25T11:59:34.737Z"
+blogger_id = "tag:blogger.com,1999:blog-5082828566240519947.post-8623933611307349730"
+blogger_orig_url = "https://timwise.blogspot.com/2009/01/format-all-document-in-visual-studio.html"
+[taxonomies]
+tags = ["macro", "vb", "visual studio"]
++++
 
 Here's a handy macro script for visual studio I knocked together today.  It
 runs "edit, format document" on every document of the listed file types.

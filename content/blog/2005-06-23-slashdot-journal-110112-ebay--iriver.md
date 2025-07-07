@@ -1,8 +1,9 @@
----
-title: "eBay / iRiver"
-date: 2005-06-23
-slashdot_url: https://slashdot.org/journal/110112/ebay--iriver
----
++++
+title = "eBay / iRiver"
+date = "2005-06-23T00:00:00+00:00"
+[extra]
+slashdot_url = "https://slashdot.org/journal/110112/ebay--iriver"
++++
 
 <p>Gosh I really was annoyed on sunday!</p>
 <p>Having said all that, buy my stuff on eBay (again)!<br>I'll figure out an alternative another day, but it's gonna be tricky when eBay have market share and a fat advertising budget.<br>Never trust a company with a large advertising budget, they tend to discover advertising budget has a better ROI than investing in the product, motivating staff, providing customer support etc etc.</p>

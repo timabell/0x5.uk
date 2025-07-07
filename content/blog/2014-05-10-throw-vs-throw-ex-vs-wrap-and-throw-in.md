@@ -1,13 +1,12 @@
----
-layout: post
-title: throw vs throw ex vs wrap and throw in c-sharp
-date: '2014-05-10T10:23:00.000Z'
-author: Tim Abell
-tags:
-modified_time: '2014-05-10T10:37:34.821Z'
-blogger_id: tag:blogger.com,1999:blog-5082828566240519947.post-2291640492202610062
-blogger_orig_url: https://timwise.blogspot.com/2014/05/throw-vs-throw-ex-vs-wrap-and-throw-in.html
----
++++
+title = "throw vs throw ex vs wrap and throw in c-sharp"
+date = "2014-05-10T10:23:00.000Z"
+[extra]
+tags = ""
+modified_time = "2014-05-10T10:37:34.821Z"
+blogger_id = "tag:blogger.com,1999:blog-5082828566240519947.post-2291640492202610062"
+blogger_orig_url = "https://timwise.blogspot.com/2014/05/throw-vs-throw-ex-vs-wrap-and-throw-in.html"
++++
 
 I've come across the `throw` vs `throw ex` 'debate' a few times, even as an
 interview question, and it's always bugged me because it's never something I've

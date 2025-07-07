@@ -1,8 +1,8 @@
----
-title: "Why is reading bad code so painful?!"
-layout: post
-redirect_from: /2025/01/31/why-is-reading-bad-so-code-painful/
----
++++
+title = "Why is reading bad code so painful?!"
+[extra]
+redirect_from = "/2025/01/31/why-is-reading-bad-so-code-painful/"
++++
 
 🎙️ [Listen to the podcast episode here](https://pod.0x5.uk/29) 🎙️
 

@@ -1,28 +1,14 @@
----
-layout: post
-title: A Modern Digital Government Outsourcer
-date: 2018-10-30 14:19:26.000000000 +00:00
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories: []
-tags: []
-meta:
-  _wpcom_is_markdown: '1'
-  timeline_notification: '1540909167'
-  _rest_api_published: '1'
-  _rest_api_client_id: "-1"
-  _publicize_job_id: '23741556198'
-author:
-  login: timabell
-  email: tim@timwise.co.uk
-  display_name: timabell
-  first_name: ''
-  last_name: ''
-permalink: "/2018/10/30/a-modern-digital-government-outsourcer/"
----
++++
+title = "A Modern Digital Government Outsourcer"
+date = "2018-10-30T14:19:26+00:00"
+[extra]
+type = "post"
+parent_id = "0"
+published = true
+password = ""
+status = "publish"
+permalink = "/2018/10/30/a-modern-digital-government-outsourcer/"
++++
 I've done a few contracts for our dear government and an idea for a business is starting to form. Here is the first draft of these ideas as a starting point for discussion and improvement.
 
 ## The problem as I see it

@@ -1,8 +1,9 @@
----
-title: "bicycles"
-date: 2006-03-10
-slashdot_url: https://slashdot.org/journal/130984/bicycles
----
++++
+title = "bicycles"
+date = "2006-03-10T00:00:00+00:00"
+[extra]
+slashdot_url = "https://slashdot.org/journal/130984/bicycles"
++++
 
 <p>BBC News on new highway code:<br><a href="http://news.bbc.co.uk/1/hi/magazine/4789146.stm">http://news.bbc.co.uk/1/hi/magazine/4789146.stm</a></p>
 <p>Bad cycle lanes:<br><a href="http://www.warringtoncyclecampaign.co.uk/facility-of-the-month/">http://www.warringtoncyclecampaign.co.uk/facility-of-the-month/</a></p>

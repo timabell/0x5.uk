@@ -1,13 +1,12 @@
----
-layout: post
-title: Why publish open source when you are commercial?
-date: '2014-03-08T19:07:00.000Z'
-author: Tim Abell
-tags:
-modified_time: '2014-03-08T19:07:01.451Z'
-blogger_id: tag:blogger.com,1999:blog-5082828566240519947.post-5055561057000769363
-blogger_orig_url: https://timwise.blogspot.com/2014/03/why-publish-open-source-when-you-are.html
----
++++
+title = "Why publish open source when you are commercial?"
+date = "2014-03-08T19:07:00.000Z"
+[extra]
+tags = ""
+modified_time = "2014-03-08T19:07:01.451Z"
+blogger_id = "tag:blogger.com,1999:blog-5082828566240519947.post-5055561057000769363"
+blogger_orig_url = "https://timwise.blogspot.com/2014/03/why-publish-open-source-when-you-are.html"
++++
 
 Why open source your commercial projects?
 

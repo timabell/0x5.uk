@@ -1,7 +1,6 @@
----
-title: Effective GTD with Trello
-layout: post
----
++++
+title = "Effective GTD with Trello"
++++
 
 * Learn how I've refined the GTD process with Trello for modern living.
 * Get a template GTD board to kick-start your own.

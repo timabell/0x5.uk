@@ -1,18 +1,14 @@
----
-layout: post
-title: Don't trust audible.com, it's drm infected and they don't tell you
-date: '2008-07-23T22:28:00.006Z'
-author: Tim Abell
-tags:
-- rant
-- opinion
-- review
-- drm
-modified_time: '2008-07-24T18:21:38.453Z'
-thumbnail: http://farm4.static.flickr.com/3141/2697164218_1fc49eed23_t.jpg
-blogger_id: tag:blogger.com,1999:blog-5082828566240519947.post-3207018266105951792
-blogger_orig_url: https://timwise.blogspot.com/2008/07/dont-trust-audiblecom-its-drm-infected.html
----
++++
+title = "Don't trust audible.com, it's drm infected and they don't tell you"
+date = "2008-07-23T22:28:00.006Z"
+[extra]
+modified_time = "2008-07-24T18:21:38.453Z"
+thumbnail = "http://farm4.static.flickr.com/3141/2697164218_1fc49eed23_t.jpg"
+blogger_id = "tag:blogger.com,1999:blog-5082828566240519947.post-3207018266105951792"
+blogger_orig_url = "https://timwise.blogspot.com/2008/07/dont-trust-audiblecom-its-drm-infected.html"
+[taxonomies]
+tags = ["rant", "opinion", "review", "drm"]
++++
 
 If there's one thing I hate (there isn't, there's lots, but this is today's)
 it's companies being economical with the truth to get you to part with your

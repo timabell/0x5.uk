@@ -1,22 +1,14 @@
----
-layout: post
-title: Contract developer to entrepreneur - resources
-date: 2018-02-16 22:31:38.000000000 +00:00
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories: []
-tags: []
-author:
-  login: timabell
-  email: tim@timwise.co.uk
-  display_name: timabell
-  first_name: ''
-  last_name: ''
-permalink: "/2018/02/16/contract-developer-to-entrepreneur-resources/"
----
++++
+title = "Contract developer to entrepreneur - resources"
+date = "2018-02-16T22:31:38+00:00"
+[extra]
+type = "post"
+parent_id = "0"
+published = true
+password = ""
+status = "publish"
+permalink = "/2018/02/16/contract-developer-to-entrepreneur-resources/"
++++
 I'm not there yet so I'm no authority, but here's some things that I think are fab resources on my journey. They are helping me change my thought patterns and behaviour to make success more likely.
 
 ## Books (roughly in order of my journey)

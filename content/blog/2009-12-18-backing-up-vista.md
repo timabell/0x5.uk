@@ -1,13 +1,12 @@
----
-layout: post
-title: backing up Vista
-date: '2009-12-18T10:08:00.002Z'
-author: Tim Abell
-tags: 
-modified_time: '2009-12-18T11:57:06.028Z'
-blogger_id: tag:blogger.com,1999:blog-5082828566240519947.post-7478677393110232279
-blogger_orig_url: https://timwise.blogspot.com/2009/12/backing-up-vista.html
----
++++
+title = "backing up Vista"
+date = "2009-12-18T10:08:00.002Z"
+[extra]
+tags = ""
+modified_time = "2009-12-18T11:57:06.028Z"
+blogger_id = "tag:blogger.com,1999:blog-5082828566240519947.post-7478677393110232279"
+blogger_orig_url = "https://timwise.blogspot.com/2009/12/backing-up-vista.html"
++++
 
 So here's a tale of annoying things.  
 

@@ -1,8 +1,9 @@
----
-title: "Swimming"
-date: 2004-01-08
-slashdot_url: https://slashdot.org/journal/57574/swimming
----
++++
+title = "Swimming"
+date = "2004-01-08T00:00:00+00:00"
+[extra]
+slashdot_url = "https://slashdot.org/journal/57574/swimming"
++++
 
 <p>24 lengths today, but in a slightly dismal 40 minutes.</p>
 <p>Still I am getting better. Did much more front crawl today (still mostly half lengths) but did swallow/breath a fairly significant amount of chlorinated water.</p>

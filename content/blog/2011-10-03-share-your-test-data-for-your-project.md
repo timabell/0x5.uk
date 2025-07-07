@@ -1,17 +1,13 @@
----
-layout: post
-title: share your test data for your project
-date: '2011-10-03T10:39:00.002Z'
-author: Tim Abell
-tags:
-- data
-- coding
-- best practice
-- sql
-modified_time: '2011-10-03T10:41:47.394Z'
-blogger_id: tag:blogger.com,1999:blog-5082828566240519947.post-1927836286459223590
-blogger_orig_url: https://timwise.blogspot.com/2011/10/share-your-test-data-for-your-project.html
----
++++
+title = "share your test data for your project"
+date = "2011-10-03T10:39:00.002Z"
+[extra]
+modified_time = "2011-10-03T10:41:47.394Z"
+blogger_id = "tag:blogger.com,1999:blog-5082828566240519947.post-1927836286459223590"
+blogger_orig_url = "https://timwise.blogspot.com/2011/10/share-your-test-data-for-your-project.html"
+[taxonomies]
+tags = ["data", "coding", "best practice", "sql"]
++++
 
 <div>Thought for the day:</div>
 

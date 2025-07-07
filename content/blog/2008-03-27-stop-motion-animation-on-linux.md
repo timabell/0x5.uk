@@ -1,17 +1,13 @@
----
-layout: post
-title: stop motion animation on linux
-date: '2008-03-27T21:29:00.007Z'
-author: Tim Abell
-tags:
-- photography
-- howto
-- animation
-- linux
-modified_time: '2011-04-24T07:58:44.332Z'
-blogger_id: tag:blogger.com,1999:blog-5082828566240519947.post-4371985220813850741
-blogger_orig_url: https://timwise.blogspot.com/2008/03/stop-motion-animation-on-linux.html
----
++++
+title = "stop motion animation on linux"
+date = "2008-03-27T21:29:00.007Z"
+[extra]
+modified_time = "2011-04-24T07:58:44.332Z"
+blogger_id = "tag:blogger.com,1999:blog-5082828566240519947.post-4371985220813850741"
+blogger_orig_url = "https://timwise.blogspot.com/2008/03/stop-motion-animation-on-linux.html"
+[taxonomies]
+tags = ["photography", "howto", "animation", "linux"]
++++
 
 A quick howto...
 

@@ -1,8 +1,9 @@
----
-title: "Wrinkly hands"
-date: 2003-10-13
-slashdot_url: https://slashdot.org/journal/48982/wrinkly-hands
----
++++
+title = "Wrinkly hands"
+date = "2003-10-13T00:00:00+00:00"
+[extra]
+slashdot_url = "https://slashdot.org/journal/48982/wrinkly-hands"
++++
 
 <p>Did the washing up this evening.</p>
 <p>woo.</p>

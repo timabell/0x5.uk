@@ -1,8 +1,9 @@
----
-title: "ebay - buy my stuff"
-date: 2005-03-07
-slashdot_url: https://slashdot.org/journal/100196/ebay---buy-my-stuff
----
++++
+title = "ebay - buy my stuff"
+date = "2005-03-07T00:00:00+00:00"
+[extra]
+slashdot_url = "https://slashdot.org/journal/100196/ebay---buy-my-stuff"
++++
 
 <p>I am currently selling my prized posessions on eBay.</p>
 <ul> <li>cd player</li>

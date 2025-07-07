@@ -1,16 +1,13 @@
----
-layout: post
-title: Using Pidgin for IRC
-date: '2010-12-15T10:35:00.003Z'
-author: Tim Abell
-tags:
-- irc
-- open source
-- pidgin
-modified_time: '2010-12-15T10:39:50.788Z'
-blogger_id: tag:blogger.com,1999:blog-5082828566240519947.post-589107923468491077
-blogger_orig_url: https://timwise.blogspot.com/2010/12/using-pidgin-for-irc.html
----
++++
+title = "Using Pidgin for IRC"
+date = "2010-12-15T10:35:00.003Z"
+[extra]
+modified_time = "2010-12-15T10:39:50.788Z"
+blogger_id = "tag:blogger.com,1999:blog-5082828566240519947.post-589107923468491077"
+blogger_orig_url = "https://timwise.blogspot.com/2010/12/using-pidgin-for-irc.html"
+[taxonomies]
+tags = ["irc", "open source", "pidgin"]
++++
 
 [pidgin](http://pidgin.im/ "http://pidgin.im/") is quite a good irc client.
 

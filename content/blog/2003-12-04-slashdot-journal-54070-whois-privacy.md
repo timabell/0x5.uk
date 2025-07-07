@@ -1,8 +1,9 @@
----
-title: "WhoIs Privacy"
-date: 2003-12-04
-slashdot_url: https://slashdot.org/journal/54070/whois-privacy
----
++++
+title = "WhoIs Privacy"
+date = "2003-12-04T00:00:00+00:00"
+[extra]
+slashdot_url = "https://slashdot.org/journal/54070/whois-privacy"
++++
 
 <p>Just came accross <a href="http://www.internetprivacyadvocate.org/ProtectYourPersonalInfo.htm"> this</a>. Network Solutions wants to end publicising who owns domain names. My response follow:</p>
 <p>[x] I am not a Network Solutions customer<br>[x] The privacy of my personal data is important to me.<br>[ ] I support WHOIS rules that would limit online access to my personal information.<br>[ ] I offer strong support to proposals that promote personal privacy and rules that restrict providing my information to third-party organizations. This includes Network Solutions' proposal to the Internet Corporation for Assigned Names and Numbers (ICANN) to eliminate the Bulk WHOIS access obligation.</p>

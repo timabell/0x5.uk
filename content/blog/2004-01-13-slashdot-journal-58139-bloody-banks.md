@@ -1,8 +1,9 @@
----
-title: "Bloody Banks"
-date: 2004-01-13
-slashdot_url: https://slashdot.org/journal/58139/bloody-banks
----
++++
+title = "Bloody Banks"
+date = "2004-01-13T00:00:00+00:00"
+[extra]
+slashdot_url = "https://slashdot.org/journal/58139/bloody-banks"
++++
 
 <p>Cahoot just managed to cost me 80 pounds, in a day.</p>
 <p>==============================<br>To: service.relationship.team@cahoot.com<br>Subject: Banking error.</p>

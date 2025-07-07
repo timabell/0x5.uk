@@ -1,8 +1,8 @@
----
-title: Why every team needs a Delivery Manager (DM)
-description: The modern agile dev team has a new structure
-layout: post
----
++++
+title = "Why every team needs a Delivery Manager (DM)"
+[extra]
+description = "The modern agile dev team has a new structure"
++++
 
 I was explaining to someone the team structure I'm working in at the Department
 for Education's [DfE Digital](https://dfedigital.blog.gov.uk/) and realised not

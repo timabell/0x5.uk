@@ -1,8 +1,9 @@
----
-title: "April showers came early. MS vendor lock in."
-date: 2005-03-31
-slashdot_url: https://slashdot.org/journal/102509/april-showers-came-early-ms-vendor-lock-in
----
++++
+title = "April showers came early. MS vendor lock in."
+date = "2005-03-31T00:00:00+00:00"
+[extra]
+slashdot_url = "https://slashdot.org/journal/102509/april-showers-came-early-ms-vendor-lock-in"
++++
 
 <p>So, I went to the pub last night with my neighbour, which was nice. And we went on our bikes, which was nice. And we had a couple of drinks, which was nice. And we went outside to go home, and it was pouring with rain, which was interesting. So we got soaked.</p>
 <p>Going to an MSDN evening later. Bit of professional development.</p>

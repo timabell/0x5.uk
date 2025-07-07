@@ -1,8 +1,9 @@
----
-title: "google funds open source development"
-date: 2005-06-02
-slashdot_url: https://slashdot.org/journal/108390/google-funds-open-source-development
----
++++
+title = "google funds open source development"
+date = "2005-06-02T00:00:00+00:00"
+[extra]
+slashdot_url = "https://slashdot.org/journal/108390/google-funds-open-source-development"
++++
 
 <p>This is a welcome boost for open source.<br>Shame i'm no longer a student.</p>
 <p>-------- Original Message --------<br>Subject:     Google sponsors Nmap summer student developers<br>Date:     Thu, 2 Jun 2005 02:56:52 -0700<br>From:     Fyodor <br>To:     nmap-hackers@insecure.org</p>

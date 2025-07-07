@@ -1,18 +1,13 @@
----
-layout: post
-title: Data driven test in NUnit with csv source data
-date: '2011-05-23T09:38:00.004Z'
-author: Tim Abell
-tags:
-- csv
-- c#
-- visual studio
-- tdd
-- NUnit
-modified_time: '2014-05-11T14:09:23.853Z'
-blogger_id: tag:blogger.com,1999:blog-5082828566240519947.post-7979159669115124674
-blogger_orig_url: https://timwise.blogspot.com/2011/05/data-driven-test-in-nunit-with-csv.html
----
++++
+title = "Data driven test in NUnit with csv source data"
+date = "2011-05-23T09:38:00.004Z"
+[extra]
+modified_time = "2014-05-11T14:09:23.853Z"
+blogger_id = "tag:blogger.com,1999:blog-5082828566240519947.post-7979159669115124674"
+blogger_orig_url = "https://timwise.blogspot.com/2011/05/data-driven-test-in-nunit-with-csv.html"
+[taxonomies]
+tags = ["csv", "c#", "visual studio", "tdd", "NUnit"]
++++
 
 I wanted to test a date parser across a large range of values so wanted a simple test harness to test all the values.  
 

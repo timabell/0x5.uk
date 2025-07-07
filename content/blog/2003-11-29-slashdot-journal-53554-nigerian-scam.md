@@ -1,8 +1,9 @@
----
-title: "Nigerian Scam"
-date: 2003-11-29
-slashdot_url: https://slashdot.org/journal/53554/nigerian-scam
----
++++
+title = "Nigerian Scam"
+date = "2003-11-29T00:00:00+00:00"
+[extra]
+slashdot_url = "https://slashdot.org/journal/53554/nigerian-scam"
++++
 
 <p>Edit: Apparently indiatimes is genuine. (sorry! India Times) must've been just a webmail account. Couldn't see half the site from home. Oh well. Maybe this isn't so exciting then. -4/12/03<br>------------------------------------------</p>
 <p>Thought I'd do some detective work today.<br>This is a bit of an obtuse one, but here goes anyway.</p>

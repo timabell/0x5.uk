@@ -1,7 +1,6 @@
----
-title: Exceptions vs Wrapper Return Types
-layout: post
----
++++
+title = "Exceptions vs Wrapper Return Types"
++++
 
 ## The possibilities
 

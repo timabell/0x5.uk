@@ -1,15 +1,13 @@
----
-layout: post
-title: Blocking web adverts
-date: '2007-07-02T21:23:00.000Z'
-author: Tim Abell
-tags:
-- howto
-- firefox
-modified_time: '2008-07-26T15:33:40.548Z'
-blogger_id: tag:blogger.com,1999:blog-5082828566240519947.post-563864958843610830
-blogger_orig_url: https://timwise.blogspot.com/2007/07/blocking-web-adverts.html
----
++++
+title = "Blocking web adverts"
+date = "2007-07-02T21:23:00.000Z"
+[extra]
+modified_time = "2008-07-26T15:33:40.548Z"
+blogger_id = "tag:blogger.com,1999:blog-5082828566240519947.post-563864958843610830"
+blogger_orig_url = "https://timwise.blogspot.com/2007/07/blocking-web-adverts.html"
+[taxonomies]
+tags = ["howto", "firefox"]
++++
 
 A friend asked me to write this up.  
 

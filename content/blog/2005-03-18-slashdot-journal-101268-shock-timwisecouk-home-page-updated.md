@@ -1,8 +1,9 @@
----
-title: "shock! timwise.co.uk home page updated!"
-date: 2005-03-18
-slashdot_url: https://slashdot.org/journal/101268/shock-timwisecouk-home-page-updated
----
++++
+title = "shock! timwise.co.uk home page updated!"
+date = "2005-03-18T00:00:00+00:00"
+[extra]
+slashdot_url = "https://slashdot.org/journal/101268/shock-timwisecouk-home-page-updated"
++++
 
 <p>About time too.</p>
 <p>You can now see my complete set of browser bookmarks from my website. Pretty much updated daily.<br>Still a lot of tidying up to do as I've just shoved all my disparate bookmarks together. It's done with a bookmark synching extension for firefox, and it allows to keep all my bookmarks the same across computers / OSs profiles.</p>

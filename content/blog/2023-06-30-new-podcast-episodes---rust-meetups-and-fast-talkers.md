@@ -1,7 +1,6 @@
----
-title: New podcast episodes - rust meetups and fast talkers
-layout: post
----
++++
+title = "New podcast episodes - rust meetups and fast talkers"
++++
 
 If you're a podcast lover and interested in tech you might be interested in the two new episodes I've published this week
 

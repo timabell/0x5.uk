@@ -1,11 +1,11 @@
----
-layout: post
-title: Startup competitors - Data Viewer
-date: 2017-01-17 01:55:27.000000000 +00:00
-categories: []
-categories: [sdv, startup]
-permalink: "/2017/01/17/startup-competitors-data-viewer/"
----
++++
+title = "Startup competitors - Data Viewer"
+date = "2017-01-17T01:55:27+00:00"
+[extra]
+permalink = "/2017/01/17/startup-competitors-data-viewer/"
+[taxonomies]
+categories = ["sdv", "startup"]
++++
 
 If you follow my ramblings you might know that I've revived my interest in
 creating a commercial tool to help devs, dbas etc browse their sql databases.

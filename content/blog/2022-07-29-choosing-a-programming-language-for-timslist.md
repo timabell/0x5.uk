@@ -1,7 +1,6 @@
----
-title: Choosing a programming language for timslist
-layout: post
----
++++
+title = "Choosing a programming language for timslist"
++++
 
 I'm working on a new thing, [timslist.uk](https://timslist.uk/), and of course with the first thing out the way (a domain), the second thing is the choice of programming language. Excuse me, I'll be back in a few years with an answer.
 

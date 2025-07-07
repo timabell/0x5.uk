@@ -1,8 +1,9 @@
----
-title: "Wow. I've never had it so good."
-date: 2004-07-11
-slashdot_url: https://slashdot.org/journal/77075/wow-ive-never-had-it-so-good
----
++++
+title = "Wow. I've never had it so good."
+date = "2004-07-11T00:00:00+00:00"
+[extra]
+slashdot_url = "https://slashdot.org/journal/77075/wow-ive-never-had-it-so-good"
++++
 
 <p>Life could not be better.</p>
 <p>I haven't been this happy for many years. It really hit me when I was driving home tonight from seeing andy 'n co. I was half way home when I felt this huge wave of happiness course through my veins and I broke into a huge uncontrollable smile. It lasted for ages, and I'm still glowing.   (<nobr> </nobr>:^D)</p>

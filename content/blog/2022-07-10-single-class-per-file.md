@@ -1,7 +1,6 @@
----
-title: Single class per file
-layout: post
----
++++
+title = "Single class per file"
++++
 
 Reasons you should prefer a single `class` / `interface` / `record` / `enum` / `struct` per file in C# projects.
 

@@ -1,14 +1,13 @@
----
-layout: post
-title: Installing ruby 2 + Rails 4 on Ubuntu 12.04 LTS
-date: '2013-05-13T10:29:00.000Z'
-author: Tim Abell
-tags:
-- ruby
-modified_time: '2014-10-16T17:36:56.124Z'
-blogger_id: tag:blogger.com,1999:blog-5082828566240519947.post-8035590818501389253
-blogger_orig_url: https://timwise.blogspot.com/2013/05/installing-ruby-2-rails-4-on-ubuntu.html
----
++++
+title = "Installing ruby 2 + Rails 4 on Ubuntu 12.04 LTS"
+date = "2013-05-13T10:29:00.000Z"
+[extra]
+modified_time = "2014-10-16T17:36:56.124Z"
+blogger_id = "tag:blogger.com,1999:blog-5082828566240519947.post-8035590818501389253"
+blogger_orig_url = "https://timwise.blogspot.com/2013/05/installing-ruby-2-rails-4-on-ubuntu.html"
+[taxonomies]
+tags = ["ruby"]
++++
 
 Installing [Ruby](http://www.ruby-lang.org/) 2 + [Rails](http://rubyonrails.org/) 4 on [Ubuntu](http://www.ubuntu.com/) 12.04 LTS
 

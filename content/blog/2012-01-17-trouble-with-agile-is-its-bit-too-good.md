@@ -1,13 +1,13 @@
----
-layout: post
-title: The trouble with agile is it's a bit too good
-date: '2012-01-17T03:21:00.013Z'
-author: Tim Abell
-categories: [niggle, agile, project management]
-modified_time: '2012-01-17T09:56:42.349Z'
-blogger_id: tag:blogger.com,1999:blog-5082828566240519947.post-2568814673689579544
-blogger_orig_url: https://timwise.blogspot.com/2012/01/trouble-with-agile-is-its-bit-too-good.html
----
++++
+title = "The trouble with agile is it's a bit too good"
+date = "2012-01-17T03:21:00.013Z"
+[extra]
+modified_time = "2012-01-17T09:56:42.349Z"
+blogger_id = "tag:blogger.com,1999:blog-5082828566240519947.post-2568814673689579544"
+blogger_orig_url = "https://timwise.blogspot.com/2012/01/trouble-with-agile-is-its-bit-too-good.html"
+[taxonomies]
+categories = ["niggle", "agile", "project management"]
++++
 
 So you've gone **Agile!** Woo! Well done! You've escaped the last millennium's
 software practices at last! And boy do you feel in *control* at last! The

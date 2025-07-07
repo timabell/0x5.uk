@@ -1,22 +1,14 @@
----
-layout: post
-title: Building a Windows 10 Development VM from scratch
-date: 2018-04-01 20:10:54.000000000 +01:00
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories: []
-tags: []
-author:
-  login: timabell
-  email: tim@timwise.co.uk
-  display_name: timabell
-  first_name: ''
-  last_name: ''
-permalink: "/2018/04/01/building-a-windows-10-development-vm-from-scratch/"
----
++++
+title = "Building a Windows 10 Development VM from scratch"
+date = "2018-04-01T20:10:54+01:00"
+[extra]
+type = "post"
+parent_id = "0"
+published = true
+password = ""
+status = "publish"
+permalink = "/2018/04/01/building-a-windows-10-development-vm-from-scratch/"
++++
 
 Rebuilding windows dev VM from scratch, reminds me why people put up an old build for so long. What a painful process!
 

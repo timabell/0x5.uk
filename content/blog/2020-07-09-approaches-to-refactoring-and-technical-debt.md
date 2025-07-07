@@ -1,7 +1,6 @@
----
-title: Approaches to refactoring, technical debt and legacy code
-layout: post
----
++++
+title = "Approaches to refactoring, technical debt and legacy code"
++++
 
 Sometimes a codebase has an overwhelming amount of "terrible" stuff that as a developer you almost can't help but just diving in and fixing it. Doing this without thinking too hard can result in many variations of failure, such as:
 

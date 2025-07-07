@@ -1,8 +1,9 @@
----
-title: "Pay as you drive won't work because..."
-date: 2005-06-06
-slashdot_url: https://slashdot.org/journal/108638/pay-as-you-drive-wont-work-because
----
++++
+title = "Pay as you drive won't work because..."
+date = "2005-06-06T00:00:00+00:00"
+[extra]
+slashdot_url = "https://slashdot.org/journal/108638/pay-as-you-drive-wont-work-because"
++++
 
 <p><a href="http://news.bbc.co.uk/1/hi/uk/4610755.stm">http://news.bbc.co.uk/1/hi/uk/4610755.stm</a></p>
 <ul>

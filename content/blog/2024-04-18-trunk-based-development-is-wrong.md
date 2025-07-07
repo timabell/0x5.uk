@@ -1,7 +1,6 @@
----
-title: "Trunk based (mainline) development is (mostly) wrong"
-layout: post
----
++++
+title = "Trunk based (mainline) development is (mostly) wrong"
++++
 
 ## Mainlining
 

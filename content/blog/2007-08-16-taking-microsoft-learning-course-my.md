@@ -1,19 +1,13 @@
----
-layout: post
-title: Taking a Microsoft Learning course - my experience so far
-date: '2007-08-16T21:20:00.000Z'
-author: Tim Abell
-tags:
-- asp.net
-- mcts
-- mcp
-- review
-- training
-- microsoft
-modified_time: '2007-08-16T21:42:23.978Z'
-blogger_id: tag:blogger.com,1999:blog-5082828566240519947.post-1599238885761070900
-blogger_orig_url: https://timwise.blogspot.com/2007/08/taking-microsoft-learning-course-my.html
----
++++
+title = "Taking a Microsoft Learning course - my experience so far"
+date = "2007-08-16T21:20:00.000Z"
+[extra]
+modified_time = "2007-08-16T21:42:23.978Z"
+blogger_id = "tag:blogger.com,1999:blog-5082828566240519947.post-1599238885761070900"
+blogger_orig_url = "https://timwise.blogspot.com/2007/08/taking-microsoft-learning-course-my.html"
+[taxonomies]
+tags = ["asp.net", "mcts", "mcp", "review", "training", "microsoft"]
++++
 
 I am currently studying for a Microsoft ASP.NET qualification  
 [MCTS: .NET Framework 2.0 Web Applications](http://www.microsoft.com/learning/mcp/mcts/webapps/default.mspx).  

@@ -1,8 +1,9 @@
----
-title: "bluetooth headset & old pc with new cable modem"
-date: 2003-11-22
-slashdot_url: https://slashdot.org/journal/52940/bluetooth-headset-old-pc-with-new-cable-modem
----
++++
+title = "bluetooth headset & old pc with new cable modem"
+date = "2003-11-22T00:00:00+00:00"
+[extra]
+slashdot_url = "https://slashdot.org/journal/52940/bluetooth-headset-old-pc-with-new-cable-modem"
++++
 
 <p>Hello my loyal fanbase. (of me reading my own journal - hello me).</p>
 <p>Voice dialling seems to be working on my headset now. Woo. Still not sure it's acting quite how it should.</p>

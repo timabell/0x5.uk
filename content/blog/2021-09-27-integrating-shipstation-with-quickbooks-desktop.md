@@ -1,7 +1,6 @@
----
-title: Integrating ShipStation with QuickBooks Desktop
-layout: post
----
++++
+title = "Integrating ShipStation with QuickBooks Desktop"
++++
 
 A possible customer of my [new eCommerce Integration
 business](https://ecommerceintegrations.co.uk/) popped up with an interesting

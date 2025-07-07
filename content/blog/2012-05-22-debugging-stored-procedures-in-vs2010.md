@@ -1,14 +1,13 @@
----
-layout: post
-title: Debugging stored procedures in VS2010 / SQL Express
-date: '2012-05-22T16:58:00.000Z'
-author: Tim Abell
-tags:
-modified_time: '2014-10-16T17:40:31.093Z'
-thumbnail: http://1.bp.blogspot.com/-v43Zoh8QMUc/T7vIRbLcQ1I/AAAAAAAAAFo/465qvN6CYFM/s72-c/debug-t-sql-attach.png
-blogger_id: tag:blogger.com,1999:blog-5082828566240519947.post-2656726104783111677
-blogger_orig_url: https://timwise.blogspot.com/2012/05/debugging-stored-procedures-in-vs2010.html
----
++++
+title = "Debugging stored procedures in VS2010 / SQL Express"
+date = "2012-05-22T16:58:00.000Z"
+[extra]
+tags = ""
+modified_time = "2014-10-16T17:40:31.093Z"
+thumbnail = "http://1.bp.blogspot.com/-v43Zoh8QMUc/T7vIRbLcQ1I/AAAAAAAAAFo/465qvN6CYFM/s72-c/debug-t-sql-attach.png"
+blogger_id = "tag:blogger.com,1999:blog-5082828566240519947.post-2656726104783111677"
+blogger_orig_url = "https://timwise.blogspot.com/2012/05/debugging-stored-procedures-in-vs2010.html"
++++
 
 Debugging stored procs in a _local_ SQL Express install with Visual Studio
 2010.

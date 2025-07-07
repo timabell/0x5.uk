@@ -1,8 +1,8 @@
----
-layout: post
-title: Setting up a static website/blog with jekyll
-categories: [howto,backstage]
----
++++
+title = "Setting up a static website/blog with jekyll"
+[taxonomies]
+categories = ["howto", "backstage"]
++++
 
 A couple of people asked me for more info on my new blog setup here's a rough
 outline of what's involved in setup and posting. There are *many* ways of doing

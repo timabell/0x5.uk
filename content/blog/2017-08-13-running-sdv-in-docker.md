@@ -1,22 +1,14 @@
----
-layout: post
-title: Running sdv in docker
-date: 2017-08-13 20:35:14.000000000 +01:00
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories: []
-tags: []
-author:
-  login: timabell
-  email: tim@timwise.co.uk
-  display_name: timabell
-  first_name: ''
-  last_name: ''
-permalink: "/2017/08/13/running-sdv-in-docker/"
----
++++
+title = "Running sdv in docker"
+date = "2017-08-13T20:35:14+01:00"
+[extra]
+type = "post"
+parent_id = "0"
+published = true
+password = ""
+status = "publish"
+permalink = "/2017/08/13/running-sdv-in-docker/"
++++
 Just bought a shared server with [bytemark](https://www.bytemark.co.uk/). (£10/month), Installed vanilla ubuntu 16.04LTS server using the control panel (virtually one-click).
 
 ![Servers - Bytemark Manager - Mozilla Firefox_143]({{ site.baseurl }}/assets/servers-bytemark-manager-mozilla-firefox_143.png)

@@ -1,16 +1,13 @@
----
-layout: post
-title: Git, Windows and Line endings
-date: '2012-01-11T09:05:00.009Z'
-author: Tim Abell
-tags:
-- windows
-- git
-- critique
-modified_time: '2012-05-10T10:36:45.076Z'
-blogger_id: tag:blogger.com,1999:blog-5082828566240519947.post-5718834994106059896
-blogger_orig_url: https://timwise.blogspot.com/2012/01/git-windows-and-line-endings.html
----
++++
+title = "Git, Windows and Line endings"
+date = "2012-01-11T09:05:00.009Z"
+[extra]
+modified_time = "2012-05-10T10:36:45.076Z"
+blogger_id = "tag:blogger.com,1999:blog-5082828566240519947.post-5718834994106059896"
+blogger_orig_url = "https://timwise.blogspot.com/2012/01/git-windows-and-line-endings.html"
+[taxonomies]
+tags = ["windows", "git", "critique"]
++++
 
 I have come to the unfortunate conclusion that git is not the perfect tool for
 teams developing exclusively on Windows. And by that I mean, I cannot recommend

@@ -1,7 +1,6 @@
----
-title: Why I made SQL Schema Explorer open source
-layout: post
----
++++
+title = "Why I made SQL Schema Explorer open source"
++++
 
 # What is SQL Schema Explorer?
 

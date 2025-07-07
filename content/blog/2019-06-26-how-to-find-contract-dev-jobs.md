@@ -1,8 +1,8 @@
----
-title: How to find contract developer clients
-layout: post
-categories: [contracting,resources]
----
++++
+title = "How to find contract developer clients"
+[taxonomies]
+categories = ["contracting", "resources"]
++++
 
 ## Handling recruiters
 

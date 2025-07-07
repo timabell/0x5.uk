@@ -1,8 +1,9 @@
----
-title: "beer, linux & aaar."
-date: 2004-03-24
-slashdot_url: https://slashdot.org/journal/66222/beer-linux-aaar
----
++++
+title = "beer, linux & aaar."
+date = "2004-03-24T00:00:00+00:00"
+[extra]
+slashdot_url = "https://slashdot.org/journal/66222/beer-linux-aaar"
++++
 
 <p>Was going to write yesterday but things have been on code "aaaaaarrr" lately due to absence of J.</p>
 <p>Exercise this week: nil (apart from commutating)<br>Beer this week: (b)(b)(b)(b)(b)(b)(b)(b)(b)</p>

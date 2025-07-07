@@ -1,8 +1,9 @@
----
-title: "Now I'm annoyed"
-date: 2004-09-14
-slashdot_url: https://slashdot.org/journal/83729/now-im-annoyed
----
++++
+title = "Now I'm annoyed"
+date = "2004-09-14T00:00:00+00:00"
+[extra]
+slashdot_url = "https://slashdot.org/journal/83729/now-im-annoyed"
++++
 
 <p>Once again I've been threatened by the BBC.<br>Edited image of the <a href="http://www.timwise.co.uk/images/threat_sm_ed.jpg">most recent letter</a> [48Kb]</p>
 <p>I've reeled of a letter to white dot to see it they can help, or know of people who are similarly irritated.</p>

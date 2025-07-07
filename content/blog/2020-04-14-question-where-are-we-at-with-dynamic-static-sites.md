@@ -1,7 +1,6 @@
----
-title: "Question: where are we at with dynamic static sites?"
-layout: post
----
++++
+title = "Question: where are we at with dynamic static sites?"
++++
 
 So tell me about dynamic static sites...
 

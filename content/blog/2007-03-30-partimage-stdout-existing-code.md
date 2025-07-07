@@ -1,16 +1,13 @@
----
-layout: post
-title: partimage + stdout, existing code
-date: '2007-03-30T00:09:00.000Z'
-author: Tim Abell
-tags:
-- partimage
-- dev
-- project
-modified_time: '2007-03-30T00:31:05.036Z'
-blogger_id: tag:blogger.com,1999:blog-5082828566240519947.post-5846736757234824293
-blogger_orig_url: https://timwise.blogspot.com/2007/03/partimage-stdout-existing-code.html
----
++++
+title = "partimage + stdout, existing code"
+date = "2007-03-30T00:09:00.000Z"
+[extra]
+modified_time = "2007-03-30T00:31:05.036Z"
+blogger_id = "tag:blogger.com,1999:blog-5082828566240519947.post-5846736757234824293"
+blogger_orig_url = "https://timwise.blogspot.com/2007/03/partimage-stdout-existing-code.html"
+[taxonomies]
+tags = ["partimage", "dev", "project"]
++++
 
 On first inspection it looks like some code already exists for writing an image to stdout (standard output).  
 

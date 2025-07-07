@@ -1,22 +1,14 @@
----
-layout: post
-title: Down with SDV! long live SSE!
-date: 2017-12-29 02:59:54.000000000 +00:00
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories: []
-tags: []
-author:
-  login: timabell
-  email: tim@timwise.co.uk
-  display_name: timabell
-  first_name: ''
-  last_name: ''
-permalink: "/2017/12/29/down-with-sdv-long-live-sse/"
----
++++
+title = "Down with SDV! long live SSE!"
+date = "2017-12-29T02:59:54+00:00"
+[extra]
+type = "post"
+parent_id = "0"
+published = true
+password = ""
+status = "publish"
+permalink = "/2017/12/29/down-with-sdv-long-live-sse/"
++++
 I can't keep up with myself on this startup journey, but I hope I can give you a peek into my journey as I go. I've had couple of revelations recently which I'll explain here:
 
 ## Discovering your needs

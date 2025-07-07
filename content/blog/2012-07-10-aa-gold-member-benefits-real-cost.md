@@ -1,14 +1,13 @@
----
-layout: post
-title: AA Gold member benefits, the real cost
-date: '2012-07-10T19:13:00.000Z'
-author: Tim Abell
-tags:
-modified_time: '2012-07-21T18:01:03.574Z'
-thumbnail: http://1.bp.blogspot.com/-A4lqKF45sig/T_x3sQI1LxI/AAAAAAAAAHE/b0U0t-K1vZE/s72-c/20120710_001.jpg
-blogger_id: tag:blogger.com,1999:blog-5082828566240519947.post-6561884291165371407
-blogger_orig_url: https://timwise.blogspot.com/2012/07/aa-gold-member-benefits-real-cost.html
----
++++
+title = "AA Gold member benefits, the real cost"
+date = "2012-07-10T19:13:00.000Z"
+[extra]
+tags = ""
+modified_time = "2012-07-21T18:01:03.574Z"
+thumbnail = "http://1.bp.blogspot.com/-A4lqKF45sig/T_x3sQI1LxI/AAAAAAAAAHE/b0U0t-K1vZE/s72-c/20120710_001.jpg"
+blogger_id = "tag:blogger.com,1999:blog-5082828566240519947.post-6561884291165371407"
+blogger_orig_url = "https://timwise.blogspot.com/2012/07/aa-gold-member-benefits-real-cost.html"
++++
 
 # Breakdown cover maths
 

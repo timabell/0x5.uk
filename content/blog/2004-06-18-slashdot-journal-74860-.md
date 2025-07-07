@@ -1,8 +1,9 @@
----
-title: "**No Title**"
-date: 2004-06-18
-slashdot_url: https://slashdot.org/journal/74860/
----
++++
+title = "**No Title**"
+date = "2004-06-18T00:00:00+00:00"
+[extra]
+slashdot_url = "https://slashdot.org/journal/74860/"
++++
 
 <p>Just read something Ellen wrote for me years ago whilst going through some of my paper.</p>
 <p>Made me think.</p>

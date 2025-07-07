@@ -1,32 +1,14 @@
----
-layout: post
-title: Dustbin of ideas - IT Contractor Buddy
-date: 2017-05-12 12:32:07.000000000 +01:00
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories: []
-tags: []
-meta:
-  _wpcom_is_markdown: '1'
-  _rest_api_published: '1'
-  _rest_api_client_id: "-1"
-  _publicize_job_id: '4968885356'
-  _oembed_b18e108ecbda6b213fbf652d7abfff20: "{{unknown}}"
-  _oembed_0422473dff236b3c5dada18fd5a04f01: <a href="https://www.flickr.com/photos/tim_abell/32091991176/"><img
-    src="https://farm1.staticflickr.com/765/32091991176_0f19b14a2f.jpg" alt="New cycle
-    route, green park - closed at night, wtf" width="500" height="374" /></a>
-  _oembed_time_0422473dff236b3c5dada18fd5a04f01: '1510990525'
-author:
-  login: timabell
-  email: tim@timwise.co.uk
-  display_name: timabell
-  first_name: ''
-  last_name: ''
-permalink: "/2017/05/12/dustbin-of-ideas-it-contractor-buddy/"
----
++++
+title = "Dustbin of ideas - IT Contractor Buddy"
+date = "2017-05-12T12:32:07+01:00"
+[extra]
+type = "post"
+parent_id = "0"
+published = true
+password = ""
+status = "publish"
+permalink = "/2017/05/12/dustbin-of-ideas-it-contractor-buddy/"
++++
 I've talked to a couple of people experienced in the recruitment industry and it appears that the [contractor buddy](http://blog.timwise.co.uk/2017/05/03/it-contractor-buddy/) business idea has some fatal flaws and is unlikely to succeed.
 
 You might be surprised to hear that I consider this a success on my journey to startup success.

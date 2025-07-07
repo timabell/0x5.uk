@@ -1,8 +1,9 @@
----
-title: "some things I'm happy about"
-date: 2005-05-23
-slashdot_url: https://slashdot.org/journal/107567/some-things-im-happy-about
----
++++
+title = "some things I'm happy about"
+date = "2005-05-23T00:00:00+00:00"
+[extra]
+slashdot_url = "https://slashdot.org/journal/107567/some-things-im-happy-about"
++++
 
 <p>I cycled to work every day since Wednesday. That's 4 days now<nobr> </nobr>:) and 72 miles. Also have all the right clips for pump etc now.</p>
 <p>Really getting stuck into new project at work, which is good.</p>

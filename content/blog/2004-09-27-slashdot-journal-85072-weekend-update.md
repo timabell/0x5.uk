@@ -1,8 +1,9 @@
----
-title: "weekend update"
-date: 2004-09-27
-slashdot_url: https://slashdot.org/journal/85072/weekend-update
----
++++
+title = "weekend update"
+date = "2004-09-27T00:00:00+00:00"
+[extra]
+slashdot_url = "https://slashdot.org/journal/85072/weekend-update"
++++
 
 <p>Ok, it's been a while, and between now and then there was a super weekend.</p>
 <p>Saturday. Spur of the moment cultural day with my super mate D. We went to see <a href="http://www.londontown.com/LondonEvents/Democracy/455d7">Democracy</a> at Wyndham's in the West End. The play provided fascinating insight into post war German politics. In the opening scene I thought I was not going to understand anything due to my not exactly perfect knowledge of German history, however it quickly became evident that the substance was a brilliant analysis of the personal feelings and motivations of those governing both West and East Germany up till the fall of the Berlin wall and nothing was presumed of the audience's knowledge. A scintillating two and a half hours.</p>

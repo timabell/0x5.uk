@@ -1,23 +1,16 @@
----
-layout: post
-title: IT Contractor buddy
-date: 2017-05-03 13:31:51.000000000 +01:00
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories: []
-tags:
-- startup
-author:
-  login: timabell
-  email: tim@timwise.co.uk
-  display_name: timabell
-  first_name: ''
-  last_name: ''
-permalink: "/2017/05/03/it-contractor-buddy/"
----
++++
+title = "IT Contractor buddy"
+date = "2017-05-03T13:31:51+01:00"
+[extra]
+type = "post"
+parent_id = "0"
+published = true
+password = ""
+status = "publish"
+permalink = "/2017/05/03/it-contractor-buddy/"
+[taxonomies]
+tags = ["startup"]
++++
 ## A new job-hunting assistant for contractors
 
 Calling all IT contractors; would you pay to have some of the pain of contract hunting taken away?

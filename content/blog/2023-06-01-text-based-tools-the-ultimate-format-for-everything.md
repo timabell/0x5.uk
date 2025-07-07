@@ -1,7 +1,6 @@
----
-title: Text-based tools - the ultimate format for everything
-layout: post
----
++++
+title = "Text-based tools - the ultimate format for everything"
++++
 
 Having lived in the world of technology for two to three decades now, I've come to a fundamental truth: text formats are **the ultimate** format.
 

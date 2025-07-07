@@ -1,7 +1,6 @@
----
-title: Taking an idea from business concept to software implementation
-layout: post
----
++++
+title = "Taking an idea from business concept to software implementation"
++++
 
 This post is my explanation of a concept I got from someone far more intelligent than me, and I've written it here in my own words as much to see if I can understand, explain and refine it as to share it with you lovely people. When one person teaches two people learn, as they say.
 

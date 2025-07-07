@@ -1,16 +1,13 @@
----
-layout: post
-title: My bash prompt
-date: '2008-03-31T21:37:00.007Z'
-author: Tim Abell
-tags:
-- ubuntu
-- linux
-- bash
-modified_time: '2008-04-26T13:50:39.053Z'
-blogger_id: tag:blogger.com,1999:blog-5082828566240519947.post-3985300694543528147
-blogger_orig_url: https://timwise.blogspot.com/2008/03/my-bash-prompt.html
----
++++
+title = "My bash prompt"
+date = "2008-03-31T21:37:00.007Z"
+[extra]
+modified_time = "2008-04-26T13:50:39.053Z"
+blogger_id = "tag:blogger.com,1999:blog-5082828566240519947.post-3985300694543528147"
+blogger_orig_url = "https://timwise.blogspot.com/2008/03/my-bash-prompt.html"
+[taxonomies]
+tags = ["ubuntu", "linux", "bash"]
++++
 
 I like a new line in my prompt so that if I'm deep in a path I don't end up
 with 10 characters left to type in, and pretty colours so that it's easy to

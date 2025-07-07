@@ -1,7 +1,6 @@
----
-title: "The RAID Log: Your Guide to Surviving Chaos, Politics, and Petty Office Wars"
-layout: post
----
++++
+title = "The RAID Log: Your Guide to Surviving Chaos, Politics, and Petty Office Wars"
++++
 
 Ah, the RAID log—Risks, Assumptions, Issues, and Dependencies. To a bright-eyed project manager, it’s a shining beacon of order. To the rest of us? It’s corporate Mad Libs: half-blind guesses, blame-shifting masterpieces, and ominous warnings with no context.
 

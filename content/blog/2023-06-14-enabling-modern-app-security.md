@@ -1,7 +1,6 @@
----
-title: Enabling modern app security
-layout: post
----
++++
+title = "Enabling modern app security"
++++
 
 A broad-view of improving security in any organisation.
 

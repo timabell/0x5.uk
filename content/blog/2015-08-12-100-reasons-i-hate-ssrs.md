@@ -1,13 +1,12 @@
----
-layout: post
-title: 100 reasons I hate ssrs
-date: '2015-08-12T19:01:00.004Z'
-author: Tim Abell
-tags:
-modified_time: '2016-11-15T11:49:21.321Z'
-blogger_id: tag:blogger.com,1999:blog-5082828566240519947.post-875301386032121102
-blogger_orig_url: https://timwise.blogspot.com/2015/08/100-reasons-i-hate-ssrs.html
----
++++
+title = "100 reasons I hate ssrs"
+date = "2015-08-12T19:01:00.004Z"
+[extra]
+tags = ""
+modified_time = "2016-11-15T11:49:21.321Z"
+blogger_id = "tag:blogger.com,1999:blog-5082828566240519947.post-875301386032121102"
+blogger_orig_url = "https://timwise.blogspot.com/2015/08/100-reasons-i-hate-ssrs.html"
++++
 
 *Originally posted at <https://timwise.blogspot.com/2015/08/100-reasons-i-hate-ssrs.html> which attracted some great comments.*
 

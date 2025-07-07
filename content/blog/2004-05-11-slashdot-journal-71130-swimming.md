@@ -1,8 +1,9 @@
----
-title: "swimming"
-date: 2004-05-11
-slashdot_url: https://slashdot.org/journal/71130/swimming
----
++++
+title = "swimming"
+date = "2004-05-11T00:00:00+00:00"
+[extra]
+slashdot_url = "https://slashdot.org/journal/71130/swimming"
++++
 
 <p>Hello again.</p>
 <p>Success of the week (Mon eve):<br>Swimming 400m in (more or less) one attempt.<br>Time taken: 12mins<br>Lengths: 16.</p>

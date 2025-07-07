@@ -1,28 +1,14 @@
----
-layout: post
-title: Regression Tests for ASP.NET / SQL Projects
-date: 2018-03-13 15:25:46.000000000 +00:00
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories: []
-tags: []
-meta:
-  _wpcom_is_markdown: '1'
-  _rest_api_published: '1'
-  _rest_api_client_id: "-1"
-  _publicize_job_id: '15685724070'
-  timeline_notification: '1520954747'
-author:
-  login: timabell
-  email: tim@timwise.co.uk
-  display_name: timabell
-  first_name: ''
-  last_name: ''
-permalink: "/2018/03/13/regression-tests-for-asp-net-sql-projects/"
----
++++
+title = "Regression Tests for ASP.NET / SQL Projects"
+date = "2018-03-13T15:25:46+00:00"
+[extra]
+type = "post"
+parent_id = "0"
+published = true
+password = ""
+status = "publish"
+permalink = "/2018/03/13/regression-tests-for-asp-net-sql-projects/"
++++
 I've had the opportunity to attempt many variations of regression testing on many projects.
 
 Many of the systems I've worked on have at least some level of workflow, meaning a user has to move through many steps as the system progresses something towards a final state.

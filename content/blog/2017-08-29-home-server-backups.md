@@ -1,22 +1,14 @@
----
-layout: post
-title: Home server backups
-date: 2017-08-29 20:31:08.000000000 +01:00
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories: []
-tags: []
-author:
-  login: timabell
-  email: tim@timwise.co.uk
-  display_name: timabell
-  first_name: ''
-  last_name: ''
-permalink: "/2017/08/29/home-server-backups/"
----
++++
+title = "Home server backups"
+date = "2017-08-29T20:31:08+01:00"
+[extra]
+type = "post"
+parent_id = "0"
+published = true
+password = ""
+status = "publish"
+permalink = "/2017/08/29/home-server-backups/"
++++
 The setup
 
 *   Ubuntu server domU xen host

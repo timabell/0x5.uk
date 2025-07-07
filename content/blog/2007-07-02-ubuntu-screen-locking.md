@@ -1,17 +1,13 @@
----
-layout: post
-title: Ubuntu screen locking
-date: '2007-07-02T21:15:00.000Z'
-author: Tim Abell
-tags:
-- howto
-- ubuntu
-- linux
-- laptop
-modified_time: '2007-07-02T21:23:01.224Z'
-blogger_id: tag:blogger.com,1999:blog-5082828566240519947.post-6079608926457625139
-blogger_orig_url: https://timwise.blogspot.com/2007/07/ubuntu-screen-locking.html
----
++++
+title = "Ubuntu screen locking"
+date = "2007-07-02T21:15:00.000Z"
+[extra]
+modified_time = "2007-07-02T21:23:01.224Z"
+blogger_id = "tag:blogger.com,1999:blog-5082828566240519947.post-6079608926457625139"
+blogger_orig_url = "https://timwise.blogspot.com/2007/07/ubuntu-screen-locking.html"
+[taxonomies]
+tags = ["howto", "ubuntu", "linux", "laptop"]
++++
 
 Howto prevent ubuntu locking the screen when closing the laptop lid.  
 

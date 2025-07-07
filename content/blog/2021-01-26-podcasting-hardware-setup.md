@@ -1,7 +1,6 @@
----
-title: Podcasting hardware setup
-layout: post
----
++++
+title = "Podcasting hardware setup"
++++
 
 ## Current recording/playback setup
 

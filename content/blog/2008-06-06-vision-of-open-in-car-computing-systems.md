@@ -1,21 +1,14 @@
----
-layout: post
-title: A vision of open in-car computing systems
-date: '2008-06-06T21:36:00.007Z'
-author: Tim Abell
-tags:
-- ideas
-- hardware
-- business
-- opinion
-- carpc
-- oss
-- project
-modified_time: '2008-06-07T01:07:24.569Z'
-thumbnail: http://farm4.static.flickr.com/3155/2556406175_90cc267ae1_t.jpg
-blogger_id: tag:blogger.com,1999:blog-5082828566240519947.post-6325738989654501442
-blogger_orig_url: https://timwise.blogspot.com/2008/06/vision-of-open-in-car-computing-systems.html
----
++++
+title = "A vision of open in-car computing systems"
+date = "2008-06-06T21:36:00.007Z"
+[extra]
+modified_time = "2008-06-07T01:07:24.569Z"
+thumbnail = "http://farm4.static.flickr.com/3155/2556406175_90cc267ae1_t.jpg"
+blogger_id = "tag:blogger.com,1999:blog-5082828566240519947.post-6325738989654501442"
+blogger_orig_url = "https://timwise.blogspot.com/2008/06/vision-of-open-in-car-computing-systems.html"
+[taxonomies]
+tags = ["ideas", "hardware", "business", "opinion", "carpc", "oss", "project"]
++++
 
 I have a vision. A vision that puts you in control of your in car computing
 experience.  

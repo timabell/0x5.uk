@@ -1,13 +1,12 @@
----
-layout: post
-title: Returning to commercial ASP.NET from Ruby on Rails
-date: '2014-01-07T13:17:00.002Z'
-author: Tim Abell
-tags:
-modified_time: '2016-11-17T00:23:37.813Z'
-blogger_id: tag:blogger.com,1999:blog-5082828566240519947.post-3544561153334601161
-blogger_orig_url: https://timwise.blogspot.com/2014/01/returning-to-commercial-aspnet-from.html
----
++++
+title = "Returning to commercial ASP.NET from Ruby on Rails"
+date = "2014-01-07T13:17:00.002Z"
+[extra]
+tags = ""
+modified_time = "2016-11-17T00:23:37.813Z"
+blogger_id = "tag:blogger.com,1999:blog-5082828566240519947.post-3544561153334601161"
+blogger_orig_url = "https://timwise.blogspot.com/2014/01/returning-to-commercial-aspnet-from.html"
++++
 
 Why ASP.NET again after all the noise I made about Ruby on Rails? After a brief stint with commercial Ruby on Rails development I should explain why I've decided my next gig will be an ASP.NET project. In short: currently almost all the Rails work available is in London for digital agencies and start-ups, demanding on-site full time presence, and I burned out doing 3 hours a day commuting in less than half-a-year. This is not a sustainable business plan.
 

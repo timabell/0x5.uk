@@ -1,7 +1,6 @@
----
-title: What is Hexagonal Architecture, aka "Ports and Adapters"
-layout: post
----
++++
+title = "What is Hexagonal Architecture, aka \"Ports and Adapters\""
++++
 
 * toc placeholder
 {:toc}

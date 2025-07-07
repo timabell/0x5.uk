@@ -1,9 +1,9 @@
----
-layout: post
-title: Yet another good-commit-messages post
-date: '2016-03-18T15:25:00.000Z'
-blogger_orig_url: https://timwise.blogspot.com/2016/03/yet-another-good-commit-messages-post.html
----
++++
+title = "Yet another good-commit-messages post"
+date = "2016-03-18T15:25:00.000Z"
+[extra]
+blogger_orig_url = "https://timwise.blogspot.com/2016/03/yet-another-good-commit-messages-post.html"
++++
 
 ## Why you should care about writing good commit messages
 

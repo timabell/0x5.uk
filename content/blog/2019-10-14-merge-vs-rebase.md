@@ -1,7 +1,6 @@
----
-title: Should you rebase or merge to update feature branches in git?
-layout: post
----
++++
+title = "Should you rebase or merge to update feature branches in git?"
++++
 
 You have a "feature branch" in git that you've been working on for a while but
 now `main` or `master` has moved on.  You know of `merge` and `rebase`, but

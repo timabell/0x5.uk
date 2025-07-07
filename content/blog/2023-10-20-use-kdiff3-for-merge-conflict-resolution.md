@@ -1,7 +1,6 @@
----
-title: Use kdiff3 for merge conflict resolution
-layout: post
----
++++
+title = "Use kdiff3 for merge conflict resolution"
++++
 
 I agree with Dermon: ["You should be doing 3-way merges"](https://medium.com/@damon.lundin/you-should-be-using-3-way-merging-4824400bae7).
 

@@ -1,8 +1,9 @@
----
-title: "unblocked!"
-date: 2005-05-13
-slashdot_url: https://slashdot.org/journal/106732/unblocked
----
++++
+title = "unblocked!"
+date = "2005-05-13T00:00:00+00:00"
+[extra]
+slashdot_url = "https://slashdot.org/journal/106732/unblocked"
++++
 
 <p>finally, I can post messages from home,<nobr> </nobr>/. have finally removed the block on nthell's proxy.</p>
 <p>more posts will now follow.</p>

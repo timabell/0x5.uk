@@ -1,13 +1,12 @@
----
-layout: post
-title: LibreOffice mail merge - "data source 'SOURCE' was not found"
-date: '2015-01-12T22:31:00.002Z'
-author: Tim Abell
-tags: 
-modified_time: '2015-02-26T00:51:32.105Z'
-blogger_id: tag:blogger.com,1999:blog-5082828566240519947.post-3978505848471658988
-blogger_orig_url: https://timwise.blogspot.com/2015/01/libreoffice-mail-merge-data-source.html
----
++++
+title = "LibreOffice mail merge - \"data source 'SOURCE' was not found\""
+date = "2015-01-12T22:31:00.002Z"
+[extra]
+tags = ""
+modified_time = "2015-02-26T00:51:32.105Z"
+blogger_id = "tag:blogger.com,1999:blog-5082828566240519947.post-3978505848471658988"
+blogger_orig_url = "https://timwise.blogspot.com/2015/01/libreoffice-mail-merge-data-source.html"
++++
 
 So another year on, LibreOffice 4.2.7.2 (via Linux Mint 17.1) still has a dog's breakfast of a mail merge feature, hey ho, hopefully it might actually get fixed following the fork from OpenOffice and the change in contribution methods.  
 

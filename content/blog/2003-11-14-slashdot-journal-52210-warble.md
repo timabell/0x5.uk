@@ -1,8 +1,9 @@
----
-title: "warble"
-date: 2003-11-14
-slashdot_url: https://slashdot.org/journal/52210/warble
----
++++
+title = "warble"
+date = "2003-11-14T00:00:00+00:00"
+[extra]
+slashdot_url = "https://slashdot.org/journal/52210/warble"
++++
 
 <p>yada yada</p>
 <p>nothing doing today.</p>

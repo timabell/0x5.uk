@@ -1,8 +1,9 @@
----
-title: "colds. ugh"
-date: 2005-11-29
-slashdot_url: https://slashdot.org/journal/123212/colds-ugh
----
++++
+title = "colds. ugh"
+date = "2005-11-29T00:00:00+00:00"
+[extra]
+slashdot_url = "https://slashdot.org/journal/123212/colds-ugh"
++++
 
 <p>today I have a cold.<nobr> </nobr>:(</p>
 <p>oh, and i did write a journal entry the other day, but my computer died b4 I could post it.</p>

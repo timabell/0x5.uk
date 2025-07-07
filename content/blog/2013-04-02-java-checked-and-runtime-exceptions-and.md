@@ -1,13 +1,12 @@
----
-layout: post
-title: Java checked and runtime exceptions and how to transition
-date: '2013-04-02T21:25:00.000Z'
-author: Tim Abell
-tags:
-modified_time: '2013-04-02T21:37:03.810Z'
-blogger_id: tag:blogger.com,1999:blog-5082828566240519947.post-2601004754756824237
-blogger_orig_url: https://timwise.blogspot.com/2013/04/java-checked-and-runtime-exceptions-and.html
----
++++
+title = "Java checked and runtime exceptions and how to transition"
+date = "2013-04-02T21:25:00.000Z"
+[extra]
+tags = ""
+modified_time = "2013-04-02T21:37:03.810Z"
+blogger_id = "tag:blogger.com,1999:blog-5082828566240519947.post-2601004754756824237"
+blogger_orig_url = "https://timwise.blogspot.com/2013/04/java-checked-and-runtime-exceptions-and.html"
++++
 
 As primarily a C# programmer I've never been sold on checked exceptions, mostly seeing them as an unnecessary nuisance forcing programmers to introduce reams of boilerplate `throws` / `try-catch` blocks into their consuming code to propagate these exceptions up the stack.
 

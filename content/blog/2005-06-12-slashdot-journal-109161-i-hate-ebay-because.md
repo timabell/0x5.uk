@@ -1,8 +1,9 @@
----
-title: "I hate ebay because..."
-date: 2005-06-12
-slashdot_url: https://slashdot.org/journal/109161/i-hate-ebay-because
----
++++
+title = "I hate ebay because..."
+date = "2005-06-12T00:00:00+00:00"
+[extra]
+slashdot_url = "https://slashdot.org/journal/109161/i-hate-ebay-because"
++++
 
 <ul> <li>their website is soooo slow.</li>
 <li>You can't change a listing in the last  24hrs, but there's nothing to say so</li>

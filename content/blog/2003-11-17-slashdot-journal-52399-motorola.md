@@ -1,8 +1,9 @@
----
-title: "motorola"
-date: 2003-11-17
-slashdot_url: https://slashdot.org/journal/52399/motorola
----
++++
+title = "motorola"
+date = "2003-11-17T00:00:00+00:00"
+[extra]
+slashdot_url = "https://slashdot.org/journal/52399/motorola"
++++
 
 <p>apparently their mailservers are down. have been for a week.</p>
 <p>Hoorah for leading edge technical firms.</p>

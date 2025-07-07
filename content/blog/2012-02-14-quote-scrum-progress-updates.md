@@ -1,13 +1,13 @@
----
-layout: post
-title: Quote of the day - scrum progress updates
-date: '2012-02-14T10:30:00.001Z'
-author: Tim Abell
-categories: [scrum, quote, agile]
-modified_time: '2012-02-14T10:31:53.809Z'
-blogger_id: tag:blogger.com,1999:blog-5082828566240519947.post-6754555683725994021
-blogger_orig_url: https://timwise.blogspot.com/2012/02/quote-scrum-progress-updates.html
----
++++
+title = "Quote of the day - scrum progress updates"
+date = "2012-02-14T10:30:00.001Z"
+[extra]
+modified_time = "2012-02-14T10:31:53.809Z"
+blogger_id = "tag:blogger.com,1999:blog-5082828566240519947.post-6754555683725994021"
+blogger_orig_url = "https://timwise.blogspot.com/2012/02/quote-scrum-progress-updates.html"
+[taxonomies]
+categories = ["scrum", "quote", "agile"]
++++
 
 Quote of the day
 

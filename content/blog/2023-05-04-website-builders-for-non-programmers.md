@@ -1,7 +1,6 @@
----
-title: Website builders for non-programmers
-layout: post
----
++++
+title = "Website builders for non-programmers"
++++
 
 Here's some tools that you can use if you're not a coder but want to put up a website.
 

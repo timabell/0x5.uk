@@ -1,7 +1,6 @@
----
-title: "New tool: sln-items-sync for Visual Studio solution folders"
-layout: post
----
++++
+title = "New tool: sln-items-sync for Visual Studio solution folders"
++++
 
 How and why I created `sln-items-sync`  - a `dotnet tool` to generate SolutionItems from filesystem folders.
 

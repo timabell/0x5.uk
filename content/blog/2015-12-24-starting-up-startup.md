@@ -1,14 +1,13 @@
----
-layout: post
-title: Starting up a startup
-date: '2015-12-24T18:06:00.002Z'
-author: Tim Abell
-tags:
-- startup
-modified_time: '2016-01-07T01:12:57.381Z'
-blogger_id: tag:blogger.com,1999:blog-5082828566240519947.post-3805274102521054822
-blogger_orig_url: https://timwise.blogspot.com/2015/12/starting-up-startup.html
----
++++
+title = "Starting up a startup"
+date = "2015-12-24T18:06:00.002Z"
+[extra]
+modified_time = "2016-01-07T01:12:57.381Z"
+blogger_id = "tag:blogger.com,1999:blog-5082828566240519947.post-3805274102521054822"
+blogger_orig_url = "https://timwise.blogspot.com/2015/12/starting-up-startup.html"
+[taxonomies]
+tags = ["startup"]
++++
 
 I've been contracting for 3 years now, which fits nicely with my drive to have real customers and build business(es). But I still have an itch. I've now found something to scratch that itch (taking the metaphor too far, sorry about that).  
 

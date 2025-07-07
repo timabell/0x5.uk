@@ -1,17 +1,13 @@
----
-layout: post
-title: OSS Contribution Number One!
-date: '2007-10-27T17:37:00.000Z'
-author: Tim Abell
-tags:
-- dev
-- oss
-- gnucash
-- project
-modified_time: '2007-10-27T17:53:17.869Z'
-blogger_id: tag:blogger.com,1999:blog-5082828566240519947.post-9146980638736519354
-blogger_orig_url: https://timwise.blogspot.com/2007/10/oss-contribution-number-one.html
----
++++
+title = "OSS Contribution Number One!"
+date = "2007-10-27T17:37:00.000Z"
+[extra]
+modified_time = "2007-10-27T17:53:17.869Z"
+blogger_id = "tag:blogger.com,1999:blog-5082828566240519947.post-9146980638736519354"
+blogger_orig_url = "https://timwise.blogspot.com/2007/10/oss-contribution-number-one.html"
+[taxonomies]
+tags = ["dev", "oss", "gnucash", "project"]
++++
 
 I've had my first ever patch to an open source project accepted! Yay! (Fanfare please... no? anyone? oh well.)  
 

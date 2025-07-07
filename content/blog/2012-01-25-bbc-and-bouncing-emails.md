@@ -1,13 +1,12 @@
----
-layout: post
-title: The BBC and the bouncing emails
-date: '2012-01-25T21:22:00.001Z'
-author: Tim Abell
-tags: 
-modified_time: '2012-01-25T21:22:26.819Z'
-blogger_id: tag:blogger.com,1999:blog-5082828566240519947.post-3790910591580830225
-blogger_orig_url: https://timwise.blogspot.com/2012/01/bbc-and-bouncing-emails.html
----
++++
+title = "The BBC and the bouncing emails"
+date = "2012-01-25T21:22:00.001Z"
+[extra]
+tags = ""
+modified_time = "2012-01-25T21:22:26.819Z"
+blogger_id = "tag:blogger.com,1999:blog-5082828566240519947.post-3790910591580830225"
+blogger_orig_url = "https://timwise.blogspot.com/2012/01/bbc-and-bouncing-emails.html"
++++
 
 For the record, this is the staggering response I received from the BBC's iPlayer support when I helpfully let them know that the email address they use as sender when responding to feedback sent through their support web form is non-deliverable.  
 

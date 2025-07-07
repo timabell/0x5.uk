@@ -1,7 +1,6 @@
----
-title: "Running xUnit Test Setup Only Once Across Multiple Test Classes"
-layout: post
----
++++
+title = "Running xUnit Test Setup Only Once Across Multiple Test Classes"
++++
 
 ⚠️ There is a problem with the approach below. Yet again I've been fooled/confused by the xUnit documentation, and this doesn't actually  do quite what I expected it to do when I tested it out for real. Once again I learn the lesson that I shouldn't rush things out the door because I'm running out of time in the moment, even though something doesn't seem right. I thought the incorrect behaviour was some minor bug in my example code, but it seem that collection fixtures just don't do what I (and the GPT it seems) thought they did.
 

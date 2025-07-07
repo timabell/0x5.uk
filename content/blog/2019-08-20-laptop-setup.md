@@ -1,8 +1,8 @@
----
-title: Laptop setup notes
-description: Clean install to functioning workhorse
-layout: post
----
++++
+title = "Laptop setup notes"
+[extra]
+description = "Clean install to functioning workhorse"
++++
 
 This is mostly for my benefit YMMV. Used for XPS13 and XPS15. Last run with Linux Mint Cinnamon 22
 

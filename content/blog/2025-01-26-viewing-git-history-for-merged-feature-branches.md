@@ -1,7 +1,6 @@
----
-title: "Viewing git history for merged feature branches"
-layout: post
----
++++
+title = "Viewing git history for merged feature branches"
++++
 
 I've been using git for nearly two decades now and yet I still seem to find new challenges and new things to learn on a regular basis.
 

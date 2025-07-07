@@ -1,7 +1,6 @@
----
-title: Detecting bit-rot with md5deep
-layout: post
----
++++
+title = "Detecting bit-rot with md5deep"
++++
 
 Thanks to [luxagen](http://luxagen.com/) for getting me to actually set something up for this. Turned out to be mighty useful when I accidentally trashed half my home folder and wanted to know if [syncthing](https://syncthing.net/) had propagated any of the damage.
 

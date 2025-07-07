@@ -1,7 +1,6 @@
----
-title: How to be a highly valued developer
-layout: post
----
++++
+title = "How to be a highly valued developer"
++++
 
 ## Learn to code... then get endlessly better at coding...
 

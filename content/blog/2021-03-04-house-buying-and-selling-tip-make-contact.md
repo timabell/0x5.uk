@@ -1,7 +1,6 @@
----
-title: House buying and selling tip - make contact!
-layout: post
----
++++
+title = "House buying and selling tip - make contact!"
++++
 
 I've learned a useful trick as part of buying and selling house(s) that I want to share with you just in case you find it useful. It could save you months of stress and delay, and maybe even save a deal that was going to fail.
 

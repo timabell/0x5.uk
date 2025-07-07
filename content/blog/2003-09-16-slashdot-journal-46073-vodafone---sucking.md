@@ -1,8 +1,9 @@
----
-title: "Vodafone - sucking"
-date: 2003-09-16
-slashdot_url: https://slashdot.org/journal/46073/vodafone---sucking
----
++++
+title = "Vodafone - sucking"
+date = "2003-09-16T00:00:00+00:00"
+[extra]
+slashdot_url = "https://slashdot.org/journal/46073/vodafone---sucking"
++++
 
 <p>Sent a message to vodafone saying that I wasn't too impressed.<br>I know ranting gets you nowhere but I feel better nontheless.</p>
 <p>The rant:<br>-------------------------------<br>I have been with vodafoam for about 2 months now and I am SERIOUSLY DISSILUSIONED with every aspect of your business.</p>

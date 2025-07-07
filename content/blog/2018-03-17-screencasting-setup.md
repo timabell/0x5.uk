@@ -1,12 +1,12 @@
----
-layout: post
-title: My Screencasting Setup
-date: 2018-03-17 18:56:12.000000000 +00:00
-type: post
-published: true
-status: publish
-permalink: "/2018/03/17/screencasting-setup/"
----
++++
+title = "My Screencasting Setup"
+date = "2018-03-17T18:56:12+00:00"
+[extra]
+type = "post"
+published = true
+status = "publish"
+permalink = "/2018/03/17/screencasting-setup/"
++++
 I just made a video to demo schema explorer.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cqStb6M-Q90" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -1,7 +1,6 @@
----
-title: Link your outlook calendar with your google calendar
-layout: post
----
++++
+title = "Link your outlook calendar with your google calendar"
++++
 
 If you have a Google/GSuite calendar and a Microsoft Teams/Office365/Outlook calendar you can get the Microsoft Outlook calendar to pull in all the events from your Google calendar which is handy when you want to know if you have any gaps or conflicts.
 

@@ -1,22 +1,14 @@
----
-layout: post
-title: Patreon open source funding
-date: 2017-06-03 10:24:40.000000000 +01:00
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories: []
-tags: []
-author:
-  login: timabell
-  email: tim@timwise.co.uk
-  display_name: timabell
-  first_name: ''
-  last_name: ''
-permalink: "/2017/06/03/patreon-open-source-funding/"
----
++++
+title = "Patreon open source funding"
+date = "2017-06-03T10:24:40+01:00"
+[extra]
+type = "post"
+parent_id = "0"
+published = true
+password = ""
+status = "publish"
+permalink = "/2017/06/03/patreon-open-source-funding/"
++++
 I'm now [on patreon](https://www.patreon.com/timabell).
 
 Hopefully this will provide enough funding that I can take better care of the open source projects that I look after. Since becoming a daddy it's become hard to find the time to do free work on these projects even though I love working on them. Combine that with the ambition to create a startup which eats up the rest of my spare time and the result is that these projects that I love are getting stale.

@@ -1,8 +1,8 @@
----
-title: "Why do automated tests matter?"
-layout: post
-reddit: https://www.reddit.com/user/timabell/comments/1boqn5c/why_do_automated_tests_matter_tim_abell/
----
++++
+title = "Why do automated tests matter?"
+[extra]
+reddit = "https://www.reddit.com/user/timabell/comments/1boqn5c/why_do_automated_tests_matter_tim_abell/"
++++
 
 It might seem a bit odd to write a post on software tests after so many years and so much content, yet to this day I see well meaning developers writing software without adequate test coverage. In fact I will share that I myself have been _very_ late to enlightenment on this front. Sure I've been "writing tests" for well over a decade, but I was missing the mental framework that would make those efforts coherent, complete and effective.
 

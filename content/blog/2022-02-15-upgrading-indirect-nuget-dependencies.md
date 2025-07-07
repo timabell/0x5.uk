@@ -1,7 +1,6 @@
----
-title: Upgrading indirect NuGet dependencies
-layout: post
----
++++
+title = "Upgrading indirect NuGet dependencies"
++++
 
 ## Update - transitive pinning
 

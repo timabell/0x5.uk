@@ -1,7 +1,6 @@
----
-title: "Should you create tickets for tech tasks?"
-layout: post
----
++++
+title = "Should you create tickets for tech tasks?"
++++
 
 In the manner of choosing the colour to paint the bikeshed, the decision of whether to create a ticket for every single tiny commit, no matter whether it's a giant feature or the tiniest whitespace cleanup in the readme file continues to consume countless hours. This question is not really that important when it comes to delivering software, yet it still comes up from time to time and there is a right and wrong answer, which should be modified only with consideration for the current situation.
 

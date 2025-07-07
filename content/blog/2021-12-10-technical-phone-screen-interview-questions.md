@@ -1,7 +1,6 @@
----
-title: Technical phone screen interview questions
-layout: post
----
++++
+title = "Technical phone screen interview questions"
++++
 
 I was tasked with giving an initial assessment of technical competence / fit in a 30 minute phone call.
 

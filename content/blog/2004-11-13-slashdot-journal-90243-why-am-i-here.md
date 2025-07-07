@@ -1,8 +1,9 @@
----
-title: "why am i here"
-date: 2004-11-13
-slashdot_url: https://slashdot.org/journal/90243/why-am-i-here
----
++++
+title = "why am i here"
+date = "2004-11-13T00:00:00+00:00"
+[extra]
+slashdot_url = "https://slashdot.org/journal/90243/why-am-i-here"
++++
 
 <p>From the dnrc newsletter. Say bye bye to your eyes for reading this, especially here in my "blog".</p>
 <blockquote>

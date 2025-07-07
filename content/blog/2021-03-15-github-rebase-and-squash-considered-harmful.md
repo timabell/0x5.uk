@@ -1,7 +1,6 @@
----
-title: GitHub rebase and squash considered harmful
-layout: post
----
++++
+title = "GitHub rebase and squash considered harmful"
++++
 
 Not to be confused with `git rebase` and the ability to squash commits locally with interactive rebase, which is [a whole other flamewar](/2019/10/14/merge-vs-rebase/).
 

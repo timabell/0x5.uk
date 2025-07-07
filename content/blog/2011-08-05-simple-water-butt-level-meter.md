@@ -1,15 +1,14 @@
----
-layout: post
-title: Simple water butt level meter
-date: '2011-08-05T21:48:00.007Z'
-author: Tim Abell
-tags:
-- invention
-modified_time: '2011-08-10T20:54:51.819Z'
-thumbnail: http://farm7.static.flickr.com/6130/6012906502_e434750e67_t.jpg
-blogger_id: tag:blogger.com,1999:blog-5082828566240519947.post-7529065114767212754
-blogger_orig_url: https://timwise.blogspot.com/2011/08/simple-water-butt-level-meter.html
----
++++
+title = "Simple water butt level meter"
+date = "2011-08-05T21:48:00.007Z"
+[extra]
+modified_time = "2011-08-10T20:54:51.819Z"
+thumbnail = "http://farm7.static.flickr.com/6130/6012906502_e434750e67_t.jpg"
+blogger_id = "tag:blogger.com,1999:blog-5082828566240519947.post-7529065114767212754"
+blogger_orig_url = "https://timwise.blogspot.com/2011/08/simple-water-butt-level-meter.html"
+[taxonomies]
+tags = ["invention"]
++++
 
 Something new for me on this blog, a physical invention.  
 

@@ -1,17 +1,14 @@
----
-layout: post
-title: Making money with free software
-date: '2007-11-04T14:04:00.000Z'
-author: Tim Abell
-tags:
-- ideas
-- business
-- oss
-modified_time: '2007-11-04T20:01:48.216Z'
-thumbnail: http://farm3.static.flickr.com/2354/1860676320_0f7da3bcfb_t.jpg
-blogger_id: tag:blogger.com,1999:blog-5082828566240519947.post-611806244445315811
-blogger_orig_url: https://timwise.blogspot.com/2007/11/making-money-with-free-software.html
----
++++
+title = "Making money with free software"
+date = "2007-11-04T14:04:00.000Z"
+[extra]
+modified_time = "2007-11-04T20:01:48.216Z"
+thumbnail = "http://farm3.static.flickr.com/2354/1860676320_0f7da3bcfb_t.jpg"
+blogger_id = "tag:blogger.com,1999:blog-5082828566240519947.post-611806244445315811"
+blogger_orig_url = "https://timwise.blogspot.com/2007/11/making-money-with-free-software.html"
+[taxonomies]
+tags = ["ideas", "business", "oss"]
++++
 
 Business model #1!  
 

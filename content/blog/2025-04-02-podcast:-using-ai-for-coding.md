@@ -1,7 +1,6 @@
----
-title: "Podcast: using AI for coding"
-layout: post
----
++++
+title = "Podcast: using AI for coding"
++++
 
 🎙️ New episode of ''Software Should be Free'' just released
 

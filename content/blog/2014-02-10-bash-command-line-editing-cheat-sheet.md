@@ -1,13 +1,12 @@
----
-layout: post
-title: Bash command line editing cheat sheet
-date: '2014-02-10T18:33:00.000Z'
-author: Tim Abell
-tags: 
-modified_time: '2014-02-10T18:39:49.408Z'
-blogger_id: tag:blogger.com,1999:blog-5082828566240519947.post-2819214199329621667
-blogger_orig_url: https://timwise.blogspot.com/2014/02/bash-command-line-editing-cheat-sheet.html
----
++++
+title = "Bash command line editing cheat sheet"
+date = "2014-02-10T18:33:00.000Z"
+[extra]
+tags = ""
+modified_time = "2014-02-10T18:39:49.408Z"
+blogger_id = "tag:blogger.com,1999:blog-5082828566240519947.post-2819214199329621667"
+blogger_orig_url = "https://timwise.blogspot.com/2014/02/bash-command-line-editing-cheat-sheet.html"
++++
 
 [https://www.gnu.org/software/bash/manual/bashref.html#Readline-Interaction](https://www.gnu.org/software/bash/manual/bashref.html#Readline-Interaction)  
 

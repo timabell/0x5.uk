@@ -1,7 +1,6 @@
----
-title: Being a development team lead
-layout: post
----
++++
+title = "Being a development team lead"
++++
 
 Here's my take on what it means to be a dev-lead / tech-lead / lead developer; and why it's time I stepped up.
 

@@ -1,8 +1,9 @@
----
-title: "Get with the (music) program - podsafe radio"
-date: 2006-04-28
-slashdot_url: https://slashdot.org/journal/134479/get-with-the-music-program---podsafe-radio
----
++++
+title = "Get with the (music) program - podsafe radio"
+date = "2006-04-28T00:00:00+00:00"
+[extra]
+slashdot_url = "https://slashdot.org/journal/134479/get-with-the-music-program---podsafe-radio"
++++
 
 <p>I've been looking for a show to listen to for some time that has some decent music in it. Finally I've found one:<br>The podshow music rewind: <a href="http://rewind.podshow.com/">http://rewind.podshow.com/</a><br>Check it out. This guy plays clips from all the podshows, showcasing the best new music from the podsafe music network.</p>
 <p>I came across it thanks to Adam Curry <a href="http://curry.com/">http://curry.com/</a></p>

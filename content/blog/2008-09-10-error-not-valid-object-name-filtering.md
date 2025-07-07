@@ -1,18 +1,14 @@
----
-layout: post
-title: error "Not a valid object name" filtering an ex-svn git repo with renames
-date: '2008-09-10T14:18:00.007Z'
-author: Tim Abell
-tags:
-- dev
-- git
-- troubleshooting
-- svn
-modified_time: '2008-09-11T09:27:31.215Z'
-thumbnail: http://farm4.static.flickr.com/3085/2800643267_aa1dd46299_t.jpg
-blogger_id: tag:blogger.com,1999:blog-5082828566240519947.post-2621355116425651592
-blogger_orig_url: https://timwise.blogspot.com/2008/09/error-not-valid-object-name-filtering.html
----
++++
+title = "error \"Not a valid object name\" filtering an ex-svn git repo with renames"
+date = "2008-09-10T14:18:00.007Z"
+[extra]
+modified_time = "2008-09-11T09:27:31.215Z"
+thumbnail = "http://farm4.static.flickr.com/3085/2800643267_aa1dd46299_t.jpg"
+blogger_id = "tag:blogger.com,1999:blog-5082828566240519947.post-2621355116425651592"
+blogger_orig_url = "https://timwise.blogspot.com/2008/09/error-not-valid-object-name-filtering.html"
+[taxonomies]
+tags = ["dev", "git", "troubleshooting", "svn"]
++++
 
 Under git version 1.5.4.3, which as of writing is the current in ubuntu 8.04
 hardy heron, trying to split out a folder from a git repo where the repo was an

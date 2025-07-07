@@ -1,8 +1,9 @@
----
-title: "SBR"
-date: 2004-06-23
-slashdot_url: https://slashdot.org/journal/75235/sbr
----
++++
+title = "SBR"
+date = "2004-06-23T00:00:00+00:00"
+[extra]
+slashdot_url = "https://slashdot.org/journal/75235/sbr"
++++
 
 <p>SBR = Swim, Bike, Run. It's a triathlon thing.</p>
 <p>On monday, I biked to work as per, very unstrenuous. Then I went training in the evening. Went for a proper training run, which I was just jogging back from when the heaveans opened and I got soaked. The water then turned to slush, like being sprayed with a slush puppy.</p>

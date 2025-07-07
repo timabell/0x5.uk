@@ -1,8 +1,9 @@
----
-title: "good for nothing script kiddies"
-date: 2004-02-26
-slashdot_url: https://slashdot.org/journal/63429/good-for-nothing-script-kiddies
----
++++
+title = "good for nothing script kiddies"
+date = "2004-02-26T00:00:00+00:00"
+[extra]
+slashdot_url = "https://slashdot.org/journal/63429/good-for-nothing-script-kiddies"
++++
 
 <p>Just been looking at the web logs for my cubs website (twyfordcubs.org.uk). Some one tried to get into the admin section, they found it though google, interesting.</p>
 <p>The log entry:<br>2004-02-13 06:27:21 202.152.11.98 GET<nobr> </nobr>/cubs/admin.asp 200 2587 484 266 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.0)+Opera+7.11++[en] http://www.google.com/search?q=allinurl:.co.uk+admin.asp&amp;hl=en&amp;lr=&amp;ie=UTF-8&amp;oe=utf-8&amp;start=80&amp;sa=N</p>

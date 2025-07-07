@@ -1,22 +1,14 @@
----
-layout: post
-title: Teardown of a landing page story
-date: 2018-12-10 08:40:13.000000000 +00:00
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories: []
-tags: []
-author:
-  login: timabell
-  email: tim@timwise.co.uk
-  display_name: timabell
-  first_name: ''
-  last_name: ''
-permalink: "/2018/12/10/teardown-of-a-landing-page-story/"
----
++++
+title = "Teardown of a landing page story"
+date = "2018-12-10T08:40:13+00:00"
+[extra]
+type = "post"
+parent_id = "0"
+published = true
+password = ""
+status = "publish"
+permalink = "/2018/12/10/teardown-of-a-landing-page-story/"
++++
 Here's my analysis of the depth of information and thought that's gone into a deceptively brief piece of landing-page copy. It's from <https://realtimeboard.com/blog/accelerate-growth-early-stage-startups/> that I'm trying to use as inspiration for <http://schemaexplorer.io/>
 
 I had to de-construct the example story in order to work out how to do my own so having put the work in I thought I'd share it with you all here.

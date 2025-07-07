@@ -1,17 +1,13 @@
----
-layout: post
-title: backing up your home folder
-date: '2007-06-20T20:59:00.000Z'
-author: Tim Abell
-tags:
-- backup
-- ubuntu
-- linux
-- script
-modified_time: '2007-06-20T23:10:18.919Z'
-blogger_id: tag:blogger.com,1999:blog-5082828566240519947.post-1206082451587115261
-blogger_orig_url: https://timwise.blogspot.com/2007/06/backing-up-your-home-folder.html
----
++++
+title = "backing up your home folder"
+date = "2007-06-20T20:59:00.000Z"
+[extra]
+modified_time = "2007-06-20T23:10:18.919Z"
+blogger_id = "tag:blogger.com,1999:blog-5082828566240519947.post-1206082451587115261"
+blogger_orig_url = "https://timwise.blogspot.com/2007/06/backing-up-your-home-folder.html"
+[taxonomies]
+tags = ["backup", "ubuntu", "linux", "script"]
++++
 
 Here I outline the solution I chose for backing up my life, er... I mean home folder. (I'm sure there's life outside /home/tim somewhere...)  
 

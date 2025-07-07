@@ -1,16 +1,13 @@
----
-layout: post
-title: compiling partimage
-date: '2007-03-26T23:06:00.000Z'
-author: Tim Abell
-tags:
-- partimage
-- dev
-- project
-modified_time: '2007-03-26T23:32:22.663Z'
-blogger_id: tag:blogger.com,1999:blog-5082828566240519947.post-5549746669475271810
-blogger_orig_url: https://timwise.blogspot.com/2007/03/compiling-partimage.html
----
++++
+title = "compiling partimage"
+date = "2007-03-26T23:06:00.000Z"
+[extra]
+modified_time = "2007-03-26T23:32:22.663Z"
+blogger_id = "tag:blogger.com,1999:blog-5082828566240519947.post-5549746669475271810"
+blogger_orig_url = "https://timwise.blogspot.com/2007/03/compiling-partimage.html"
+[taxonomies]
+tags = ["partimage", "dev", "project"]
++++
 
 Had a problems getting partimage to compile on one of my pcs from a fresh checkout.  
 

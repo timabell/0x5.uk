@@ -1,7 +1,6 @@
----
-title: Fast backup to external drive with lz4
-layout: post
----
++++
+title = "Fast backup to external drive with lz4"
++++
 
 The simplest backup is to just tar-gz your home directory, but it's painfully
 slow. [A friend](http://blog.luxagen.com/2016/build-backups-an-unexpected-journey/) put me on to [lz4](https://lz4.github.io/lz4/) which isn't installed by default in ubuntu &

@@ -1,7 +1,6 @@
----
-title: "How to upload kindle fire kids photos to amazon photos"
-layout: post
----
++++
+title = "How to upload kindle fire kids photos to amazon photos"
++++
 
 This is a bit off my normal subject, so ignore this if you are not a user of the amazon kindle fire kids tablets.
 

@@ -1,8 +1,9 @@
----
-title: "life continues"
-date: 2004-09-10
-slashdot_url: https://slashdot.org/journal/83324/life-continues
----
++++
+title = "life continues"
+date = "2004-09-10T00:00:00+00:00"
+[extra]
+slashdot_url = "https://slashdot.org/journal/83324/life-continues"
++++
 
 <p>Worked many hours this week, trying to get new work web site finished.</p>
 <p>So this evening I cycled to the pool and did an hours training. I'm now tired and chlorinated, but very relaxed.<br>---<br>My web server went off on one at 2am the other night (just when I was thinking of going to sleep), thrashing its hdd. Think someone was trying to hack into it with a buffer overflow. Here's the log:</p>

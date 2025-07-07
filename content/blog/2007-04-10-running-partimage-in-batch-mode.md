@@ -1,16 +1,13 @@
----
-layout: post
-title: running partimage in batch mode
-date: '2007-04-10T22:01:00.000Z'
-author: Tim Abell
-tags:
-- partimage
-- dev
-- project
-modified_time: '2007-04-11T01:08:46.017Z'
-blogger_id: tag:blogger.com,1999:blog-5082828566240519947.post-3391820548015517010
-blogger_orig_url: https://timwise.blogspot.com/2007/04/running-partimage-in-batch-mode.html
----
++++
+title = "running partimage in batch mode"
+date = "2007-04-10T22:01:00.000Z"
+[extra]
+modified_time = "2007-04-11T01:08:46.017Z"
+blogger_id = "tag:blogger.com,1999:blog-5082828566240519947.post-3391820548015517010"
+blogger_orig_url = "https://timwise.blogspot.com/2007/04/running-partimage-in-batch-mode.html"
+[taxonomies]
+tags = ["partimage", "dev", "project"]
++++
 
 <span style="font-style: italic;">A continuation of the [partimage](http://www.partimage.org/) project.</span>
 

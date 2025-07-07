@@ -1,7 +1,6 @@
----
-title: Time to "Shape Up" your SCRUM processes? The new thing from Basecamp
-layout: post
----
++++
+title = "Time to \"Shape Up\" your SCRUM processes? The new thing from Basecamp"
++++
 
 Basecamp, who are famous for carving out their own path in the software world
 have documented and shared their own way of defining and building their

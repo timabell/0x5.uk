@@ -1,7 +1,6 @@
----
-title: "Why user stories should be shippable increments"
-layout: post
----
++++
+title = "Why user stories should be shippable increments"
++++
 
 Sometimes I see people create work items / jira tickets / user- stories that if they were implemented and merged in to the codebase would leave the system in a half-finished state, either broken or inconsistent.
 

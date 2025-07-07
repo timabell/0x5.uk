@@ -1,7 +1,6 @@
----
-title: git - what do 'base' 'local' 'remote' mean?
-layout: post
----
++++
+title = "git - what do 'base' 'local' 'remote' mean?"
++++
 
 The terminology for 3-way git merge, rebase and cherry-pick conflict files is very confusing, particularly because they flip direction between rebase and merge.
 

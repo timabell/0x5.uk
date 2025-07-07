@@ -1,8 +1,9 @@
----
-title: "Weekend / Talent? / Sport / Theatre"
-date: 2004-10-04
-slashdot_url: https://slashdot.org/journal/85850/weekend--talent--sport--theatre
----
++++
+title = "Weekend / Talent? / Sport / Theatre"
+date = "2004-10-04T00:00:00+00:00"
+[extra]
+slashdot_url = "https://slashdot.org/journal/85850/weekend--talent--sport--theatre"
++++
 
 <p><i>Weekend</i><br>This weekend involved films, work, drinking and sleeping on sofas (not mine). It did not involve wimbledon.<br>The Importance of Being Earnest is now firmly embedded in my memory as one of the funnier things I have seen, starring Mr D'Arcy as someone else.</p>
 <p><i>Talent?</i><br>Just finished an hour of guitar practice with my mentor mr kev, and have now completed excercise 50 in the book (of 150). Not quite the musical heights and fame I was hoping for by now, and still no news of that record deal, hur hur. Only positive outcome has been acquisition of the nickname the axe man courtsey of a close personal friend, who says he's inclined to break out the fire axe whenever I play. Thanks for the moral support<nobr> </nobr>;)</p>

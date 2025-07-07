@@ -1,13 +1,12 @@
----
-layout: post
-title: javascript dates in firefox and locales
-date: '2016-09-27T07:31:00.002Z'
-author: Tim Abell
-tags: 
-modified_time: '2016-09-28T07:44:06.085Z'
-blogger_id: tag:blogger.com,1999:blog-5082828566240519947.post-1701800026635188050
-blogger_orig_url: https://timwise.blogspot.com/2016/09/javascript-dates-in-firefox-and-locales.html
----
++++
+title = "javascript dates in firefox and locales"
+date = "2016-09-27T07:31:00.002Z"
+[extra]
+tags = ""
+modified_time = "2016-09-28T07:44:06.085Z"
+blogger_id = "tag:blogger.com,1999:blog-5082828566240519947.post-1701800026635188050"
+blogger_orig_url = "https://timwise.blogspot.com/2016/09/javascript-dates-in-firefox-and-locales.html"
++++
 
 Today I learnt:  
 

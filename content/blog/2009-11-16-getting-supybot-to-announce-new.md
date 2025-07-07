@@ -1,21 +1,13 @@
----
-layout: post
-title: getting supybot to announce new bugzilla bugs
-date: '2009-11-16T17:22:00.005Z'
-author: Tim Abell
-tags:
-- irc
-- howto
-- ubuntu
-- linux
-- bugzilla
-- script
-- oss
-- sys admin
-modified_time: '2009-11-17T10:23:25.092Z'
-blogger_id: tag:blogger.com,1999:blog-5082828566240519947.post-8826812947380288670
-blogger_orig_url: https://timwise.blogspot.com/2009/11/getting-supybot-to-announce-new.html
----
++++
+title = "getting supybot to announce new bugzilla bugs"
+date = "2009-11-16T17:22:00.005Z"
+[extra]
+modified_time = "2009-11-17T10:23:25.092Z"
+blogger_id = "tag:blogger.com,1999:blog-5082828566240519947.post-8826812947380288670"
+blogger_orig_url = "https://timwise.blogspot.com/2009/11/getting-supybot-to-announce-new.html"
+[taxonomies]
+tags = ["irc", "howto", "ubuntu", "linux", "bugzilla", "script", "oss", "sys admin"]
++++
 
 getting supybot to announce new bugzilla bugs - I've just put here the key non-obvious things that tripped me up when trying to set this up.
 

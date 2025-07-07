@@ -1,22 +1,14 @@
----
-layout: post
-title: New home server with Xen and docker
-date: 2017-03-10 00:03:48.000000000 +00:00
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories: []
-tags: []
-author:
-  login: timabell
-  email: tim@timwise.co.uk
-  display_name: timabell
-  first_name: ''
-  last_name: ''
-permalink: "/2017/03/10/new-home-server-with-xen-and-docker/"
----
++++
+title = "New home server with Xen and docker"
+date = "2017-03-10T00:03:48+00:00"
+[extra]
+type = "post"
+parent_id = "0"
+published = true
+password = ""
+status = "publish"
+permalink = "/2017/03/10/new-home-server-with-xen-and-docker/"
++++
 ## No cloud mkay?
 
 Going against the current received wisdom I personally am not keen to trade the convenience of the public cloud sync services such as dropbox, onedrive, google drive etc for the fact that this means that all my files traverse the public internet and live on someone else's metal. Sure it might be encrypted, but what if my traffic is intercepted and stored, and then that encryption is later found to be flawed?

@@ -1,7 +1,6 @@
----
-title: Importing Slashdot Journal Articles by Yak
-layout: post
----
++++
+title = "Importing Slashdot Journal Articles by Yak"
++++
 
 I've imported all my old slashdot journal articles because:
 

@@ -1,8 +1,9 @@
----
-title: "mourn"
-date: 2004-10-26
-slashdot_url: https://slashdot.org/journal/88222/mourn
----
++++
+title = "mourn"
+date = "2004-10-26T00:00:00+00:00"
+[extra]
+slashdot_url = "https://slashdot.org/journal/88222/mourn"
++++
 
 It is truly a sad day for music today.  
 The king of radio is dead.

@@ -1,7 +1,6 @@
----
-layout: post
-title: Personal backlogs
----
++++
+title = "Personal backlogs"
++++
 
 ## What's wrong with our current backlog / icebucket / todo list?
 

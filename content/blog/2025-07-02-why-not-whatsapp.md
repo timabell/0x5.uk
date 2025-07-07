@@ -1,7 +1,6 @@
----
-title: "Why not WhatsApp?"
-layout: post
----
++++
+title = "Why not WhatsApp?"
++++
 
 People regularly look at me like I'm from another planet when I say **"I'm not on WhatsApp"**. And I feel the need to explain myself. To save everyone from what is frankly quite a boring IRL conversation about privacy, surveillance, trust and data security, here's a written consideration of the matter which you may read or ignore as you please.
 

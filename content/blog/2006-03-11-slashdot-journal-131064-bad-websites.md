@@ -1,8 +1,9 @@
----
-title: "bad websites"
-date: 2006-03-11
-slashdot_url: https://slashdot.org/journal/131064/bad-websites
----
++++
+title = "bad websites"
+date = "2006-03-11T00:00:00+00:00"
+[extra]
+slashdot_url = "https://slashdot.org/journal/131064/bad-websites"
++++
 
 <p>I didn't think this kind of thing still existed, let alone on a commercial site:<br><a href="https://www.mytravelmoney.com/SiteBrowser.htm">https://www.mytravelmoney.com/SiteBrowser.htm</a></p>
 <p>So I sent them a rant<nobr> </nobr>:)</p>

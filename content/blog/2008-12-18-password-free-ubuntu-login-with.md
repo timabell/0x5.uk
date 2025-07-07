@@ -1,16 +1,13 @@
----
-layout: post
-title: password-free ubuntu login with facebrowser
-date: '2008-12-18T21:27:00.002Z'
-author: Tim Abell
-tags:
-- howto
-- ubuntu
-- linux
-modified_time: '2009-04-04T00:31:35.019Z'
-blogger_id: tag:blogger.com,1999:blog-5082828566240519947.post-7416804086430204798
-blogger_orig_url: https://timwise.blogspot.com/2008/12/password-free-ubuntu-login-with.html
----
++++
+title = "password-free ubuntu login with facebrowser"
+date = "2008-12-18T21:27:00.002Z"
+[extra]
+modified_time = "2009-04-04T00:31:35.019Z"
+blogger_id = "tag:blogger.com,1999:blog-5082828566240519947.post-7416804086430204798"
+blogger_orig_url = "https://timwise.blogspot.com/2008/12/password-free-ubuntu-login-with.html"
+[taxonomies]
+tags = ["howto", "ubuntu", "linux"]
++++
 
 If you trust everyone who has physical access to a pc (if not then you are
 encrypting your files, right?) then there seems little point in having to type
