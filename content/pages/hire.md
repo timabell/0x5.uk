@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Hire Me
-permalink: /hire/
+path: /hire/
 redirect_from:
   - /hire-me/
 ---

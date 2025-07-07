@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /about/
+path: /about/
 ---
 
 Hi, I'm Tim Abell (one of many, but not the

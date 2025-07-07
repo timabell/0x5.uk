@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Subscribe
-permalink: /subscribe/
+path: /subscribe/
 ---
 <!-- subscribe box and content is in footer -->
 

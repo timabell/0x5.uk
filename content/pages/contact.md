@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact
-permalink: /contact/
+path: /contact/
 ---
 
 ## Phone

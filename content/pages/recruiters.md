@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Recruiters
-permalink: /recruiters/
+path: /recruiters/
 redirect_from: /2015/10/28/dealing-with-dodgy-recruiter-tactics/
 ---
 

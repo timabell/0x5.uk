@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Send me a voice message
-permalink: /message/
+path: /message/
 ---
 
 
