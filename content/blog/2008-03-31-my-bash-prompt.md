@@ -1,4 +1,5 @@
 +++
+path = "/2008/03/31/my-bash-prompt/"
 title = "My bash prompt"
 date = "2008-03-31T21:37:00.007Z"
 [extra]

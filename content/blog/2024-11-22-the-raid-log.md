@@ -1,4 +1,5 @@
 +++
+path = "/2024/11/22/the-raid-log/"
 title = "The RAID Log: Your Guide to Surviving Chaos, Politics, and Petty Office Wars"
 +++
 

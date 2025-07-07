@@ -1,4 +1,5 @@
 +++
+path = "/2008/07/23/dont-trust-audiblecom-its-drm-infected/"
 title = "Don't trust audible.com, it's drm infected and they don't tell you"
 date = "2008-07-23T22:28:00.006Z"
 [extra]

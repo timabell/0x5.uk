@@ -1,4 +1,5 @@
 +++
+path = "/2014/02/10/bash-command-line-editing-cheat-sheet/"
 title = "Bash command line editing cheat sheet"
 date = "2014-02-10T18:33:00.000Z"
 [extra]

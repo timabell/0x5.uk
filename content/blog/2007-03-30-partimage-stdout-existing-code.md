@@ -1,4 +1,5 @@
 +++
+path = "/2007/03/30/partimage-stdout-existing-code/"
 title = "partimage + stdout, existing code"
 date = "2007-03-30T00:09:00.000Z"
 [extra]

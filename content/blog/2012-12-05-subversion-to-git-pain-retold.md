@@ -1,4 +1,5 @@
 +++
+path = "/2012/12/05/subversion-to-git-pain-retold/"
 title = "Subversion to git - the pain retold"
 date = "2012-12-05T00:33:00.000Z"
 [extra]

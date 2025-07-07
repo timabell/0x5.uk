@@ -1,4 +1,5 @@
 +++
+path = "/2022/08/30/taking-an-idea-from-business-concept-to-software-implementation/"
 title = "Taking an idea from business concept to software implementation"
 +++
 

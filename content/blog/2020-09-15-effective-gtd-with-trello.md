@@ -1,4 +1,5 @@
 +++
+path = "/2020/09/15/effective-gtd-with-trello/"
 title = "Effective GTD with Trello"
 +++
 

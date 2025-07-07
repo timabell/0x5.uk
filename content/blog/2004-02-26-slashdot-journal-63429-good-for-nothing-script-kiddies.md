@@ -1,4 +1,5 @@
 +++
+path = "/2004/02/26/slashdot-journal-63429-good-for-nothing-script-kiddies/"
 title = "good for nothing script kiddies"
 date = "2004-02-26T00:00:00+00:00"
 [extra]

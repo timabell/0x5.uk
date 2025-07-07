@@ -1,4 +1,5 @@
 +++
+path = "/2017/11/18/looking-for-beta-testers-for-my-new-free-sql-data-viewer-tool/"
 title = "Looking for beta-testers for my new Free Sql Data Viewer tool"
 date = "2017-11-18T01:28:08+00:00"
 [extra]

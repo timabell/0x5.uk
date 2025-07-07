@@ -1,4 +1,5 @@
 +++
+path = "/2010/12/15/using-pidgin-for-irc/"
 title = "Using Pidgin for IRC"
 date = "2010-12-15T10:35:00.003Z"
 [extra]

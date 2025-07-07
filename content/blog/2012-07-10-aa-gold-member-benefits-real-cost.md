@@ -1,4 +1,5 @@
 +++
+path = "/2012/07/10/aa-gold-member-benefits-real-cost/"
 title = "AA Gold member benefits, the real cost"
 date = "2012-07-10T19:13:00.000Z"
 [extra]

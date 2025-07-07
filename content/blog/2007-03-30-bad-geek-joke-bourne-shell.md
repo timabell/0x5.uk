@@ -1,4 +1,5 @@
 +++
+path = "/2007/03/30/bad-geek-joke-bourne-shell/"
 title = "bad geek joke: the bourne shell"
 date = "2007-03-30T00:36:00.000Z"
 [extra]

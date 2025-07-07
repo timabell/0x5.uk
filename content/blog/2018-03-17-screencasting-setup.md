@@ -1,4 +1,5 @@
 +++
+path = "/2018/03/17/screencasting-setup/"
 title = "My Screencasting Setup"
 date = "2018-03-17T18:56:12+00:00"
 [extra]

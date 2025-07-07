@@ -1,4 +1,5 @@
 +++
+path = "/2018/03/10/my-approach-to-my-work/"
 title = "My approach to my work"
 [taxonomies]
 categories = ["contracting", "self"]

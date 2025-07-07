@@ -1,4 +1,5 @@
 +++
+path = "/2006/04/28/slashdot-journal-134479-get-with-the-music-program---podsafe-radio/"
 title = "Get with the (music) program - podsafe radio"
 date = "2006-04-28T00:00:00+00:00"
 [extra]

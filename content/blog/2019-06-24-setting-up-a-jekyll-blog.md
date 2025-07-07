@@ -1,4 +1,5 @@
 +++
+path = "/2019/06/24/setting-up-a-jekyll-blog/"
 title = "Setting up a static website/blog with jekyll"
 [taxonomies]
 categories = ["howto", "backstage"]

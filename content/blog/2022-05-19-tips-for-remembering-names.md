@@ -1,4 +1,5 @@
 +++
+path = "/2022/05/19/tips-for-remembering-names/"
 title = "Tips for remembering names"
 +++
 

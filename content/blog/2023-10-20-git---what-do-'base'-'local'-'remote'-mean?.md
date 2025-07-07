@@ -1,4 +1,5 @@
 +++
+path = "/2023/10/20/git---what-do-'base'-'local'-'remote'-mean?/"
 title = "git - what do 'base' 'local' 'remote' mean?"
 +++
 

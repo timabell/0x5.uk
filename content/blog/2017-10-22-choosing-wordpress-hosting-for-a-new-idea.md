@@ -1,4 +1,5 @@
 +++
+path = "/2017/10/22/choosing-wordpress-hosting-for-a-new-idea/"
 title = "Choosing wordpress hosting for a new idea"
 date = "2017-10-22T11:32:08+01:00"
 [extra]

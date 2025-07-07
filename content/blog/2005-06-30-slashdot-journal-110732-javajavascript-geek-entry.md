@@ -1,4 +1,5 @@
 +++
+path = "/2005/06/30/slashdot-journal-110732-javajavascript-geek-entry/"
 title = "Java!=javascript (geek entry)"
 date = "2005-06-30T00:00:00+00:00"
 [extra]

@@ -1,4 +1,5 @@
 +++
+path = "/2019/10/08/why-i-made-schemaexplorer-open-source/"
 title = "Why I made SQL Schema Explorer open source"
 +++
 

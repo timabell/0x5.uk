@@ -1,4 +1,5 @@
 +++
+path = "/2007/03/16/multi-room-music-at-home/"
 title = "Multi-room music at home"
 date = "2007-03-16T17:09:00.000Z"
 [extra]

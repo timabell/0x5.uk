@@ -1,4 +1,5 @@
 +++
+path = "/2020/07/09/approaches-to-refactoring-and-technical-debt/"
 title = "Approaches to refactoring, technical debt and legacy code"
 +++
 

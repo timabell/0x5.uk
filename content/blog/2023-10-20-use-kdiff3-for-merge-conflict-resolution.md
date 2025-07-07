@@ -1,4 +1,5 @@
 +++
+path = "/2023/10/20/use-kdiff3-for-merge-conflict-resolution/"
 title = "Use kdiff3 for merge conflict resolution"
 +++
 

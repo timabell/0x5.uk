@@ -1,4 +1,5 @@
 +++
+path = "/2009/04/11/git-svn-imports-for-open-source/"
 title = "git-svn imports for open source projects"
 date = "2009-04-11T22:04:00.001Z"
 [extra]

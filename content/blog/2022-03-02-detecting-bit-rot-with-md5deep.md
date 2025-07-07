@@ -1,4 +1,5 @@
 +++
+path = "/2022/03/02/detecting-bit-rot-with-md5deep/"
 title = "Detecting bit-rot with md5deep"
 +++
 

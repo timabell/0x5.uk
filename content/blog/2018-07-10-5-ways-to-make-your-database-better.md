@@ -1,4 +1,5 @@
 +++
+path = "/2018/07/10/5-ways-to-make-your-database-better/"
 title = "5 ways to make your database better - by Tim Abell"
 [extra]
 description = "Step up your database game with these top tips."

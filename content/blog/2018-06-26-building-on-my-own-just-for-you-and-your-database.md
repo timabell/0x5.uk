@@ -1,4 +1,5 @@
 +++
+path = "/2018/06/26/building-on-my-own-just-for-you-and-your-database/"
 title = "Building on my own just for you and your database"
 date = "2018-06-26T00:22:08+01:00"
 [extra]

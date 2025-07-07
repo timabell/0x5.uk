@@ -1,4 +1,5 @@
 +++
+path = "/2014/02/03/converting-kml-to-gpx-with-python/"
 title = "Converting kml to gpx with python"
 date = "2014-02-03T20:27:00.000Z"
 [extra]

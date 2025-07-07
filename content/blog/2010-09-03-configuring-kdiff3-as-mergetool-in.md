@@ -1,4 +1,5 @@
 +++
+path = "/2010/09/03/configuring-kdiff3-as-mergetool-in/"
 title = "configuring kdiff3 as a mergetool in msysgit"
 date = "2010-09-03T08:31:00.004Z"
 [extra]

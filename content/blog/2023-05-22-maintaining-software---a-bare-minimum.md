@@ -1,4 +1,5 @@
 +++
+path = "/2023/05/22/maintaining-software---a-bare-minimum/"
 title = "Maintaining software - a bare minimum"
 +++
 

@@ -1,4 +1,5 @@
 +++
+path = "/2024/06/07/running-a-beefy-virtualbox-dev-server/"
 title = "Running a beefy virtualbox dev server"
 +++
 

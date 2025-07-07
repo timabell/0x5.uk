@@ -1,4 +1,5 @@
 +++
+path = "/2007/07/02/blocking-web-adverts/"
 title = "Blocking web adverts"
 date = "2007-07-02T21:23:00.000Z"
 [extra]

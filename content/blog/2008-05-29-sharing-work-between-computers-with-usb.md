@@ -1,4 +1,5 @@
 +++
+path = "/2008/05/29/sharing-work-between-computers-with-usb/"
 title = "sharing work between computers with a usb flash drive and git"
 date = "2008-05-29T23:36:00.007Z"
 [extra]

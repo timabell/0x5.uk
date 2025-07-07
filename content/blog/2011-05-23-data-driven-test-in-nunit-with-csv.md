@@ -1,4 +1,5 @@
 +++
+path = "/2011/05/23/data-driven-test-in-nunit-with-csv/"
 title = "Data driven test in NUnit with csv source data"
 date = "2011-05-23T09:38:00.004Z"
 [extra]

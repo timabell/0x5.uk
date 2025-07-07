@@ -1,4 +1,5 @@
 +++
+path = "/2017/03/10/new-home-server-with-xen-and-docker/"
 title = "New home server with Xen and docker"
 date = "2017-03-10T00:03:48+00:00"
 [extra]

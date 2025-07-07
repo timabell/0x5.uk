@@ -1,4 +1,5 @@
 +++
+path = "/2004/03/17/slashdot-journal-65483-dodgy-dell-drivers/"
 title = "Dodgy DELL drivers"
 date = "2004-03-17T00:00:00+00:00"
 [extra]

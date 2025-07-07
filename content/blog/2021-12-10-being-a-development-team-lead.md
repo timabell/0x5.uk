@@ -1,4 +1,5 @@
 +++
+path = "/2021/12/10/being-a-development-team-lead/"
 title = "Being a development team lead"
 +++
 

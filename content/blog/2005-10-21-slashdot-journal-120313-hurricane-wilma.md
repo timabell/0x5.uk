@@ -1,4 +1,5 @@
 +++
+path = "/2005/10/21/slashdot-journal-120313-hurricane-wilma/"
 title = "Hurricane Wilma"
 date = "2005-10-21T00:00:00+00:00"
 [extra]

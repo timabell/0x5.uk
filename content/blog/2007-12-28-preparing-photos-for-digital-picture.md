@@ -1,4 +1,5 @@
 +++
+path = "/2007/12/28/preparing-photos-for-digital-picture/"
 title = "Preparing photos for a digital picture frame"
 date = "2007-12-28T19:28:00.003Z"
 [extra]

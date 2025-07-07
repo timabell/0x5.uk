@@ -1,4 +1,5 @@
 +++
+path = "/2017/05/03/it-contractor-buddy/"
 title = "IT Contractor buddy"
 date = "2017-05-03T13:31:51+01:00"
 [extra]

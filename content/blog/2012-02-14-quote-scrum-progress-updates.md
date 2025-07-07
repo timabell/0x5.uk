@@ -1,4 +1,5 @@
 +++
+path = "/2012/02/14/quote-scrum-progress-updates/"
 title = "Quote of the day - scrum progress updates"
 date = "2012-02-14T10:30:00.001Z"
 [extra]

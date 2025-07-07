@@ -1,4 +1,5 @@
 +++
+path = "/2008/07/14/new-wiki-mostly-for-car-pc/"
 title = "New wiki, mostly for car pc"
 date = "2008-07-14T21:37:00.002Z"
 [extra]

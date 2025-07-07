@@ -1,4 +1,5 @@
 +++
+path = "/2013/04/02/java-checked-and-runtime-exceptions-and/"
 title = "Java checked and runtime exceptions and how to transition"
 date = "2013-04-02T21:25:00.000Z"
 [extra]

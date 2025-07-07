@@ -1,4 +1,5 @@
 +++
+path = "/2022/08/24/how-to-be-a-highly-valued-developer/"
 title = "How to be a highly valued developer"
 +++
 

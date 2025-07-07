@@ -1,4 +1,5 @@
 +++
+path = "/2008/12/18/password-free-ubuntu-login-with/"
 title = "password-free ubuntu login with facebrowser"
 date = "2008-12-18T21:27:00.002Z"
 [extra]

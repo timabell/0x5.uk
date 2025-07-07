@@ -1,4 +1,5 @@
 +++
+path = "/2016/09/27/javascript-dates-in-firefox-and-locales/"
 title = "javascript dates in firefox and locales"
 date = "2016-09-27T07:31:00.002Z"
 [extra]

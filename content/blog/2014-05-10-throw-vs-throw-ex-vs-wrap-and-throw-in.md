@@ -1,4 +1,5 @@
 +++
+path = "/2014/05/10/throw-vs-throw-ex-vs-wrap-and-throw-in/"
 title = "throw vs throw ex vs wrap and throw in c-sharp"
 date = "2014-05-10T10:23:00.000Z"
 [extra]

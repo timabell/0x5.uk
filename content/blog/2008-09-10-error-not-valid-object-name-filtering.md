@@ -1,4 +1,5 @@
 +++
+path = "/2008/09/10/error-not-valid-object-name-filtering/"
 title = "error \"Not a valid object name\" filtering an ex-svn git repo with renames"
 date = "2008-09-10T14:18:00.007Z"
 [extra]

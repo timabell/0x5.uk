@@ -1,4 +1,5 @@
 +++
+path = "/2022/07/29/choosing-a-programming-language-for-timslist/"
 title = "Choosing a programming language for timslist"
 +++
 

@@ -1,4 +1,5 @@
 +++
+path = "/2005/06/02/slashdot-journal-108390-google-funds-open-source-development/"
 title = "google funds open source development"
 date = "2005-06-02T00:00:00+00:00"
 [extra]

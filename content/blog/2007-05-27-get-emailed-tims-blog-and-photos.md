@@ -1,4 +1,5 @@
 +++
+path = "/2007/05/27/get-emailed-tims-blog-and-photos/"
 title = "Get emailed Tim's blog and photos"
 date = "2007-05-27T17:35:00.000Z"
 [extra]

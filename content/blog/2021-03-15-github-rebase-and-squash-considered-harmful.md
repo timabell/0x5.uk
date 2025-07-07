@@ -1,4 +1,5 @@
 +++
+path = "/2021/03/15/github-rebase-and-squash-considered-harmful/"
 title = "GitHub rebase and squash considered harmful"
 +++
 

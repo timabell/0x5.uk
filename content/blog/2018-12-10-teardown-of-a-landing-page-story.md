@@ -1,4 +1,5 @@
 +++
+path = "/2018/12/10/teardown-of-a-landing-page-story/"
 title = "Teardown of a landing page story"
 date = "2018-12-10T08:40:13+00:00"
 [extra]

@@ -1,4 +1,5 @@
 +++
+path = "/2012/01/17/trouble-with-agile-is-its-bit-too-good/"
 title = "The trouble with agile is it's a bit too good"
 date = "2012-01-17T03:21:00.013Z"
 [extra]

@@ -1,4 +1,5 @@
 +++
+path = "/2021/12/17/phone-setup-notes/"
 title = "Phone setup notes"
 +++
 

@@ -1,4 +1,5 @@
 +++
+path = "/2018/04/01/building-a-windows-10-development-vm-from-scratch/"
 title = "Building a Windows 10 Development VM from scratch"
 date = "2018-04-01T20:10:54+01:00"
 [extra]

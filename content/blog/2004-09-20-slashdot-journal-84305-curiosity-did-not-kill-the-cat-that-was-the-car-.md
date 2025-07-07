@@ -1,4 +1,5 @@
 +++
+path = "/2004/09/20/slashdot-journal-84305-curiosity-did-not-kill-the-cat-that-was-the-car-/"
 title = "Curiosity did _not_ kill the cat. That was the car  >:|"
 date = "2004-09-20T00:00:00+00:00"
 [extra]

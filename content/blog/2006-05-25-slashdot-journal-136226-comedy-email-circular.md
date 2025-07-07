@@ -1,4 +1,5 @@
 +++
+path = "/2006/05/25/slashdot-journal-136226-comedy-email-circular/"
 title = "comedy email circular"
 date = "2006-05-25T00:00:00+00:00"
 [extra]

@@ -1,4 +1,5 @@
 +++
+path = "/2008/03/27/stop-motion-animation-on-linux/"
 title = "stop motion animation on linux"
 date = "2008-03-27T21:29:00.007Z"
 [extra]

@@ -1,4 +1,5 @@
 +++
+path = "/2005/11/10/slashdot-journal-121807-article-microoft-battles-for-survival-of-office/"
 title = "article: micro$oft battles for survival of office"
 date = "2005-11-10T00:00:00+00:00"
 [extra]

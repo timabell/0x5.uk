@@ -1,4 +1,5 @@
 +++
+path = "/2012/01/11/git-windows-and-line-endings/"
 title = "Git, Windows and Line endings"
 date = "2012-01-11T09:05:00.009Z"
 [extra]

@@ -1,4 +1,5 @@
 +++
+path = "/2007/12/09/enabling-tv-out-on-ubuntu-linux-710-on/"
 title = "Enabling TV-Out on Ubuntu Linux 7.10 on a Dell Inspiron 8500"
 date = "2007-12-09T01:41:00.001Z"
 [extra]

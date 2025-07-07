@@ -1,4 +1,5 @@
 +++
+path = "/2005/07/20/slashdot-journal-112339-post-relational-databases-in-the-real-world/"
 title = "post-relational databases in the real world"
 date = "2005-07-20T00:00:00+00:00"
 [extra]

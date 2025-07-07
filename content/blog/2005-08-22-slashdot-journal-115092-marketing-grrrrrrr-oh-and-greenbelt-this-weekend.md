@@ -1,4 +1,5 @@
 +++
+path = "/2005/08/22/slashdot-journal-115092-marketing-grrrrrrr-oh-and-greenbelt-this-weekend/"
 title = "marketing? grrrrrrr! oh, and greenbelt this weekend"
 date = "2005-08-22T00:00:00+00:00"
 [extra]

@@ -1,4 +1,5 @@
 +++
+path = "/2012/06/14/automatic-mysql-backups/"
 title = "automatic mysql backups"
 date = "2012-06-14T15:10:00.000Z"
 [extra]

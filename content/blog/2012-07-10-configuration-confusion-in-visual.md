@@ -1,4 +1,5 @@
 +++
+path = "/2012/07/10/configuration-confusion-in-visual/"
 title = "Configuration confusion in visual studio"
 date = "2012-07-10T14:43:00.001Z"
 [extra]

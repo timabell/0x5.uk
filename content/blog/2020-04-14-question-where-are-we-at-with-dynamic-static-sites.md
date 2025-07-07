@@ -1,4 +1,5 @@
 +++
+path = "/2020/04/14/question-where-are-we-at-with-dynamic-static-sites/"
 title = "Question: where are we at with dynamic static sites?"
 +++
 

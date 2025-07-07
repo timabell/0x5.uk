@@ -1,4 +1,5 @@
 +++
+path = "/2008/06/06/vision-of-open-in-car-computing-systems/"
 title = "A vision of open in-car computing systems"
 date = "2008-06-06T21:36:00.007Z"
 [extra]

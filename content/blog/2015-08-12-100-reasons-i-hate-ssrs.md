@@ -1,4 +1,5 @@
 +++
+path = "/2015/08/12/100-reasons-i-hate-ssrs/"
 title = "100 reasons I hate ssrs"
 date = "2015-08-12T19:01:00.004Z"
 [extra]

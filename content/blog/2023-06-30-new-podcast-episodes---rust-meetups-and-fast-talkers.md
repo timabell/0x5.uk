@@ -1,4 +1,5 @@
 +++
+path = "/2023/06/30/new-podcast-episodes---rust-meetups-and-fast-talkers/"
 title = "New podcast episodes - rust meetups and fast talkers"
 +++
 

@@ -1,4 +1,5 @@
 +++
+path = "/2023/04/06/the-trap-of-two-stage-commitments/"
 title = "The trap of two-stage commitments"
 +++
 

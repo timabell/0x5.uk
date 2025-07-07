@@ -1,4 +1,5 @@
 +++
+path = "/2016/03/18/yet-another-good-commit-messages-post/"
 title = "Yet another good-commit-messages post"
 date = "2016-03-18T15:25:00.000Z"
 [extra]

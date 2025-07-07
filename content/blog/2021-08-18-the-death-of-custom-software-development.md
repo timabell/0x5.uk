@@ -1,4 +1,5 @@
 +++
+path = "/2021/08/18/the-death-of-custom-software-development/"
 title = "The death of custom software development"
 +++
 

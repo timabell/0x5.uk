@@ -1,4 +1,5 @@
 +++
+path = "/2018/03/13/regression-tests-for-asp-net-sql-projects/"
 title = "Regression Tests for ASP.NET / SQL Projects"
 date = "2018-03-13T15:25:46+00:00"
 [extra]

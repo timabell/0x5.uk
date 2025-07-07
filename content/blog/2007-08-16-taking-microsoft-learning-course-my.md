@@ -1,4 +1,5 @@
 +++
+path = "/2007/08/16/taking-microsoft-learning-course-my/"
 title = "Taking a Microsoft Learning course - my experience so far"
 date = "2007-08-16T21:20:00.000Z"
 [extra]

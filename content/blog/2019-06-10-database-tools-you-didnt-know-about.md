@@ -1,4 +1,5 @@
 +++
+path = "/2019/06/10/database-tools-you-didnt-know-about/"
 title = "Database tools I was surprised existed"
 [extra]
 description = "A complete list of tools for database people and developers"

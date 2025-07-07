@@ -1,4 +1,5 @@
 +++
+path = "/2024/03/06/templated-repos-with-dotnet-new/"
 title = "Templated repos with dotnet new"
 [extra]
 reddit = "https://www.reddit.com/r/dotnet/comments/1baplh2/templated_repos_with_dotnet_new/"

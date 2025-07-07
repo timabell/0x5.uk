@@ -1,4 +1,5 @@
 +++
+path = "/2019/10/14/merge-vs-rebase/"
 title = "Should you rebase or merge to update feature branches in git?"
 +++
 

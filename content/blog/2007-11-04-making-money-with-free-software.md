@@ -1,4 +1,5 @@
 +++
+path = "/2007/11/04/making-money-with-free-software/"
 title = "Making money with free software"
 date = "2007-11-04T14:04:00.000Z"
 [extra]

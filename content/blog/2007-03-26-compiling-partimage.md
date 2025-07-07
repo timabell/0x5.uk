@@ -1,4 +1,5 @@
 +++
+path = "/2007/03/26/compiling-partimage/"
 title = "compiling partimage"
 date = "2007-03-26T23:06:00.000Z"
 [extra]

@@ -1,4 +1,5 @@
 +++
+path = "/2004/04/02/slashdot-journal-67200-swimming/"
 title = "swimming"
 date = "2004-04-02T00:00:00+00:00"
 [extra]

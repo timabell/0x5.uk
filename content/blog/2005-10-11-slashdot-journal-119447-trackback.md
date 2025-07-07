@@ -1,4 +1,5 @@
 +++
+path = "/2005/10/11/slashdot-journal-119447-trackback/"
 title = "trackback"
 date = "2005-10-11T00:00:00+00:00"
 [extra]

@@ -1,4 +1,5 @@
 +++
+path = "/2012/06/11/connecting-to-smb-shares-on-domain-in/"
 title = "Connecting to smb shares on a domain in gnome"
 date = "2012-06-11T18:17:00.001Z"
 [extra]

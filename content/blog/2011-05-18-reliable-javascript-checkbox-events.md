@@ -1,4 +1,5 @@
 +++
+path = "/2011/05/18/reliable-javascript-checkbox-events/"
 title = "Reliable javascript checkbox events"
 date = "2011-05-18T22:30:00.004Z"
 [extra]

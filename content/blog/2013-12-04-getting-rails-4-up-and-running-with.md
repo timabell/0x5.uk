@@ -1,4 +1,5 @@
 +++
+path = "/2013/12/04/getting-rails-4-up-and-running-with/"
 title = "Getting rails 4 up and running with rbenv on Ubuntu 13.10"
 date = "2013-12-04T23:16:00.003Z"
 [extra]

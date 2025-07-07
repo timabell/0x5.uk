@@ -1,4 +1,5 @@
 +++
+path = "/2004/07/30/slashdot-journal-78957-paris-who/"
 title = "paris who?"
 date = "2004-07-30T00:00:00+00:00"
 [extra]

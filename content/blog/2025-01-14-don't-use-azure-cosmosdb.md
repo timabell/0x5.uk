@@ -1,4 +1,5 @@
 +++
+path = "/2025/01/14/don't-use-azure-cosmosdb/"
 title = "Don't use Azure CosmosDB"
 +++
 

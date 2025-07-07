@@ -1,4 +1,5 @@
 +++
+path = "/2005/06/06/slashdot-journal-108638-pay-as-you-drive-wont-work-because/"
 title = "Pay as you drive won't work because..."
 date = "2005-06-06T00:00:00+00:00"
 [extra]

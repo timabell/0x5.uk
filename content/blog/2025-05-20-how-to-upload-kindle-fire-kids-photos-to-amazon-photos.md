@@ -1,4 +1,5 @@
 +++
+path = "/2025/05/20/how-to-upload-kindle-fire-kids-photos-to-amazon-photos/"
 title = "How to upload kindle fire kids photos to amazon photos"
 +++
 

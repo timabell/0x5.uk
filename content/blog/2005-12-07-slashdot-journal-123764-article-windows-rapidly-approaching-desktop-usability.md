@@ -1,4 +1,5 @@
 +++
+path = "/2005/12/07/slashdot-journal-123764-article-windows-rapidly-approaching-desktop-usability/"
 title = "article: Windows rapidly approaching desktop usability!"
 date = "2005-12-07T00:00:00+00:00"
 [extra]

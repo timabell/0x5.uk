@@ -1,4 +1,5 @@
 +++
+path = "/2009/12/18/backing-up-vista/"
 title = "backing up Vista"
 date = "2009-12-18T10:08:00.002Z"
 [extra]

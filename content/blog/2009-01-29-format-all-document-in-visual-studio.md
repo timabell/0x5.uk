@@ -1,4 +1,5 @@
 +++
+path = "/2009/01/29/format-all-document-in-visual-studio/"
 title = "format all documents in a visual studio solution"
 date = "2009-01-29T11:49:00.011Z"
 [extra]

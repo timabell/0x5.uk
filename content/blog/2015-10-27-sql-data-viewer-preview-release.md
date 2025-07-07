@@ -1,4 +1,5 @@
 +++
+path = "/2015/10/27/sql-data-viewer-preview-release/"
 title = "Sql Data Viewer - preview release"
 date = "2015-10-27T14:45:00.000Z"
 [extra]

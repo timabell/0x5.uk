@@ -1,4 +1,5 @@
 +++
+path = "/2019/08/20/laptop-setup/"
 title = "Laptop setup notes"
 [extra]
 description = "Clean install to functioning workhorse"

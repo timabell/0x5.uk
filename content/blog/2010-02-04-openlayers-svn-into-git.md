@@ -1,4 +1,5 @@
 +++
+path = "/2010/02/04/openlayers-svn-into-git/"
 title = "openlayers svn into git"
 date = "2010-02-04T14:01:00.014Z"
 [extra]

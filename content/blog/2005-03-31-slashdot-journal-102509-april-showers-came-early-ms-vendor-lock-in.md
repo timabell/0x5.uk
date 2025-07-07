@@ -1,4 +1,5 @@
 +++
+path = "/2005/03/31/slashdot-journal-102509-april-showers-came-early-ms-vendor-lock-in/"
 title = "April showers came early. MS vendor lock in."
 date = "2005-03-31T00:00:00+00:00"
 [extra]

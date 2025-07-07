@@ -1,4 +1,5 @@
 +++
+path = "/2017/06/03/patreon-open-source-funding/"
 title = "Patreon open source funding"
 date = "2017-06-03T10:24:40+01:00"
 [extra]

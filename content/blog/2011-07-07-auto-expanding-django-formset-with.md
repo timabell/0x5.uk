@@ -1,4 +1,5 @@
 +++
+path = "/2011/07/07/auto-expanding-django-formset-with/"
 title = "Auto-expanding django formset with jQuery"
 date = "2011-07-07T23:02:00.009Z"
 [extra]

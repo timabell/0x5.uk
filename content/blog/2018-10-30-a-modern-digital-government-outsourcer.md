@@ -1,4 +1,5 @@
 +++
+path = "/2018/10/30/a-modern-digital-government-outsourcer/"
 title = "A Modern Digital Government Outsourcer"
 date = "2018-10-30T14:19:26+00:00"
 [extra]

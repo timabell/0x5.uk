@@ -1,4 +1,5 @@
 +++
+path = "/2003/11/22/slashdot-journal-52940-bluetooth-headset-old-pc-with-new-cable-modem/"
 title = "bluetooth headset & old pc with new cable modem"
 date = "2003-11-22T00:00:00+00:00"
 [extra]

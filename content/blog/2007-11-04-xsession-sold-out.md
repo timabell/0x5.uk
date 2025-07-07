@@ -1,4 +1,5 @@
 +++
+path = "/2007/11/04/xsession-sold-out/"
 title = "xsession sold out"
 date = "2007-11-04T13:59:00.000Z"
 [extra]

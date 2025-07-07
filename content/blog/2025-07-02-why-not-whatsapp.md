@@ -1,4 +1,5 @@
 +++
+path = "/2025/07/02/why-not-whatsapp/"
 title = "Why not WhatsApp?"
 +++
 

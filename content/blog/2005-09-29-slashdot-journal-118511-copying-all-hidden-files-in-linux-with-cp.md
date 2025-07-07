@@ -1,4 +1,5 @@
 +++
+path = "/2005/09/29/slashdot-journal-118511-copying-all-hidden-files-in-linux-with-cp/"
 title = "copying all (hidden) files in linux with cp"
 date = "2005-09-29T00:00:00+00:00"
 [extra]

@@ -1,4 +1,5 @@
 +++
+path = "/2005/07/30/slashdot-journal-113239-funky-flash-game/"
 title = "funky flash game"
 date = "2005-07-30T00:00:00+00:00"
 [extra]

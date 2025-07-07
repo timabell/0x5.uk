@@ -1,4 +1,5 @@
 +++
+path = "/2025/06/25/ai-coding-tools---tech-debt-in-sheeps-clothing/"
 title = "The Hidden Cost of Overusing AI Coding Tools: Tech Debt in Sheep’s Clothing"
 +++
 

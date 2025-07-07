@@ -1,4 +1,5 @@
 +++
+path = "/2019/06/21/yet-another-new-blog/"
 title = "Blog refresh - bye bye wordpress, hello jekyll"
 [taxonomies]
 categories = ["meta"]

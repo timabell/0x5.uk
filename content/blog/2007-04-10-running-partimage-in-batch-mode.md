@@ -1,4 +1,5 @@
 +++
+path = "/2007/04/10/running-partimage-in-batch-mode/"
 title = "running partimage in batch mode"
 date = "2007-04-10T22:01:00.000Z"
 [extra]

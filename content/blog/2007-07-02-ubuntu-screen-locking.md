@@ -1,4 +1,5 @@
 +++
+path = "/2007/07/02/ubuntu-screen-locking/"
 title = "Ubuntu screen locking"
 date = "2007-07-02T21:15:00.000Z"
 [extra]

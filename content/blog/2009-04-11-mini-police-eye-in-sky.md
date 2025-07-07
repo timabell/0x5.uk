@@ -1,4 +1,5 @@
 +++
+path = "/2009/04/11/mini-police-eye-in-sky/"
 title = "mini police eye in the sky"
 date = "2009-04-11T16:26:00.001Z"
 [extra]

@@ -1,4 +1,5 @@
 +++
+path = "/2012/04/05/poll-svn-server-for-changes-with-git/"
 title = "Poll svn server for changes with git clone"
 date = "2012-04-05T15:45:00.006Z"
 [extra]

@@ -1,4 +1,5 @@
 +++
+path = "/2004/07/11/slashdot-journal-77075-wow-ive-never-had-it-so-good/"
 title = "Wow. I've never had it so good."
 date = "2004-07-11T00:00:00+00:00"
 [extra]

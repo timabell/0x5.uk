@@ -1,4 +1,5 @@
 +++
+path = "/2012/05/22/enabling-tcpip-in-sql-express-2008-r2/"
 title = "Enabling TCP/IP in SQL Express 2008 R2"
 date = "2012-05-22T11:10:00.001Z"
 [extra]

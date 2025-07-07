@@ -1,4 +1,5 @@
 +++
+path = "/2020/04/23/fast-backup-to-external-drive-with-lz4/"
 title = "Fast backup to external drive with lz4"
 +++
 

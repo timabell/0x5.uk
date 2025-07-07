@@ -1,4 +1,5 @@
 +++
+path = "/2025/04/02/podcast:-using-ai-for-coding/"
 title = "Podcast: using AI for coding"
 +++
 

@@ -1,4 +1,5 @@
 +++
+path = "/2023/05/22/zero-downtime-website-rewrite-migrations/"
 title = "Zero-downtime website rewrite migrations"
 [extra]
 reddit = "https://www.reddit.com/user/timabell/comments/13or19w/zerodowntime_website_rewrite_migrations/"

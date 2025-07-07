@@ -1,4 +1,5 @@
 +++
+path = "/2021/01/26/podcasting-hardware-setup/"
 title = "Podcasting hardware setup"
 +++
 

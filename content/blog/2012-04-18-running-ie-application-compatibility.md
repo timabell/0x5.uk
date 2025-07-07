@@ -1,4 +1,5 @@
 +++
+path = "/2012/04/18/running-ie-application-compatibility/"
 title = "Running IE Application Compatibility VPC under Virtual Box"
 date = "2012-04-18T21:59:00.005Z"
 [extra]

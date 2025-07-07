@@ -1,4 +1,5 @@
 +++
+path = "/2011/10/25/lvm-reiserfs-for-win/"
 title = "LVM + ReiserFS for the win"
 date = "2011-10-25T06:17:00.002Z"
 [extra]

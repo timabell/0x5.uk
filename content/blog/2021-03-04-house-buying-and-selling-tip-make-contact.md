@@ -1,4 +1,5 @@
 +++
+path = "/2021/03/04/house-buying-and-selling-tip-make-contact/"
 title = "House buying and selling tip - make contact!"
 +++
 

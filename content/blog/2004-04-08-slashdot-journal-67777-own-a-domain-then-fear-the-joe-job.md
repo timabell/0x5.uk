@@ -1,4 +1,5 @@
 +++
+path = "/2004/04/08/slashdot-journal-67777-own-a-domain-then-fear-the-joe-job/"
 title = "Own a domain? Then Fear the \"Joe Job\""
 date = "2004-04-08T00:00:00+00:00"
 [extra]

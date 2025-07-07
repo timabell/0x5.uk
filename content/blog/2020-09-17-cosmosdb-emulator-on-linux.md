@@ -1,4 +1,5 @@
 +++
+path = "/2020/09/17/cosmosdb-emulator-on-linux/"
 title = "Running the CosmosDB emulator on Linux"
 +++
 

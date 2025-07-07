@@ -1,4 +1,5 @@
 +++
+path = "/2011/11/16/multiple-working-folders-for-git-on/"
 title = "Multiple working folders for git on Windows XP"
 date = "2011-11-16T09:46:00.011Z"
 [extra]

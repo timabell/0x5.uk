@@ -1,4 +1,5 @@
 +++
+path = "/2017/08/29/home-server-backups/"
 title = "Home server backups"
 date = "2017-08-29T20:31:08+01:00"
 [extra]

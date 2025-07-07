@@ -1,4 +1,5 @@
 +++
+path = "/2017/01/17/new-year-new-blog/"
 title = "New year new blog"
 date = "2017-01-17T23:36:00.000Z"
 [extra]

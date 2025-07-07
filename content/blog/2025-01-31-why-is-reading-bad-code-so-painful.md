@@ -1,4 +1,5 @@
 +++
+path = "/2025/01/31/why-is-reading-bad-code-so-painful/"
 title = "Why is reading bad code so painful?!"
 [extra]
 redirect_from = "/2025/01/31/why-is-reading-bad-so-code-painful/"

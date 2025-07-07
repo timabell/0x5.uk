@@ -1,4 +1,5 @@
 +++
+path = "/2017/12/29/down-with-sdv-long-live-sse/"
 title = "Down with SDV! long live SSE!"
 date = "2017-12-29T02:59:54+00:00"
 [extra]

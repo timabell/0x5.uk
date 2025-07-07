@@ -1,4 +1,5 @@
 +++
+path = "/2022/07/10/single-class-per-file/"
 title = "Single class per file"
 +++
 

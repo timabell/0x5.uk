@@ -1,4 +1,5 @@
 +++
+path = "/2021/09/27/integrating-shipstation-with-quickbooks-desktop/"
 title = "Integrating ShipStation with QuickBooks Desktop"
 +++
 

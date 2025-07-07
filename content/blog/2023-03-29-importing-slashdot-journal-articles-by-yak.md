@@ -1,4 +1,5 @@
 +++
+path = "/2023/03/29/importing-slashdot-journal-articles-by-yak/"
 title = "Importing Slashdot Journal Articles by Yak"
 +++
 

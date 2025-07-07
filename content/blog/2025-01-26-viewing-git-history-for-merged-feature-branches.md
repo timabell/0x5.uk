@@ -1,4 +1,5 @@
 +++
+path = "/2025/01/26/viewing-git-history-for-merged-feature-branches/"
 title = "Viewing git history for merged feature branches"
 +++
 

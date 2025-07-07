@@ -1,4 +1,5 @@
 +++
+path = "/2013/05/13/installing-ruby-2-rails-4-on-ubuntu/"
 title = "Installing ruby 2 + Rails 4 on Ubuntu 12.04 LTS"
 date = "2013-05-13T10:29:00.000Z"
 [extra]

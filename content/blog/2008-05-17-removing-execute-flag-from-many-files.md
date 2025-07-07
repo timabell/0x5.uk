@@ -1,4 +1,5 @@
 +++
+path = "/2008/05/17/removing-execute-flag-from-many-files/"
 title = "Removing the execute flag from many files"
 date = "2008-05-17T20:33:00.003Z"
 [extra]

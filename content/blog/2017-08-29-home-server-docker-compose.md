@@ -1,4 +1,5 @@
 +++
+path = "/2017/08/29/home-server-docker-compose/"
 title = "Home server docker-compose"
 date = "2017-08-29T21:26:28+01:00"
 [extra]

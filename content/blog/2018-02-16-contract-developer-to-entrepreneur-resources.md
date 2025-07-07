@@ -1,4 +1,5 @@
 +++
+path = "/2018/02/16/contract-developer-to-entrepreneur-resources/"
 title = "Contract developer to entrepreneur - resources"
 date = "2018-02-16T22:31:38+00:00"
 [extra]

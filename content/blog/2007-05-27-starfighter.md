@@ -1,4 +1,5 @@
 +++
+path = "/2007/05/27/starfighter/"
 title = "starfighter"
 date = "2007-05-27T13:44:00.000Z"
 [extra]

@@ -1,4 +1,5 @@
 +++
+path = "/2006/07/19/slashdot-journal-140082-a-manual-for-/"
 title = "a manual? for £££££?!"
 date = "2006-07-19T00:00:00+00:00"
 [extra]

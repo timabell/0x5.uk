@@ -1,4 +1,5 @@
 +++
+path = "/2022/02/15/upgrading-indirect-nuget-dependencies/"
 title = "Upgrading indirect NuGet dependencies"
 +++
 

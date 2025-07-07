@@ -1,4 +1,5 @@
 +++
+path = "/2005/06/23/slashdot-journal-110112-ebay--iriver/"
 title = "eBay / iRiver"
 date = "2005-06-23T00:00:00+00:00"
 [extra]

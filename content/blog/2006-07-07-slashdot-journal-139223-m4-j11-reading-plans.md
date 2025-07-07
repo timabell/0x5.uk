@@ -1,4 +1,5 @@
 +++
+path = "/2006/07/07/slashdot-journal-139223-m4-j11-reading-plans/"
 title = "M4 J11 Reading plans"
 date = "2006-07-07T00:00:00+00:00"
 [extra]

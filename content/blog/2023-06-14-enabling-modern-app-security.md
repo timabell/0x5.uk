@@ -1,4 +1,5 @@
 +++
+path = "/2023/06/14/enabling-modern-app-security/"
 title = "Enabling modern app security"
 +++
 

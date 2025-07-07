@@ -1,4 +1,5 @@
 +++
+path = "/2024/08/02/running-xunit-test-setup-only-once/"
 title = "Running xUnit Test Setup Only Once Across Multiple Test Classes"
 +++
 

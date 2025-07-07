@@ -1,4 +1,5 @@
 +++
+path = "/2005/11/04/slashdot-journal-121333-warning-geek-entry---vim/"
 title = "warning: geek entry - vim"
 date = "2005-11-04T00:00:00+00:00"
 [extra]

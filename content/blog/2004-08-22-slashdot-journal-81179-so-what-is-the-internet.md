@@ -1,4 +1,5 @@
 +++
+path = "/2004/08/22/slashdot-journal-81179-so-what-is-the-internet/"
 title = "So what _is_ the \"internet\"?"
 date = "2004-08-22T00:00:00+00:00"
 [extra]

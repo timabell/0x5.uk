@@ -1,4 +1,5 @@
 +++
+path = "/2023/06/01/text-based-tools-the-ultimate-format-for-everything/"
 title = "Text-based tools - the ultimate format for everything"
 +++
 

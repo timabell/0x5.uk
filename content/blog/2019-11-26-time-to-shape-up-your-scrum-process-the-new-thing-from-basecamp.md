@@ -1,4 +1,5 @@
 +++
+path = "/2019/11/26/time-to-shape-up-your-scrum-process-the-new-thing-from-basecamp/"
 title = "Time to \"Shape Up\" your SCRUM processes? The new thing from Basecamp"
 +++
 

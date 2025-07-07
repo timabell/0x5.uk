@@ -1,4 +1,5 @@
 +++
+path = "/2007/09/03/creating-blogroll/"
 title = "Creating a blogroll"
 date = "2007-09-03T20:13:00.001Z"
 [extra]

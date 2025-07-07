@@ -1,4 +1,5 @@
 +++
+path = "/2021/12/10/technical-phone-screen-interview-questions/"
 title = "Technical phone screen interview questions"
 +++
 

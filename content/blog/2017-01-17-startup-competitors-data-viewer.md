@@ -1,4 +1,5 @@
 +++
+path = "/2017/01/17/startup-competitors-data-viewer/"
 title = "Startup competitors - Data Viewer"
 date = "2017-01-17T01:55:27+00:00"
 [extra]

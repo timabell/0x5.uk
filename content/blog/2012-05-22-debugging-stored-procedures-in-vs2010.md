@@ -1,4 +1,5 @@
 +++
+path = "/2012/05/22/debugging-stored-procedures-in-vs2010/"
 title = "Debugging stored procedures in VS2010 / SQL Express"
 date = "2012-05-22T16:58:00.000Z"
 [extra]

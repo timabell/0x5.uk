@@ -1,4 +1,5 @@
 +++
+path = "/2009/11/08/bugzilla-upgrades-and-user-tokens/"
 title = "bugzilla upgrades and user tokens"
 date = "2009-11-08T18:12:00.006Z"
 [extra]

@@ -1,4 +1,5 @@
 +++
+path = "/2004/01/29/slashdot-journal-60096-things--lycra-swimwear-goggles/"
 title = "Things + lycra swimwear & goggles"
 date = "2004-01-29T00:00:00+00:00"
 [extra]

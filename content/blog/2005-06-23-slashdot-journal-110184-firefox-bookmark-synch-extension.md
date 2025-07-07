@@ -1,4 +1,5 @@
 +++
+path = "/2005/06/23/slashdot-journal-110184-firefox-bookmark-synch-extension/"
 title = "firefox bookmark synch extension"
 date = "2005-06-23T00:00:00+00:00"
 [extra]

@@ -1,4 +1,5 @@
 +++
+path = "/2019/07/08/why-every-team-needs-a-delivery-manager/"
 title = "Why every team needs a Delivery Manager (DM)"
 [extra]
 description = "The modern agile dev team has a new structure"

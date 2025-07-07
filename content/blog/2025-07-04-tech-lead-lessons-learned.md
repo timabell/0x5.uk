@@ -1,4 +1,5 @@
 +++
+path = "/2025/07/04/tech-lead-lessons-learned/"
 title = "Tech lead lessons learned"
 +++
 

@@ -1,4 +1,5 @@
 +++
+path = "/2011/11/09/gpsprune-file-matching/"
 title = "GpsPrune file matching"
 date = "2011-11-09T00:08:00.001Z"
 [extra]

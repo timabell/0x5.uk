@@ -1,4 +1,5 @@
 +++
+path = "/2009/10/24/life-update-software-learning/"
 title = "life update - software learning"
 date = "2009-10-24T22:29:00.002Z"
 [extra]

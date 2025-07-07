@@ -1,4 +1,5 @@
 +++
+path = "/2008/07/16/work-at-emapsite/"
 title = "work at emapsite"
 date = "2008-07-16T14:34:00.003Z"
 [extra]

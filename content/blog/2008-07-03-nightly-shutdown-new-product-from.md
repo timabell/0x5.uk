@@ -1,4 +1,5 @@
 +++
+path = "/2008/07/03/nightly-shutdown-new-product-from/"
 title = "Nightly Shutdown, a new product from Proven Works"
 date = "2008-07-03T19:30:00.006Z"
 [extra]

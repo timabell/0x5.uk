@@ -1,4 +1,5 @@
 +++
+path = "/2024/04/18/trunk-based-development-is-wrong/"
 title = "Trunk based (mainline) development is (mostly) wrong"
 +++
 

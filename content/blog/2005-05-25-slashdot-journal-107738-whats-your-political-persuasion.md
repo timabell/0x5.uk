@@ -1,4 +1,5 @@
 +++
+path = "/2005/05/25/slashdot-journal-107738-whats-your-political-persuasion/"
 title = "What's your political persuasion?"
 date = "2005-05-25T00:00:00+00:00"
 [extra]

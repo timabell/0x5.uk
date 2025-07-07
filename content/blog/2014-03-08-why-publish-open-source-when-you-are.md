@@ -1,4 +1,5 @@
 +++
+path = "/2014/03/08/why-publish-open-source-when-you-are/"
 title = "Why publish open source when you are commercial?"
 date = "2014-03-08T19:07:00.000Z"
 [extra]

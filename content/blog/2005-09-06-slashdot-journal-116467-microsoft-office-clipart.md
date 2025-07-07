@@ -1,4 +1,5 @@
 +++
+path = "/2005/09/06/slashdot-journal-116467-microsoft-office-clipart/"
 title = "microsoft office clipart"
 date = "2005-09-06T00:00:00+00:00"
 [extra]

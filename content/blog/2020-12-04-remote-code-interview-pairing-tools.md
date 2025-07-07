@@ -1,4 +1,5 @@
 +++
+path = "/2020/12/04/remote-code-interview-pairing-tools/"
 title = "Remote code interview pairing tools"
 +++
 

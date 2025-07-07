@@ -1,4 +1,5 @@
 +++
+path = "/2008/08/24/reseting-home-folder-permissions-in/"
 title = "reseting home folder permissions in ubuntu linux"
 date = "2008-08-24T15:03:00.006Z"
 [extra]

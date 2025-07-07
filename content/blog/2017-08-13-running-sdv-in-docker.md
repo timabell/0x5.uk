@@ -1,4 +1,5 @@
 +++
+path = "/2017/08/13/running-sdv-in-docker/"
 title = "Running sdv in docker"
 date = "2017-08-13T20:35:14+01:00"
 [extra]

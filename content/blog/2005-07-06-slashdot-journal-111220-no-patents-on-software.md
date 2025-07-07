@@ -1,4 +1,5 @@
 +++
+path = "/2005/07/06/slashdot-journal-111220-no-patents-on-software/"
 title = "no patents on software!!"
 date = "2005-07-06T00:00:00+00:00"
 [extra]

@@ -1,4 +1,5 @@
 +++
+path = "/2017/05/12/dustbin-of-ideas-it-contractor-buddy/"
 title = "Dustbin of ideas - IT Contractor Buddy"
 date = "2017-05-12T12:32:07+01:00"
 [extra]

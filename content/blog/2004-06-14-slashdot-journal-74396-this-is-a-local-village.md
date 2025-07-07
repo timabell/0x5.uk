@@ -1,4 +1,5 @@
 +++
+path = "/2004/06/14/slashdot-journal-74396-this-is-a-local-village/"
 title = "This is a local village"
 date = "2004-06-14T00:00:00+00:00"
 [extra]

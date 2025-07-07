@@ -1,4 +1,5 @@
 +++
+path = "/2009/11/16/getting-supybot-to-announce-new/"
 title = "getting supybot to announce new bugzilla bugs"
 date = "2009-11-16T17:22:00.005Z"
 [extra]

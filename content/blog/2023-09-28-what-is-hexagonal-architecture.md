@@ -1,4 +1,5 @@
 +++
+path = "/2023/09/28/what-is-hexagonal-architecture/"
 title = "What is Hexagonal Architecture, aka \"Ports and Adapters\""
 +++
 

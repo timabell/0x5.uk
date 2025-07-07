@@ -1,4 +1,5 @@
 +++
+path = "/2021/07/08/why-i-want-you-to-use-slack-threads/"
 title = "Why I want you to use slack threads"
 +++
 

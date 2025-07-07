@@ -1,4 +1,5 @@
 +++
+path = "/2012/01/25/bbc-and-bouncing-emails/"
 title = "The BBC and the bouncing emails"
 date = "2012-01-25T21:22:00.001Z"
 [extra]

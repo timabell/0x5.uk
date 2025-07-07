@@ -1,4 +1,5 @@
 +++
+path = "/2014/01/07/returning-to-commercial-aspnet-from/"
 title = "Returning to commercial ASP.NET from Ruby on Rails"
 date = "2014-01-07T13:17:00.002Z"
 [extra]

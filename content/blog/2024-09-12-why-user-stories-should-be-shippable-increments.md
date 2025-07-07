@@ -1,4 +1,5 @@
 +++
+path = "/2024/09/12/why-user-stories-should-be-shippable-increments/"
 title = "Why user stories should be shippable increments"
 +++
 

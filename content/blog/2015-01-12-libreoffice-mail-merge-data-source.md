@@ -1,4 +1,5 @@
 +++
+path = "/2015/01/12/libreoffice-mail-merge-data-source/"
 title = "LibreOffice mail merge - \"data source 'SOURCE' was not found\""
 date = "2015-01-12T22:31:00.002Z"
 [extra]
