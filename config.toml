@@ -1,6 +1,10 @@
 # The URL the site will be built for
 base_url = "https://0x5.uk/"
 
+# Site title and description
+title = "Tim Abell"
+description = "Helping teams ship software to be proud of."
+
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
 
@@ -14,3 +18,16 @@ highlight_code = true
 
 [extra]
 # Put all your custom variables here
+author = "Tim Abell"
+avatar = "https://en.gravatar.com/userimage/5102970/962f6ea1bf5118338fd13ee13eb799d0.jpeg"
+google_analytics = "UA-3978538-2"
+twitter_username = "tim_abell"
+disqus_shortname = "timwise"
+
+# Social links
+[extra.social]
+email = "tim+blog@0x5.uk"
+github = "timabell"
+linkedin = "timabell"
+twitter = "tim_abell"
+mastodon = "https://mastodon.social/@tim_abell"

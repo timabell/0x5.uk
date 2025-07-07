@@ -1,0 +1,11 @@
+{% extends "default.html" %}
+
+{% block content %}
+    <div class="content">
+        {% if page %}
+            {{ page.content | safe }}
+        {% elif section %}
+            {{ section.content | safe }}
+        {% endif %}
+    </div>
+{% endblock content %}

@@ -1,13 +1,12 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
-    {% seo %}
-    {% include meta.html %}
+    <title>{% if page.title %}{{ page.title }} – {% endif %}{{ config.title }} – {{ config.description }}</title>
+    {% include "meta.html" %}
 
-    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
-    <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
-    <link rel="canonical" href="{{ site.url }}{{ page.url }}" />
+    <link rel="stylesheet" type="text/css" href="{{ config.base_url }}/style.css" />
+    <link rel="alternate" type="application/rss+xml" title="{{ config.title }} - {{ config.description }}" href="{{ config.base_url }}/rss.xml" />
+    <link rel="canonical" href="{{ config.base_url }}{{ current_path }}" />
 
     <meta name="theme-color" content="#673AAC">
     <script type="text/javascript">
@@ -43,17 +42,17 @@
     <div class="wrapper-masthead">
       <div class="container">
         <header class="masthead clearfix">
-          <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" /></a>
+          <a href="{{ config.base_url }}/" class="site-avatar"><img src="{{ config.extra.avatar }}" /></a>
 
           <div class="site-info">
-            <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
-            <p class="site-description">{{ site.description }}</p> 
+            <h1 class="site-name"><a href="{{ config.base_url }}/">{{ config.title }}</a></h1>
+            <p class="site-description">{{ config.description }}</p> 
           </div>
 
 					<nav>
-						<a href="{{ site.baseurl }}/about/">👤&nbsp;About&nbsp;Me</a>
-						<a href="{{ site.baseurl }}/hire">💼&nbsp;Hire&nbsp;Me</a>
-						<a href="{{ site.baseurl }}/">📝&nbsp;Blog</a>
+						<a href="{{ config.base_url }}/about/">👤&nbsp;About&nbsp;Me</a>
+						<a href="{{ config.base_url }}/hire">💼&nbsp;Hire&nbsp;Me</a>
+						<a href="{{ config.base_url }}/">📝&nbsp;Blog</a>
 						<a href="/subscribe/">📬&nbsp;Subscribe</a>
 						<a href="https://pod.timwise.co.uk/subscribe">🎙️&nbsp;Podcast&nbsp;</a>
 						<a href="https://charmconsulting.co.uk/" target="_blank">🧑‍💻&nbsp;C#&nbsp;Consulting</a>
@@ -66,18 +65,18 @@
 
 
     <div id="main" role="main" class="container">
-      {{ content }}
+      {% block content %}{% endblock content %}
     </div>
 
     <div class="wrapper-footer">
       <div class="container">
         <footer class="footer">
-          {% include svg-icons.html %}
+          {% include "svg-icons.html" %}
         </footer>
       </div>
     </div>
 
-    {% include analytics.html %}
+    {% include "analytics.html" %}
 
     <script src="https://cdn.jsdelivr.net/npm/anchor-js/anchor.min.js"></script>
     <script>
