@@ -11,7 +11,7 @@
 
       {% for post in recent_posts %}
         <article class="post">
-          <h1><a href="{{ post.permalink }}">{{ post.title }}</a></h1>
+          <h1><a href="{{ post.path }}">{{ post.title }}</a></h1>
           <div>
             <div class="post_date">{{ post.date | date(format="%B %e, %Y") }}</div>
             {% set word_count = post.content | wordcount %}
@@ -20,14 +20,14 @@
           <div class="entry">
             {{ post.content | striptags | truncate(length=200) | safe }}
           </div>
-          <a href="{{ post.permalink }}" class="read-more">Read More</a>
+          <a href="{{ post.path }}" class="read-more">Read More</a>
         </article>
       {% endfor %}
 
       <h1>Older posts</h1>
       {% for post in older_posts %}
         <div>
-          <a href="{{ post.permalink }}">{{ post.title }}</a><br/>
+          <a href="{{ post.path }}">{{ post.title }}</a><br/>
           <span class="post_date">{{ post.date | date(format="%B %e, %Y") }}</span>
         </div>
       {% endfor %}
