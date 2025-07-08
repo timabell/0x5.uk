@@ -123,7 +123,7 @@ Cross-database query builder/analyser. Feature rich - data/schema compare, pivot
 
 Live online sql editor / runner
 
-![SQL Fiddle screenshot](/blog/img/tools/sqlfiddle-screenshot.png){:height="200px"}
+![SQL Fiddle screenshot](/static/images/blog/db-tools/sqlfiddle-screenshot.png){:height="200px"}
 
 * <http://sqlfiddle.com/>
 
