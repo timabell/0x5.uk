@@ -1,5 +1,5 @@
 +++
-path = "/2024/10/07/should-you-create-tickets-for-tech-tasks?/"
+path = "/2024/10/07/should-you-create-tickets-for-tech-tasks/"
 title = "Should you create tickets for tech tasks?"
 +++
 
