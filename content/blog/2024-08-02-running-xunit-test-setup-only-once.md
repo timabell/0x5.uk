@@ -27,7 +27,7 @@ The example code can be found at <https://github.com/timabell/CollectionFixtureX
 
 First, create a class that contains the setup code that should only run once.
 
-```csharp
+```cs
 /// <summary>
 /// Setup / teardown code that the tests need to work.
 /// </summary>
@@ -49,7 +49,7 @@ public class SharedFixture : IDisposable
 
 You need to define a test collection that allows you to connect the fixture to the test classes.
 
-```csharp
+```cs
 /// <summary>
 /// This exists to prevent xUnit running the SharedFixture setup more than once
 /// concurrently when multiple test classes are executed at once,
@@ -71,7 +71,7 @@ By adding the `[Collection]` attribute, you associate the test classes with the 
 By (optionally) adding the fixture as a constructor parameter xUnit will inject fixture object gives access to the fixture object.
 
 
-```csharp
+```cs
 [Collection(nameof(SharedFixtureCollection))]
 public class TestClass1 : IClassFixture<SharedFixture>
 {
@@ -148,7 +148,7 @@ By default tests within a class run in series, and test classes are run in paral
 
 E.g.
 
-```csharp
+```cs
 [Collection("NonParallelCollection")] // prevent parallel run with TestClass2
 public class TestClass1 { ... }
 
@@ -175,7 +175,7 @@ To tell xUnit to actually run the setup/teardown, and this is one of the more mi
 
 I.e.
 
-```csharp
+```cs
 class SomeArbitraryCollection : ICollectionFixture<YourSetupFixture>
 ```
 
@@ -186,7 +186,7 @@ And then finally to actually connect the fixture to the test class being run,
 
 I.e.
 
-```csharp
+```cs
 [CollectionDefinition("These Names Must Match")]
 class SomeArbitraryCollection : ICollectionFixture<YourSetupFixture> {}
 
