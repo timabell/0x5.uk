@@ -16,7 +16,7 @@
             <div class="post_date">{{ post.date | date(format="%B %e, %Y") }}</div>
           </div>
           <div class="entry">
-            {{ post.content | striptags | truncate(length=200) }}
+            {{ post.content | striptags | truncate(length=200) | safe }}
           </div>
           <a href="{{ post.permalink }}" class="read-more">Read More</a>
         </article>
