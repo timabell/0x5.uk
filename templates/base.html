@@ -5,7 +5,10 @@
     {% include "meta.html" %}
 
     <link rel="stylesheet" type="text/css" href="/style.css" />
-    <link rel="alternate" type="application/rss+xml" title="{{ config.title }} - {{ config.description }}" href="{{ config.base_url }}/rss.xml" />
+    {% block rss %}
+    <link rel="alternate" type="application/rss+xml" title="RSS" href="{{ get_url(path="rss.xml", trailing_slash=false) }}">
+    <link rel="alternate" type="application/atom+xml" title="Atom" href="{{ get_url(path="atom.xml", trailing_slash=false) }}">
+    {% endblock %}
     {% if current_path is defined %}
     <link rel="canonical" href="{{ config.base_url }}{{ current_path }}" />
     {% endif %}
