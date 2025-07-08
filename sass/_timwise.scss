@@ -36,6 +36,20 @@ html {
 	background-color: var(--inline-code-background);
 }
 
+// Enable horizontal scrolling for code blocks
+pre {
+	overflow-x: auto;
+	white-space: pre;
+	word-wrap: normal;
+}
+
+pre code {
+	display: block;
+	padding: 1em;
+	overflow-x: auto;
+	line-height: 1.5;
+}
+
 
 @keyframes site-avatar {
   0% {
