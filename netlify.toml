@@ -1,0 +1,10 @@
+[build]
+publish = "public"
+command = "zola build"
+
+[build.environment]
+ZOLA_VERSION = "0.20.0"
+
+[[redirects]]
+  from = "/feed.xml"
+  to = "/atom.xml"

@@ -5,7 +5,10 @@
 
 name="${1:-todo}" # default name
 kebab_name=$(sed -e 's/ /-/g' -e 's/\(.*\)/\L\1/g' <<< "$name")
-newfile=_posts/`date +"%Y-%m-%d"`-$kebab_name.md
+path_date=`date +"%Y-%m-%d"`
+slug="\/`date +"%Y\/%m\/%d"`\/$kebab_name\/" # pre-escaped for sed call
+newfile=content/blog/$path_date-$kebab_name.md
 sed "s/name_here/\"$name\"/" _drafts/template.md >> "$newfile"
+sed -i "s/path_here/$slug/" "$newfile"
 echo "$newfile created"
 vim "$newfile"

@@ -1,0 +1,49 @@
+{% extends "base.html" %}
+
+{% block content %}
+<article class="post detailed">
+  <h1>{{ page.title }}</h1>
+
+  <div>
+    <p class="post_date">{{ page.date | date(format="%B %e, %Y") }}</p>
+
+    {% set word_count = page.content | wordcount %}
+    <p class="reading_time">{{ word_count / 200 | round }} min read ({{ word_count }} words)</p>
+
+    <div class="post-tags">
+      {% if page.taxonomies.categories %}
+        {% for category in page.taxonomies.categories %}
+          <a href="{{ get_taxonomy_url(kind="categories", name=category) }}">{{ category }}</a>
+          {% if not loop.last %}&nbsp;{% endif %}
+        {% endfor %}
+      {% endif %}
+    </div>
+  </div>
+    
+  <div class="entry">
+    {{ page.content | safe }}
+  </div>
+
+  <hr/>
+	<div id="post_footer">
+		<div>
+				{% if page.extra.reddit %}
+					<a href='{{ page.extra.reddit }}' target='_blank'>Discuss on Reddit</a> ||
+				{% endif %}
+				<a href='http://twitter.com/share?text=Read this: "{{ page.title | urlencode }}" by @{{ config.extra.twitter_username }}&url={{ config.base_url }}{{ page.permalink }}'
+					target='_blank'>Tweet This</a>
+				||
+				<a href="https://www.linkedin.com/shareArticle?mini=true&url={{ config.base_url }}{{ page.permalink }}&title={{ page.title }}"
+				  target='_blank'>Post to LinkedIn</a>
+				||
+				<a href="https://github.com/timabell/0x5.uk/blob/main/{{ page.relative_path }}"
+				   target="_blank">Page Source</a>
+		</div>
+	</div>
+
+	<hr/>
+	{% include "subscribe.html" %}
+
+	{% include "giscus.html" %}
+</article>
+{% endblock content %}

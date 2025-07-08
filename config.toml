@@ -1,0 +1,42 @@
+# The URL the site will be built for
+base_url = "https://0x5.uk/"
+
+# Site title and description
+title = "Tim Abell"
+description = "Helping teams ship software to be proud of."
+
+# Whether to automatically compile all Sass files in the sass directory
+compile_sass = true
+
+# Whether to build a search index to be used later on by a JavaScript library
+build_search_index = false
+
+generate_feeds=true
+feed_filenames = ["atom.xml", "rss.xml"]
+
+taxonomies = [
+    {name = "tags", render = false},
+    {name = "categories", render = false},
+]
+
+[slugify]
+paths_keep_dates = true
+
+[markdown]
+# Whether to do syntax highlighting
+# Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
+highlight_code = true
+
+[extra]
+# Put all your custom variables here
+author = "Tim Abell"
+avatar = "https://en.gravatar.com/userimage/5102970/962f6ea1bf5118338fd13ee13eb799d0.jpeg"
+twitter_username = "tim_abell"
+
+# Social links
+[extra.social]
+email = "tim+blog@0x5.uk"
+github = "timabell"
+linkedin = "timabell"
+twitter = "tim_abell"
+mastodon = "https://mastodon.social/@tim_abell"

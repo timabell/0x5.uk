@@ -1,3 +1,0 @@
-#!/bin/sh -v
-(sleep 3 && xdg-open http://localhost:4000/) &
-bundle exec jekyll s --drafts $@

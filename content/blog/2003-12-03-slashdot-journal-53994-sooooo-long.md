@@ -1,0 +1,12 @@
++++
+path = "/2003/12/03/slashdot-journal-53994-sooooo-long/"
+title = "sooooo long"
+date = "2003-12-03T00:00:00+00:00"
+[extra]
+slashdot_url = "https://slashdot.org/journal/53994/sooooo-long"
++++
+
+<p>Twenty Eight Days till they're out of my life.</p>
+<p>&gt;:(</p>
+<p><a href="http://dictionary.reference.com/search?r=2&amp;q=treachery">Treachery</a></p>
+

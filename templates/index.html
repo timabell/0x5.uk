@@ -1,0 +1,36 @@
+{% extends "base.html" %}
+
+{% block content %}
+  <div class="content">
+    {{ section.content | safe }}
+
+    <div class="posts">
+      {% set blog = get_section(path="blog/_index.md") %}
+      {% set recent_posts = blog.pages | slice(end=3) %}
+      {% set older_posts = blog.pages | slice(start=3) %}
+
+      {% for post in recent_posts %}
+        <article class="post">
+          <h1><a href="{{ post.path }}">{{ post.title }}</a></h1>
+          <div>
+            <div class="post_date">{{ post.date | date(format="%B %e, %Y") }}</div>
+            {% set word_count = post.content | wordcount %}
+            <div class="reading_time" title="{{ word_count }} words">{{ word_count / 200 | round }} minute read</div>
+          </div>
+          <div class="entry">
+            {{ post.content | striptags | truncate(length=200) | safe }}
+          </div>
+          <a href="{{ post.path }}" class="read-more">Read More</a>
+        </article>
+      {% endfor %}
+
+      <h1>Older posts</h1>
+      {% for post in older_posts %}
+        <div>
+          <a href="{{ post.path }}">{{ post.title }}</a><br/>
+          <span class="post_date">{{ post.date | date(format="%B %e, %Y") }}</span>
+        </div>
+      {% endfor %}
+    </div>
+  </div>
+{% endblock content %}

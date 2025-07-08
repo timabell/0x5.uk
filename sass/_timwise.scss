@@ -1,0 +1,68 @@
+html {
+	--post-footer-background: #eee;
+	--inline-code-background: #FAFAFA; // kept as per default for rouge highlighter in light mode
+}
+
+@media (prefers-color-scheme: dark) {
+	/* https://derekkedziora.com/blog/dark-mode-revisited */
+	html {
+		--post-footer-background: rgb(38, 37, 37);
+		--inline-code-background: #123;
+	}
+}
+
+/* give the subscribe box some space and a background to differentiate from post and comments on blog post footers */
+#subscribe_text {
+	padding-bottom: 1em;
+}
+#post_footer,
+#subscribe {
+	background-color: var(--post-footer-background);
+	margin: 1em 0 2em 0;
+	padding: 1em 1em 0.5em 1em;
+	text-align: center;
+}
+
+.flickr-pic {
+    text-align: center;
+}
+.post .flickr-pic img {
+    max-width: 600px;
+    max-height: 400px;
+}
+
+// override code highlighter styles
+.highlighter-rouge {
+	background-color: var(--inline-code-background);
+}
+
+// Enable text wrapping for code blocks
+pre {
+	white-space: pre-wrap;
+	word-wrap: break-word;
+	word-break: break-word;
+}
+
+pre code {
+	display: block;
+	padding: 1em;
+	line-height: 1.5;
+	max-width: 100%;
+}
+
+
+@keyframes site-avatar {
+  0% {
+		opacity: 0;
+  }
+  50% {
+		transform: translateX(-300px) rotate(-400deg);
+		opacity: 0;
+  }
+  100% {
+		transform: translateX(0px) rotate(0deg);
+		opacity: 1;
+  }
+}
+
+.site-avatar { animation: site-avatar 2s linear; }

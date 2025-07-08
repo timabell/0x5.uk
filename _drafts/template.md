@@ -1,6 +1,6 @@
 ---
+path: path_here
 title: name_here
-layout: post
 ---
 
 content
