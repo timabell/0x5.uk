@@ -2,7 +2,7 @@
 layout: page
 title: Hire Me
 path: /hire/
-redirect_from:
+aliases:
   - /hire-me/
 ---
 

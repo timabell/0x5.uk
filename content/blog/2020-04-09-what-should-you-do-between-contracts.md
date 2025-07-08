@@ -1,8 +1,7 @@
 +++
 path = "/2020/04/09/what-should-you-do-between-contracts/"
 title = "What you should do between contracts"
-[extra]
-redirect_from = ["/2020/04/06/what-should-you-do-between-contracts/"]
+aliases = ["/2020/04/06/what-should-you-do-between-contracts/"]
 +++
 
 # Strange times with Covid-19

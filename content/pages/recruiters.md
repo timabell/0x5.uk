@@ -2,7 +2,7 @@
 layout: page
 title: Recruiters
 path: /recruiters/
-redirect_from: /2015/10/28/dealing-with-dodgy-recruiter-tactics/
+aliases: ["/2015/10/28/dealing-with-dodgy-recruiter-tactics/"]
 ---
 
 While many recruiters try and be reasonable, there are enough out there using
