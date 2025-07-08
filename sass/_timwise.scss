@@ -36,18 +36,18 @@ html {
 	background-color: var(--inline-code-background);
 }
 
-// Enable horizontal scrolling for code blocks
+// Enable text wrapping for code blocks
 pre {
-	overflow-x: auto;
-	white-space: pre;
-	word-wrap: normal;
+	white-space: pre-wrap;
+	word-wrap: break-word;
+	word-break: break-word;
 }
 
 pre code {
 	display: block;
 	padding: 1em;
-	overflow-x: auto;
 	line-height: 1.5;
+	max-width: 100%;
 }
 
 
