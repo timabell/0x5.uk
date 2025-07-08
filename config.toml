@@ -29,7 +29,6 @@ highlight_code = true
 author = "Tim Abell"
 avatar = "https://en.gravatar.com/userimage/5102970/962f6ea1bf5118338fd13ee13eb799d0.jpeg"
 twitter_username = "tim_abell"
-disqus_shortname = "timwise"
 
 # Social links
 [extra.social]
