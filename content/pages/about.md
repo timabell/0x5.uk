@@ -19,7 +19,7 @@ dev](https://twitter.com/timabell)).
 
 ## More stuff in my world
 
-* [Books I've been reading (goodreads)](https://www.goodreads.com/review/list/50628592?shelf=read)
+* [Books I've been reading (goodreads)](https://www.goodreads.com/user/show/50628592-tim-abell)
 * I love podcasts and audiobooks, here's [my pocast subcriptions](https://timwise.co.uk/podcast-subscriptions.html).
 * [Random public code and forks on github](https://github.com/timabell/)
 * [Even more random gists](https://gist.github.com/timabell/)
