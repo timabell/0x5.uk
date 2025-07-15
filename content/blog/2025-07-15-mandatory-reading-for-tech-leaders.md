@@ -1,6 +1,6 @@
 ---
 path: /2025/07/15/mandatory-reading-for-tech-leaders/
-title: "Mandatory reading for tech leaders"
+title: "Mandatory reading for tech leaders 📚"
 ---
 
 I repeatedly encounter ongoing software projects that are _far behind_ industry best practice and as a result are getting the inevitable problems in quality, delays, waste etc. When I talk to the project leadership and above it often transpires that they are unaware of the literature that has been created off the back of many decades of experience, experimentation and research into what works and what doesn't in software delivery.
@@ -9,7 +9,7 @@ I have read many things recently on high-performance software delivery and tech 
 
 These are, in an order that would be a good order to read them:
 
-## The Unicorn Project
+## 📕 The Unicorn Project
 
 [The Unicorn Project by Gene Kim](https://www.goodreads.com/book/show/44333183-the-unicorn-project)
 
@@ -19,7 +19,7 @@ The book is a [didactic novel](https://plexways.com/literary-art/didactic-novels
 
 It is a modernised version of the Phoenix project. Where the Phoenix project tackled the Dev/Ops divide that has (mostly) been abandoned in software delivery, the Unicorn project tackles more modern dysfunctions (Dev/QA silos, lack of communication and coordination etc.).
 
-## The DevOps Handbook
+## 📕 The DevOps Handbook
 
 [The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations by Gene Kim, Patrick Debois, John Willis, Jez Humble](https://www.goodreads.com/book/show/26083308-the-devops-handbook)
 
@@ -27,7 +27,7 @@ This is the full manual for high-performance software delivery. You can use it a
 
 Advanced teams will want to iterate beyond the standard outlined in this book, but most organisations could benefit from moving from inferior practices to the standards outlined herein.
 
-## The Goal
+## 📕 The Goal
 
 [The Goal: A Process of Ongoing Improvement by Eliyahu M. Goldratt, Jeff Cox](https://www.goodreads.com/book/show/113934.The_Goal)
 
@@ -37,7 +37,7 @@ This book is another didactic novel, this time following the transformation of a
 
 There is a lot to learn from this book, as I think much of "lean software delivery" and "Agile" has [cargo-culted](https://en.m.wikipedia.org/wiki/Cargo_cult_programming) the methods from Toyota without understanding the principles that drive the behaviours and systems, and as such don't achieve the results they could. (For example the average SCRUM retrospective completely misses the point of the way Toyota runs continuous improvement).
 
-## The Toyota Way
+## 📕 The Toyota Way
 
 [The Toyota Way: 14 Management Principles from the World's Greatest Manufacturer by Jeffrey K. Liker](https://www.goodreads.com/book/show/161789.The_Toyota_Way)
 
@@ -45,7 +45,7 @@ A lot of the best practice in software (lean, kanban etc, continuous delivery et
 
 This book goes far beyond the detailed improvement of a production line, and the theories involved, and covers into the company culture that enables high performance lean operations, developing leadership, transforming organisations (the case study being the turnaround of the [NUMMI plant](https://en.wikipedia.org/wiki/NUMMI) under Toyota's care).
 
-## Further reading
+## Further reading 📚
 
 If the tech leaders I work with have read, absorbed and embody even one of the above books it makes it much more possible for me to lead teams into high-performance low-stress efficient software delivery.
 
