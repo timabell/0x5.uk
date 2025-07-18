@@ -1,5 +1,5 @@
 +++
-path = "/2024/01/13/new-tool:-sln-items-sync-for-visual-studio-solution-folders/"
+path = "/2024/01/13/new-tool-sln-items-sync-for-visual-studio-solution-folders/"
 title = "New tool: sln-items-sync for Visual Studio solution folders"
 +++
 
