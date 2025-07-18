@@ -69,3 +69,7 @@ When someone leaves, the new person or others on the team can look over their ca
 ## Also available on the podcast
 
 If you like this, you might want to have a listen to me and David talking about this and other lessons learned in [episode 8 of software should be free - Hiding from Covid-19 and the end of 2 years at DfE](https://pod.timwise.co.uk/8).
+
+## Further reading
+
+- A very similar idea of ["JIT selection from independent streams" by Jason Cohen (aka A Smart Bear)](https://longform.asmartbear.com/jit-backlogs/) which is well worth reading.
