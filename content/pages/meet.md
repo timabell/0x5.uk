@@ -1,5 +1,5 @@
 ---
-path: /meet
+path: /meet/
 ---
 
 <script type="text/javascript">

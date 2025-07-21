@@ -23,7 +23,7 @@ path: /contact/
 
 ## Video call booking
 
-📆 [Book a google meet call](/meet)
+📆 [Book a google meet call](/meet/)
 
 ## Social
 
