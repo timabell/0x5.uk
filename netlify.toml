@@ -14,3 +14,4 @@ ZOLA_VERSION = "0.20.0"
   from = "/meet/"
   to = "https://savvycal.com/tim-abell/chat"
   status = 307
+  force = true
