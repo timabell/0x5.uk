@@ -8,6 +8,7 @@ ZOLA_VERSION = "0.20.0"
 [[redirects]]
   from = "/feed.xml"
   to = "/atom.xml"
+  status = 301
 
 [[redirects]]
   from = "/meet/"
