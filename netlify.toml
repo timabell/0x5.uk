@@ -8,3 +8,8 @@ ZOLA_VERSION = "0.20.0"
 [[redirects]]
   from = "/feed.xml"
   to = "/atom.xml"
+
+[[redirects]]
+  from = "/meet"
+  to = "https://savvycal.com/tim-abell/chat"
+  status = 307
