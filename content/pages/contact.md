@@ -23,7 +23,7 @@ path: /contact/
 
 ## Video call booking
 
-📆 [Book a google meet call](https://savvycal.com/tim-abell/chat)
+📆 [Book a google meet call](/meet)
 
 ## Social
 
