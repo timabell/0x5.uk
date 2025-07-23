@@ -13,9 +13,9 @@ These are, in an order that would be a good order to read them:
 
 [The Unicorn Project by Gene Kim](https://www.goodreads.com/book/show/44333183-the-unicorn-project)
 
-This is a book tells the story of the transformation of an fictional organisation from outdated and ineffective practices of software delivery to a much more modern and effective.
+This is a book that tells the story of the transformation of a fictional organisation from outdated and ineffective practices of software delivery to a much more modern and effective approach.
 
-The book is a [didactic novel](https://plexways.com/literary-art/didactic-novels/), using a compelling and engaging story of a cast of fictional characters living through the changes and playing their roles in the change as they learn the principles at work, but do not be deceived, this is a book based on the foundation of deep industry knowledge and the lessons held within it are defensible and well researched.
+The book is a [didactic novel](https://plexways.com/literary-art/didactic-novels/), using a compelling and engaging story of a cast of fictional characters living through the changes and playing their roles in the change as they learn the principles at work — but do not be deceived, this is a book based on the foundation of deep industry knowledge and the lessons held within it are defensible and well researched.
 
 It is a modernised version of the Phoenix project. Where the Phoenix project tackled the Dev/Ops divide that has (mostly) been abandoned in software delivery, the Unicorn project tackles more modern dysfunctions (Dev/QA silos, lack of communication and coordination etc.).
 
@@ -43,7 +43,7 @@ There is a lot to learn from this book, as I think much of "lean software delive
 
 A lot of the best practice in software (lean, kanban etc, continuous delivery etc) have their roots in the scientific understanding of flows of work developed at the world-leading car manufacturer Toyota.
 
-This book goes far beyond the detailed improvement of a production line, and the theories involved, and covers into the company culture that enables high performance lean operations, developing leadership, transforming organisations (the case study being the turnaround of the [NUMMI plant](https://en.wikipedia.org/wiki/NUMMI) under Toyota's care).
+This book goes far beyond the detailed improvement of a production line and the theories involved; covering the company culture that enables high performance lean operations, developing leadership and transforming organisations (the case study being the turnaround of the [NUMMI plant](https://en.wikipedia.org/wiki/NUMMI) under Toyota's care).
 
 ## Further reading 📚
 
