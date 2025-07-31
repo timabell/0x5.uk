@@ -99,6 +99,10 @@ recruiters!).
 
 ## Technical details
 
+### json-resume
+
+I've been working on integrating the auth & gpg signing into my json based resume generation flow based on the excellent json-resume project. You can find the repo for this here: [github.com/timabell/json-resume](https://github.com/timabell/json-resume)
+
 ### Auth codes
 
 These in a way are redundant, but they are easier for the average person to check, and they add air of authority to the whole thing to help discourage those who would behave in bad faith.
