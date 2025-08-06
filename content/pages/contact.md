@@ -20,6 +20,9 @@ path: /contact/
 - 🏢 [LinkedIn](https://www.linkedin.com/in/timabell)
 - 🎮 [Discord](https://discord.com/users/890701039735558164)
 - but [not WhatsApp](/2025/07/02/why-not-whatsapp/)
+- SMS on the above number as a fallback
+    - (though it's not preferred or secure), useful if the other methods are failing or in the increasingly rare case I'm outside mobile data coverage
+- I don't have [RCS/iMessage](https://9to5mac.com/what-is-rcs-ios-18s-long-awaited-fix-for-iphone-to-android-messaging/) support and it looks like [LineageOS will never get it](https://gitlab.com/LineageOS/issues/android/-/issues/7299) due to the increasingly monopolistic behaviour of the Google/Apple phone duopoly locking out all competition.
 
 ## Video call booking 🎙️
 
