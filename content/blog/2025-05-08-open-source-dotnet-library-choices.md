@@ -28,6 +28,7 @@ Alternatives:
 
 - [FakeItEasy](https://github.com/FakeItEasy/FakeItEasy)
 - [NSubstitute](https://github.com/nsubstitute/NSubstitute)
+- Discussion: [reddit: "Now that the controversy from Moq's dependencies has had some time to settle, what are people moving to?" : r/dotnet](https://www.reddit.com/r/dotnet/comments/173ddyk/now_that_the_controversy_from_moqs_dependencies/)
 
 ### [GitInfo](https://github.com/devlooped/GitInfo)
 
