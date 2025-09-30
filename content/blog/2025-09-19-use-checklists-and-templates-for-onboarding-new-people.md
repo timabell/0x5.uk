@@ -118,10 +118,11 @@ New starters are often hesitant to bother the existing, often busy, team with "n
 
 Create a `#new-starters` channel / chat-room, and ask a few of your existing people who are more enthusiastic about helping new people to lurk in there and keep an eye out for questions. Make sure all new starters are added to that channel and are encouraged to ask all questions no matter how trivial, and let them know that you'll use what's in there to improve onboarding for future people to show that you value the questions beyond just getting them started as an individual.
 
-This has two massive benefits:
+This has massive benefits:
 
 1. New people will feel much more happy to ask all those "silly questions" that they run in to along the way to being productive instead of holding back or asking the wrong person. (There are no silly questions, there are only onboarding frictions that can be improved).
 2. All those normally hidden frictions, confusion and stress can be flushed out into a shared channel where they can be improved upon / eliminated for future new starters.
+3. Your existing team can self-select into helping new people get started by joining the onboarding channel.
 
 A win for everyone involved, for so little effort.
 
