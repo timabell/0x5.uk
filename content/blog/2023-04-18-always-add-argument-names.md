@@ -162,3 +162,4 @@ Learn more about primitive obsession in these article:
 
 - <https://stackoverflow.com/questions/20601009/when-are-named-arguments-useful>
 - <https://www.howtocodeit.com/articles/ultimate-guide-rust-newtypes> - this is in Rust but a good example of creating type wrappers to avoid primitive obsession and eliminate many parameter ordering issues
+- Sadly my new favourite language [Rust does not support named args](https://github.com/rust-lang/rfcs/issues/323)
