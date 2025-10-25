@@ -1,0 +1,12 @@
+{% macro render(items) %}
+  {% if items and items | length > 0 %}
+    <ul class="toc">
+      {% for item in items %}
+        <li>
+          <a href="#{{ item.id }}">{{ item.title | safe }}</a>
+          {{ self::render(items=item.children) }}
+        </li>
+      {% endfor %}
+    </ul>
+  {% endif %}
+{% endmacro render %}

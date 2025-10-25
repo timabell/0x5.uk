@@ -1,12 +1,10 @@
 +++
 path = "/2021/12/17/phone-setup-notes/"
 title = "Phone setup notes"
+
+[extra]
+show_toc = true
 +++
-
-This is epic, so here's a table of contents:
-
-* This list will be replaced by table of contents. https://kramdown.gettalong.org/converter/html.html#toc
-{:toc}
 
 ---
 

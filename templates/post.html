@@ -1,4 +1,5 @@
 {% extends "base.html" %}
+{% import "macros/toc.html" as toc %}
 
 {% block content %}
 <article class="post detailed">
@@ -19,7 +20,11 @@
       {% endif %}
     </div>
   </div>
-    
+  
+  {% if page.extra.show_toc %}
+    {{ toc::render(items=page.toc) }}
+  {% endif %}
+  
   <div class="entry">
     {{ page.content | safe }}
   </div>

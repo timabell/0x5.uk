@@ -1,10 +1,10 @@
 +++
 path = "/2023/09/28/what-is-hexagonal-architecture/"
 title = "What is Hexagonal Architecture, aka \"Ports and Adapters\""
-+++
 
-* toc placeholder
-{:toc}
+[extra]
+show_toc = true
++++
 
 ## Hexagonal Architecture? Uh... what?
 
