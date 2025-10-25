@@ -1,0 +1,74 @@
+/* Solarized Light Theme (default) */
+pre.z-code {
+    background-color: #fdf6e3; /* Solarized base3 */
+    padding: 7px 7px 7px 10px;
+    overflow: scroll;
+    font-size: 95%;
+    color: #657b83; /* Solarized base00 */
+}
+
+code {
+    font-family:'Bitstream Vera Sans Mono','Courier', monospace;
+}
+
+.highlighter-rouge { 
+    background-color: #eee8d5; /* Solarized base2 */
+    color: #dc322f; /* Solarized red */
+    font-size: 16px;
+    padding: 2px 4px;
+    border-radius: 3px;
+}
+
+/* Zola uses z- prefixed classes for syntax highlighting */
+pre.z-code .z-comment { color: #93a1a1 } /* Comment */
+pre.z-code .z-keyword { color: #859900 } /* Keyword - green */
+pre.z-code .z-string { color: #2aa198 } /* String - cyan */
+pre.z-code .z-number { color: #2aa198 } /* Number - cyan */
+pre.z-code .z-constant { color: #cb4b16 } /* Constant - orange */
+pre.z-code .z-function { color: #268bd2 } /* Function - blue */
+pre.z-code .z-class { color: #268bd2 } /* Class - blue */
+pre.z-code .z-type { color: #b58900 } /* Type - yellow */
+pre.z-code .z-variable { color: #268bd2 } /* Variable - blue */
+pre.z-code .z-operator { color: #859900 } /* Operator - green */
+pre.z-code .z-punctuation { color: #657b83 } /* Punctuation */
+pre.z-code .z-escape { color: #cb4b16 } /* Escape - orange */
+pre.z-code .z-embedded { color: #cb4b16 } /* Embedded - orange */
+pre.z-code .z-invalid { color: #dc322f } /* Invalid - red */
+pre.z-code .z-support { color: #b58900 } /* Support - yellow */
+pre.z-code .z-storage { color: #859900 } /* Storage - green */
+pre.z-code .z-entity { color: #268bd2 } /* Entity - blue */
+pre.z-code .z-meta { color: #657b83 } /* Meta */
+pre.z-code .z-source { color: #657b83 } /* Source - default text color */
+
+/* Solarized Dark Theme (dark mode) */
+@media (prefers-color-scheme: dark) {
+    pre.z-code {
+        background-color: #002b36; /* Solarized base03 */
+        color: #839496; /* Solarized base0 */
+    }
+
+    .highlighter-rouge { 
+        background-color: #073642; /* Solarized base02 */
+        color: #dc322f; /* Solarized red */
+    }
+
+    pre.z-code .z-comment { color: #586e75 } /* Comment - base01 */
+    pre.z-code .z-keyword { color: #859900 } /* Keyword - green */
+    pre.z-code .z-string { color: #2aa198 } /* String - cyan */
+    pre.z-code .z-number { color: #2aa198 } /* Number - cyan */
+    pre.z-code .z-constant { color: #cb4b16 } /* Constant - orange */
+    pre.z-code .z-function { color: #268bd2 } /* Function - blue */
+    pre.z-code .z-class { color: #268bd2 } /* Class - blue */
+    pre.z-code .z-type { color: #b58900 } /* Type - yellow */
+    pre.z-code .z-variable { color: #268bd2 } /* Variable - blue */
+    pre.z-code .z-operator { color: #859900 } /* Operator - green */
+    pre.z-code .z-punctuation { color: #839496 } /* Punctuation */
+    pre.z-code .z-escape { color: #cb4b16 } /* Escape - orange */
+    pre.z-code .z-embedded { color: #cb4b16 } /* Embedded - orange */
+    pre.z-code .z-invalid { color: #dc322f } /* Invalid - red */
+    pre.z-code .z-support { color: #b58900 } /* Support - yellow */
+    pre.z-code .z-storage { color: #859900 } /* Storage - green */
+    pre.z-code .z-entity { color: #268bd2 } /* Entity - blue */
+    pre.z-code .z-meta { color: #839496 } /* Meta */
+    pre.z-code .z-source { color: #839496 } /* Source - default text color */
+}
