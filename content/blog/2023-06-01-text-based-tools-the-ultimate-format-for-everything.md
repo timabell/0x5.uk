@@ -97,6 +97,10 @@ For UML, graphviz and many other formats there is [mermaid.js](https://mermaid.j
 
 [Chris Bimpson posted "Automating Architecture Diagrams"](https://christopher-bimson.github.io/2025/05/automating-architecture-diagrams/) which provides a great example of using this in practice, though there are many ways to use this tooling.
 
+#### LikeC4
+
+[LikeC4](https://likec4.dev/) is a text based diagram tool that produces an interactive static website with interactive diagrams, multiple views etc. Very good for documenting complicated existing architecture and being able to have a single source of truth viewable at multiple levels of abstraction and angles.
+
 ### Documenting things in markdown
 
 - It's pretty common in developer land to write docs for things in a markdown `README.md` file (for example the [gitopolis readme](https://github.com/rustworkshop/gitopolis/blob/main/README.md))
