@@ -89,3 +89,5 @@ All in all I'm very happy with this, it allows me to bolt an Aspire dashboard, s
 - running projects without adding project references
 	- [www.c-sharpcorner.com: Host external executables in .NET Aspire](https://www.c-sharpcorner.com/article/host-external-executables-in-net-aspire/)
 	- [learn.microsoft.com: Host external executables in Aspire - Aspire | Microsoft Learn](https://learn.microsoft.com/en-us/dotnet/aspire/app-host/executable-resources)
+- [Must-have resources for new .NET Aspire developers ~ Anthony Simmon](https://anthonysimmon.com/must-have-resources-for-new-dotnet-aspire-developers/)
+- [Exploring the Microsoft Developer Control Plane at the heart of the new .NET Aspire ~ Anthony Simmon](https://anthonysimmon.com/exploring-microsoft-developer-control-plane-core-dotnet-aspire-dotnet-8/)
