@@ -21,7 +21,7 @@ I've added a note to each explaining why you should read it, and when you might 
 	* Why? Somewhat surprisingly perhaps the calm and empathic approach to communication is superior; but that's easier said than done with our brains evolved for times gone by.
 	* When to read: As soon as you argue with someone and wonder what it achieved or it cost you dearly. Ideally before that happens.
 1. [Bonds That Make Us Free; C. Terry Warner](https://www.amazon.co.uk/Bonds-That-Make-Free-Relationships/dp/B07N149VZK/)
-	* Why? Yes, it's another book on dealing with people. The truth is it's not them it's you; but the good new is that you have the power to change what's wrong. It turns out that dealing with people is important, and is foundational in all walks of life.
+	* Why? Yes, it's another book on dealing with people. The truth is it's not them it's you; but the good news is that you have the power to change what's wrong. It turns out that dealing with people is important, and is foundational in all walks of life.
 	* When to read: As soon as you can, and then probably every decade after that.
 1. [So good they can't ignore you; Cal Newport](https://www.amazon.co.uk/Good-They-Cant-Ignore-You/dp/0349415862/)
 	* Why? Don't believe the hype at work, people hire for your real skills and what you can do for them. More details and foundational career advice for any path you choose lie within.
