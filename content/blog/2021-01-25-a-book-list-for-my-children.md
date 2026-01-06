@@ -32,6 +32,9 @@ I've added a note to each explaining why you should read it, and when you might 
 1. [48 Laws of Power; Robert Greene](https://www.goodreads.com/book/show/1303.The_48_Laws_of_Power)
 	* Why? Sadly the world is not the cuddly, friendly, fair and equitable world some people seem to think they can wish into existence by will power and singing alone. There are plenty of good things, but the hard truths about raw underlying human nature are best understood so you can deal with them if you need to. I trust you are a good human being who will only use some of the darker knowledge in here for good and personal survival.
 	* When to read: I hesitate to say early because used without experience this knowledge will get you into more trouble than it gets you out of. That said, earlier the better but don't rush into using it, just observe the people around quietly with this new knowledge for the next few years at least.
+1. [Why Has Nobody Told Me This Before?; Julie Smith](https://www.goodreads.com/book/show/58536046-why-has-nobody-told-me-this-before)
+	* Why? We all think we are perfect and we know how to use our brains. Turns out that's hubris, and it's worth having an expert on hand to help you learn to use your own brain properly and communicate in non-destructive ways with those around us. Expert therapy and counselling are great and should be taken advantage of, but it's useful to have a reference and guide to have and to study alone as well, regardless of whether you get expert help.
+	* When to read: as soon as you can, and probably every 5-10 years after that given we tend to forget the lessons and go back to default human patterns.
 
 ## Money and work
 
@@ -41,12 +44,18 @@ I've added a note to each explaining why you should read it, and when you might 
 1. [Think and Grow Rich; Napoleon Hill](https://www.goodreads.com/book/show/30186948-think-and-grow-rich)
 	* Why? More money will let you solve more problems, have more freedom, help more people, and live your best life. But it's not that easy to know where to start without a role model and a plan. Good practical guidance in here. Time will tell if I make good use of it myself.
 	* When to read: After the first few years of plying a trade perhaps, but don't leave it too long.
+1. [The Millionaire Fast Lane; M.J. DeMarco](https://www.goodreads.com/book/show/56447987-the-millionaire-fast-lane)
+	* Why? Having read a lot of books about business and money, none of them have the completeness of this one. It's the best guide to the whole picture I've come across.
+	* When to read: As soon as you start trying to earn your own money, or as soon after that as you can.
 1. [The 4-Hour Work Week; Tim Ferris](https://www.goodreads.com/book/show/9278897-the-4-hour-work-week)
 	* Why? Working for someone else 9-5 isn't the only way to make a living. This book might age when it comes to tactics, but the inspirational vision of another way of life is timeless.
 	* When to read: Whenever you've had enough of a job. Or maybe if you just want to dream, or travel.
 1. [The Road Less Stupid; Keith J. Cunningham](https://www.goodreads.com/book/show/36653486-the-road-less-stupid)
 	* Why? Whatever money and success you achieve, it's very easy to throw it all away again by doing dumb things that seemed like a good idea. This is a straight-talking guide to not doing that. Contains important lesson about protecting against downside risk (i.e. a small chance you lose everything) when chasing upside risk (i.e. a chance to be much richer etc). Unmitigated downside risk has the power to destroy everything you've worked for.
 	* When to read: Sooner rather than later, especially if you're feeling a bit ambitious.
+1. [Working Identity; Herminia Ibarra](https://www.goodreads.com/book/show/26089.Working_Identity)
+	* Why? The days of job-for-life are long gone, even the days of one-career lives are fading. You'll almost certainly need to evolve your work life, if not blow it up completely and start over. This book is a wise guide to the opportunities and pitfalls of seeing if the grass really is greener.
+	* When to read: when you are sick of your job/career and want to do something different.
 
 ## The meaning of life, evolution and religion
 
