@@ -53,6 +53,29 @@ Given that each line of code is read many more times than it is written it seems
 
 I, like many developers, also value speed of delivery, fast iteration, early prototypes that may get rewritten; but you can still move fast while taking a few minutes for each patch to explain it. And you have to think that just because you might throw this one away, you also might not, and you just don't know yet.
 
+## Why good commit / pull-requests matter in commercial delivery
+
+I often run into the objection of "we don't have time for polishing git logs" in the context of commercial projects where time is money.
+
+In commercial delivery teams good commits and pull requests are every bit as important. High quality commits & pull requests result in faster and more effective peer review, with less risk of missing important problems.
+
+- Clear intent (i.e. "why this change now") reduces review time. - Reviewers don’t have to reverse-engineer the purpose of the change, they can validate correctness quickly instead of spending time guessing.
+- Small, single-purpose commits isolate risk. - When refactors and behaviour changes are separated, reviewers can approve mechanical changes quickly and focus attention only where logic actually changed.
+- Descriptive messages enable reliable approval / sign-off. - A reviewer can confidently understand and confirm that "this change does X to solve Y".
+- Readable history accelerates future fixes. - When something later breaks or needs extension, engineers can locate the exact change and rationale quickly, shortening incident resolution and feature lead time.
+
+Well-structured commits are a throughput optimization: they reduce review latency, improve the chances of catching problems early and shorten future debugging time - all of which speeds up the delivery of value rather than slowing it.
+
+## Pull request descriptions matter too
+
+It is common to ensure peer review by way of "pull requests". Pull request descriptions are a lot like commit messages - they are used to describe to another human the contents of change to the codebase.
+
+As such the pull request descriptions perform largely the same function as commit messages, and should follow the same guidelines laid out here for the same reasons.
+
+In the hierarchy of longevity and accessibility they sit between ticketing systems and git commits. Git logs will likely outlive both pull requests and tickets.
+
+If you make an effort to make the git commits contain sufficient context for the reader of a patch then it's often useful to copy-paste that information into the pull request description, tidy it up for the reader and a bit more context such as screenshots.
+
 ## How to make them better
 
 There's not much for me to add on what's already been written, so read these articles on the specifics of writing good commit messages.
