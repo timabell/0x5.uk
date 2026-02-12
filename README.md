@@ -12,14 +12,18 @@ Pull requests for corrections and additions welcome.
 
 ## Running locally
 
+### Install Zola
+
 [Download the zola binary](https://github.com/getzola/zola/releases/latest) and drop it on the PATH (or use one of the [many other zola install methods](https://www.getzola.org/documentation/getting-started/installation/))
 
+Or if you use [mise-en-place](https://mise.jdx.dev/) then
+
 ```sh
-zola serve
+mise install
 ```
 
-Check current zola version with
+### Run
 
 ```sh
-zola --version
+./up
 ```
