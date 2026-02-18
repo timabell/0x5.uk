@@ -34,6 +34,7 @@ path: /contact/
 - [Mastodon](https://mastodon.social/@tim_abell),
 - [Twitter/X](https://www.twitter.com/tim_abell),
 - [Reddit](https://www.reddit.com/user/timabell/)
+- [YouTube](https://www.youtube.com/@tim_abell)
 
 ## Other
 
