@@ -7,7 +7,7 @@ modified_time = "2012-02-14T10:31:53.809Z"
 blogger_id = "tag:blogger.com,1999:blog-5082828566240519947.post-6754555683725994021"
 blogger_orig_url = "https://timwise.blogspot.com/2012/02/quote-scrum-progress-updates.html"
 [taxonomies]
-categories = ["scrum", "quote", "agile"]
+tags = ["scrum", "quote", "agile"]
 +++
 
 Quote of the day

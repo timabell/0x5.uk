@@ -7,7 +7,7 @@ modified_time = "2012-06-14T15:12:25.991Z"
 blogger_id = "tag:blogger.com,1999:blog-5082828566240519947.post-7356368576752162435"
 blogger_orig_url = "https://timwise.blogspot.com/2012/06/automatic-mysql-backups.html"
 [taxonomies]
-categories = ["howto", "mysql", "linux"]
+tags = ["howto", "mysql", "linux"]
 +++
 
 On a debian server with mediawiki installed and running with a local mysql.

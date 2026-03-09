@@ -5,7 +5,7 @@ date = "2017-01-17T01:55:27+00:00"
 [extra]
 permalink = "/2017/01/17/startup-competitors-data-viewer/"
 [taxonomies]
-categories = ["sdv", "startup"]
+tags = ["sdv", "startup"]
 +++
 
 If you follow my ramblings you might know that I've revived my interest in

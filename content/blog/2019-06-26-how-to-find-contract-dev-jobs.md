@@ -2,7 +2,7 @@
 path = "/2019/06/26/how-to-find-contract-dev-jobs/"
 title = "How to find contract developer clients"
 [taxonomies]
-categories = ["contracting", "resources"]
+tags = ["contracting", "resources"]
 +++
 
 ## Handling recruiters

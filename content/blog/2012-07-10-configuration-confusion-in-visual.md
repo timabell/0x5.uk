@@ -7,7 +7,7 @@ modified_time = "2012-07-10T14:43:30.568Z"
 blogger_id = "tag:blogger.com,1999:blog-5082828566240519947.post-6546456780454569539"
 blogger_orig_url = "https://timwise.blogspot.com/2012/07/configuration-confusion-in-visual.html"
 [taxonomies]
-categories = ["gotcha", "visual studio"]
+tags = ["gotcha", "visual studio"]
 +++
 
 Here's a gotcha that got me.
