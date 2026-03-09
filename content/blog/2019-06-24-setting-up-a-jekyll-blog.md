@@ -2,7 +2,7 @@
 path = "/2019/06/24/setting-up-a-jekyll-blog/"
 title = "Setting up a static website/blog with jekyll"
 [taxonomies]
-categories = ["howto", "backstage"]
+tags = ["howto", "backstage"]
 +++
 
 A couple of people asked me for more info on my new blog setup here's a rough
