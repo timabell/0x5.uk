@@ -1,6 +1,8 @@
 +++
 path = "/2022/07/10/single-class-per-file/"
 title = "Single class per file"
+[taxonomies]
+tags = ["code-quality", "maintainability", "development-practices", "dotnet"]
 +++
 
 Reasons you should prefer a single `class` / `interface` / `record` / `enum` / `struct` per file in C# projects.

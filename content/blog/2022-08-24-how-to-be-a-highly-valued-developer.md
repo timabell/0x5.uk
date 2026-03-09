@@ -1,6 +1,8 @@
 +++
 path = "/2022/08/24/how-to-be-a-highly-valued-developer/"
 title = "How to be a highly valued developer"
+[taxonomies]
+tags = ["career", "development-practices", "productivity", "leadership"]
 +++
 
 ## Learn to code... then get endlessly better at coding...

@@ -1,7 +1,8 @@
 +++
 path = "/2023/09/28/what-is-hexagonal-architecture/"
 title = "What is Hexagonal Architecture, aka \"Ports and Adapters\""
-
+[taxonomies]
+tags = ["architecture", "design-patterns", "code-quality", "testing", "development-practices"]
 [extra]
 show_toc = true
 +++

@@ -1,6 +1,8 @@
 +++
 path = "/2024/01/13/new-tool-sln-items-sync-for-visual-studio-solution-folders/"
 title = "New tool: sln-items-sync for Visual Studio solution folders"
+[taxonomies]
+tags = ["dotnet", "tooling", "productivity"]
 +++
 
 How and why I created `sln-items-sync`  - a `dotnet tool` to generate SolutionItems from filesystem folders.

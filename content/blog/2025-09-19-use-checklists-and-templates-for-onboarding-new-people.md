@@ -1,6 +1,8 @@
 ---
 path: /2025/09/19/checklists-for-onboarding-new-people/
 title: "Use Checklists & Templates For Onboarding New People"
+taxonomies:
+  tags: ["leadership", "team-lead", "productivity", "development-practices"]
 ---
 
 We spend plenty of time as engineers either being onboarded into a new organisation / project or helping onboard others.

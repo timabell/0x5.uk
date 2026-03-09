@@ -1,6 +1,8 @@
 +++
 path = "/2020/07/09/approaches-to-refactoring-and-technical-debt/"
 title = "Approaches to refactoring, technical debt and legacy code"
+[taxonomies]
+tags = ["refactoring", "technical-debt", "code-quality", "maintainability", "development-practices"]
 +++
 
 Sometimes a codebase has an overwhelming amount of "terrible" stuff that as a developer you almost can't help but just diving in and fixing it. Doing this without thinking too hard can result in many variations of failure, such as:

@@ -1,6 +1,8 @@
 ---
 path: /2025/11/11/running-dotnet-microservices-in-aspire-without-a-project-reference/
 title: "Running dotnet microservices in Aspire without a project reference"
+taxonomies:
+  tags: ["dotnet", "aspnet", "microservices", "tooling", "devops"]
 ---
 
 Aspire from Microsoft is pretty tantalizing for local development, however all the instructions for how to add a dotnet web app to your new dotnet aspire AppHost tell you to add a direct reference to the .csproj file that you want to run. But after a lot of hunting, head-scratching and trial and error I've found a less entangled way.

@@ -1,6 +1,8 @@
 +++
 path = "/2021/12/10/being-a-development-team-lead/"
 title = "Being a development team lead"
+[taxonomies]
+tags = ["leadership", "team-lead", "mentoring", "communication", "development-practices"]
 +++
 
 Here's my take on what it means to be a dev-lead / tech-lead / lead developer; and why it's time I stepped up.

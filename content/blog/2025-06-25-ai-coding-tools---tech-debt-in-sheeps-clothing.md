@@ -1,6 +1,8 @@
 +++
 path = "/2025/06/25/ai-coding-tools---tech-debt-in-sheeps-clothing/"
-title = "The Hidden Cost of Overusing AI Coding Tools: Tech Debt in Sheep’s Clothing"
+title = "The Hidden Cost of Overusing AI Coding Tools: Tech Debt in Sheep's Clothing"
+[taxonomies]
+tags = ["code-quality", "technical-debt", "development-practices", "productivity", "tooling"]
 +++
 
 My personal experience of coding with AI has not yet lived up to the promises and hype I am seeing online. While the initial contact with LLM code generation was certainly impressive, and I would not forego access to these tools, I find the longer term and larger scale results are thus far disappointing when compared to some of the breathless reports from many online voices, especially the vendors of AI wares.

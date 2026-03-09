@@ -1,6 +1,8 @@
 +++
 path = "/2021/07/08/why-i-want-you-to-use-slack-threads/"
 title = "Why I want you to use slack threads"
+[taxonomies]
+tags = ["communication", "productivity", "team-lead"]
 +++
 
 Someone has probably sent you a link to this blog post in response to you posting multiple messages in a slack channel on the same topic.

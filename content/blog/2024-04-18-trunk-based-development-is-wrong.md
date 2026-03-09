@@ -1,6 +1,8 @@
 +++
 path = "/2024/04/18/trunk-based-development-is-wrong/"
 title = "Trunk based (mainline) development is (mostly) wrong"
+[taxonomies]
+tags = ["git-workflow", "branching-strategy", "pull-requests", "code-review", "development-practices"]
 +++
 
 ## Mainlining

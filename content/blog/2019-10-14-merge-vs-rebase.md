@@ -1,6 +1,8 @@
 +++
 path = "/2019/10/14/merge-vs-rebase/"
 title = "Should you rebase or merge to update feature branches in git?"
+[taxonomies]
+tags = ["git-workflow", "branching-strategy", "development-practices"]
 +++
 
 You have a "feature branch" in git that you've been working on for a while but

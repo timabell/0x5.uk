@@ -10,7 +10,7 @@ password = ""
 status = "publish"
 permalink = "/2018/08/28/always-add-braces/"
 [taxonomies]
-tags = ["code"]
+tags = ["code-quality", "maintainability", "development-practices"]
 +++
 Small matter of code style that I keep coming across.
 

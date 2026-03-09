@@ -1,6 +1,8 @@
 +++
 path = "/2024/03/27/why-do-automated-tests-matter/"
 title = "Why do automated tests matter?"
+[taxonomies]
+tags = ["testing", "test-driven-development", "regression-prevention", "code-quality", "development-practices"]
 [extra]
 reddit = "https://www.reddit.com/user/timabell/comments/1boqn5c/why_do_automated_tests_matter_tim_abell/"
 +++

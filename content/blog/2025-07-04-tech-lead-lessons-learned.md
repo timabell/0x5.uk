@@ -1,6 +1,8 @@
 +++
 path = "/2025/07/04/tech-lead-lessons-learned/"
 title = "Tech lead lessons learned"
+[taxonomies]
+tags = ["leadership", "team-lead", "agile-delivery", "development-practices"]
 +++
 
 1. Love Jira. The main method of ensuring the team builds the right thing at the right time is a quality & well ordered backlog.

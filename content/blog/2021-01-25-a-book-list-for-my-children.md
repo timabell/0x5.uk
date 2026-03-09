@@ -1,6 +1,8 @@
 +++
 path = "/2021/01/25/a-book-list-for-my-children/"
 title = "A book list for my children"
+[taxonomies]
+tags = ["career", "productivity", "leadership"]
 +++
 
 This is for my children when they're old enough to read them and benefit from them, and when they decide to take an interest in the advice of their boring old man, however I'd recommend this list to anyone no matter their stage in life.

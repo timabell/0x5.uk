@@ -1,6 +1,8 @@
 +++
 path = "/2020/11/26/database-migration-options-for-dotnet-core/"
 title = "Database migration options for dotnet core"
+[taxonomies]
+tags = ["dotnet", "devops", "tooling"]
 +++
 
 ## Options

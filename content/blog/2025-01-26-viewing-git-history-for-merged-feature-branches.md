@@ -1,6 +1,8 @@
 +++
 path = "/2025/01/26/viewing-git-history-for-merged-feature-branches/"
 title = "Viewing git history for merged feature branches"
+[taxonomies]
+tags = ["git-workflow", "branching-strategy", "development-practices"]
 +++
 
 I've been using git for nearly two decades now and yet I still seem to find new challenges and new things to learn on a regular basis.

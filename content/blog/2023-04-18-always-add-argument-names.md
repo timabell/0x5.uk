@@ -1,6 +1,8 @@
 +++
 path = "/2023/04/18/always-add-argument-names/"
 title = "Always Add Argument (Parameter) Names"
+[taxonomies]
+tags = ["code-quality", "maintainability", "development-practices", "code-review"]
 +++
 
 An argument (lol) for the use of explicit argument names in C# function calls even when they seem redundant.

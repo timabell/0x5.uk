@@ -1,6 +1,8 @@
 +++
 path = "/2021/03/15/github-rebase-and-squash-considered-harmful/"
 title = "GitHub rebase and squash considered harmful"
+[taxonomies]
+tags = ["git-workflow", "branching-strategy", "pull-requests", "commit-messages", "development-practices"]
 +++
 
 Not to be confused with `git rebase` and the ability to squash commits locally with interactive rebase, which is [a whole other flamewar](/2019/10/14/merge-vs-rebase/).

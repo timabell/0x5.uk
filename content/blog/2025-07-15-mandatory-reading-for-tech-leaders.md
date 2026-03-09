@@ -1,6 +1,8 @@
 ---
 path: /2025/07/15/mandatory-reading-for-tech-leaders/
 title: "Mandatory reading for tech leaders 📚"
+taxonomies:
+  tags: ["leadership", "career", "agile-delivery"]
 ---
 
 I repeatedly encounter ongoing software projects that are _far behind_ industry best practice and as a result are getting the inevitable problems in quality, delays, waste etc. When I talk to the project leadership and above it often transpires that they are unaware of the literature that has been created off the back of many decades of experience, experimentation and research into what works and what doesn't in software delivery.

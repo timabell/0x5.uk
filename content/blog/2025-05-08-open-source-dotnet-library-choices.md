@@ -1,6 +1,8 @@
 +++
 path = "/2025/05/08/open-source-dotnet-library-choices/"
 title = "NuGet libraries to avoid"
+[taxonomies]
+tags = ["dotnet", "tooling", "career"]
 [extra]
 reddit = "https://www.reddit.com/r/dotnet/comments/1khwsma/nuget_libraries_to_avoid/"
 +++

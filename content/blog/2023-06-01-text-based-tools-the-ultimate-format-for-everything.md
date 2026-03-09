@@ -1,6 +1,8 @@
 +++
 path = "/2023/06/01/text-based-tools-the-ultimate-format-for-everything/"
 title = "Text-based tools - the ultimate format for everything"
+[taxonomies]
+tags = ["tooling", "development-practices", "communication"]
 +++
 
 Having lived in the world of technology for two to three decades now, I've come to a fundamental truth: text formats are **the ultimate** format.

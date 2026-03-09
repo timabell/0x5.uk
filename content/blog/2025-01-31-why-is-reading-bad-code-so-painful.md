@@ -2,6 +2,8 @@
 path = "/2025/01/31/why-is-reading-bad-code-so-painful/"
 title = "Why is reading bad code so painful?!"
 aliases = ["/2025/01/31/why-is-reading-bad-so-code-painful/"]
+[taxonomies]
+tags = ["code-quality", "maintainability", "development-practices"]
 +++
 
 🎙️ [Listen to the podcast episode here](https://pod.0x5.uk/29) 🎙️
