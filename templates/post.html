@@ -44,6 +44,13 @@
 				<a href="https://github.com/timabell/0x5.uk/blob/main/content/{{ page.relative_path }}"
 				   target="_blank">Page Source</a>
 		</div>
+		{% if page.taxonomies.tags %}
+		<p>
+			{% for tag in page.taxonomies.tags %}
+				<a href="{{ get_taxonomy_url(kind='tags', name=tag) }}">#{{ tag }}</a>{% if not loop.last %}{% endif %}
+			{% endfor %}
+		</p>
+		{% endif %}
 	</div>
 
 	<hr/>

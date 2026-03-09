@@ -15,7 +15,7 @@ generate_feeds=true
 feed_filenames = ["atom.xml", "rss.xml"]
 
 taxonomies = [
-    {name = "tags", render = false},
+    {name = "tags", render = true},
     {name = "categories", render = false},
 ]
 
