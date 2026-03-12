@@ -1,7 +1,9 @@
----
-path: /2025/10/25/using-gitopolis-to-manage-multiple-git-repositories/
-title: "Using Gitopolis to Manage Multiple Git Repositories"
----
++++
+path = "/2025/10/25/using-gitopolis-to-manage-multiple-git-repositories/"
+title = "Using Gitopolis to Manage Multiple Git Repositories"
+[taxonomies]
+tags = ["git-workflow", "development-practices"]
++++
 
 At some point, every microservices project turns into a small city of Git repos.  
 You start with three or four, and before long you’ve got twenty.
