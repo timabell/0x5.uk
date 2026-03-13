@@ -9,6 +9,10 @@ pre.z-code {
 
 code {
     font-family:'Bitstream Vera Sans Mono','Courier', monospace;
+    background-color: #eee8d5; /* Solarized base2 */
+    padding: 2px 4px;
+    border-radius: 3px;
+    font-size: 80%;
 }
 
 .highlighter-rouge { 
@@ -47,7 +51,11 @@ pre.z-code .z-source { color: #657b83 } /* Source - default text color */
         color: #839496; /* Solarized base0 */
     }
 
-    .highlighter-rouge { 
+    code {
+        background-color: #073642; /* Solarized base02 */
+    }
+
+    .highlighter-rouge {
         background-color: #073642; /* Solarized base02 */
         color: #dc322f; /* Solarized red */
     }
