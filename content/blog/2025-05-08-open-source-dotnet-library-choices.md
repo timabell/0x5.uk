@@ -23,6 +23,8 @@ Note: being commercially licensed is not necessarily a reason not to use a libra
 
 Introduced the SponsorLink spyware dependency, causing uproar and mass exodus.
 
+- Last good version: [4.18.4](https://www.nuget.org/packages/Moq/4.18.4)
+- First tainted version: [4.20.0](https://www.nuget.org/packages/Moq/4.20.0)
 - [Reddit discussion](https://www.reddit.com/r/dotnet/comments/15ljdcc/does_moq_in_its_latest_version_extract_and_send/)
 - [GitHub issue](https://github.com/devlooped/moq/issues/1372)
 
@@ -44,6 +46,8 @@ GitInfo followed a similar path to Moq, and users should be cautious of librarie
 
 MassTransit's commercialization was announced with version 9, prompting users to seek alternatives.
 
+- Last FOSS version: [8.5.8](https://www.nuget.org/packages/MassTransit/8.5.8) (Apache 2.0, security patches through end of 2026)
+- First commercial version: [9.0.0](https://www.nuget.org/packages/MassTransit/9.0.0)
 - [Reddit discussion](https://www.reddit.com/r/dotnet/comments/1jpyczi/masstransit_going_commercial/)
 - [Official announcement](https://masstransit.io/introduction/v9-announcement)
 
@@ -62,7 +66,12 @@ Alternatives:
 
 ### [MediatR](https://github.com/jbogard/MediatR) & Automapper
 
-Both libraries have moved towards a commercial model, as announced by their creator Jimmy Bogard.
+Both libraries have moved towards a commercial model (RPL-1.5 + commercial dual license), as announced by their creator Jimmy Bogard.
+
+- MediatR last FOSS version: [12.5.0](https://www.nuget.org/packages/MediatR/12.5.0) (Apache 2.0)
+- MediatR first commercial version: [13.0.0](https://www.nuget.org/packages/MediatR/13.0.0)
+- AutoMapper last FOSS version: [14.0.0](https://www.nuget.org/packages/AutoMapper/14.0.0) (MIT)
+- AutoMapper first commercial version: [15.0.0](https://www.nuget.org/packages/AutoMapper/15.0.0)
 - [Licensing update](https://www.jimmybogard.com/automapper-and-mediatr-licensing-update/)
 - [Commercial announcement](https://www.jimmybogard.com/automapper-and-mediatr-going-commercial/)
 - [GitHub discussion](https://github.com/jbogard/MediatR/discussions/1105)
@@ -71,6 +80,9 @@ Both libraries have moved towards a commercial model, as announced by their crea
 
 FluentAssertions also changed their licensing model, but a community fork remains available under Apache 2.
 
+- Last FOSS version: [7.2.2](https://www.nuget.org/packages/FluentAssertions/7.2.2) (Apache 2.0)
+- First commercial version: [8.0.0](https://www.nuget.org/packages/FluentAssertions/8.0.0) (Xceed Community License)
+
 Alternatives:
 
 - [Community fork "AwesomeAssertions"](https://github.com/AwesomeAssertions/AwesomeAssertions)
@@ -78,6 +90,8 @@ Alternatives:
 
 ### [Duende](https://www.nuget.org/packages/Duende.IdentityServer) OpenId server
 
+- Last FOSS version: [IdentityServer4 4.1.2](https://www.nuget.org/packages/IdentityServer4/4.1.2) (Apache 2.0, EOL Dec 2022)
+- First commercial version: [Duende.IdentityServer 5.0.0](https://www.nuget.org/packages/Duende.IdentityServer/5.0.0) (RPL + commercial dual license)
 - ["This new product will remain open source but will be offered with a dual license (RPL and commercial)"](https://leastprivilege.com/2020/10/01/the-future-of-identityserver/#:~:text=This%20new%20product%20will%20remain,source%20community%20and%20our%20contributors)
 
 Alternatives
@@ -88,6 +102,8 @@ This one doesn't really deserve the "avoid" label these days, as it's been prett
 
 ### [ImageSharp](https://github.com/SixLabors/ImageSharp)
 
+- Last FOSS version: [2.1.13](https://www.nuget.org/packages/SixLabors.ImageSharp/2.1.13) (Apache 2.0)
+- First re-licensed version: [3.0.0](https://www.nuget.org/packages/SixLabors.ImageSharp/3.0.0) (Six Labors Split License)
 - ["The Six Labors Split License"](https://sixlabors.com/posts/license-changes/#:~:text=The%20Six%20Labors%20Split%20License,Six%20Labors%20Commercial%20Use%20License)
 
 ## A word on licenses
