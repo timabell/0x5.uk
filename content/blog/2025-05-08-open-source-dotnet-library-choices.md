@@ -92,7 +92,7 @@ Alternatives:
 
 - Last FOSS version: [IdentityServer4 4.1.2](https://www.nuget.org/packages/IdentityServer4/4.1.2) (Apache 2.0, EOL Dec 2022)
 - First commercial version: [Duende.IdentityServer 5.0.0](https://www.nuget.org/packages/Duende.IdentityServer/5.0.0) (RPL + commercial dual license)
-- ["This new product will remain open source but will be offered with a dual license (RPL and commercial)"](https://leastprivilege.com/2020/10/01/the-future-of-identityserver/#:~:text=This%20new%20product%20will%20remain,source%20community%20and%20our%20contributors)
+- ["This new product will remain open source but will be offered with a dual license (RPL and commercial)"](https://web.archive.org/web/20251219043854/https://leastprivilege.com/2020/10/01/the-future-of-identityserver/#:~:text=This%20new%20product%20will%20remain%20open%20source%20but%20will%20be%20offered%20with%20a%20dual%20license)
 
 Alternatives
 
