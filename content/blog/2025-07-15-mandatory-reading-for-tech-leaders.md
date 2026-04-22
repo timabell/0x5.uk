@@ -47,6 +47,12 @@ A lot of the best practice in software (lean, kanban etc, continuous delivery et
 
 This book goes far beyond the detailed improvement of a production line and the theories involved; covering the company culture that enables high performance lean operations, developing leadership and transforming organisations (the case study being the turnaround of the [NUMMI plant](https://en.wikipedia.org/wiki/NUMMI) under Toyota's care).
 
+## 📕 Accelerate
+
+[Accelerate: Building and Scaling High Performing Technology Organizations by Nicole Forsgren, Jez Humble & Gene Kim](https://www.goodreads.com/book/show/35747076-accelerate)
+
+If you need to hear the scientific method & evidence behind the guidance and stories of modern software development in order to belief this is not just another fad then have a read of Accelerate which presents a compelling case and lays out the research methods and findings that back up the assertions in the earlier books.
+
 ## Further reading 📚
 
 If the tech leaders I work with have read, absorbed and embody even one of the above books it makes it much more possible for me to lead teams into high-performance low-stress efficient software delivery.
