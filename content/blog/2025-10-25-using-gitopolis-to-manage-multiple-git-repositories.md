@@ -196,4 +196,8 @@ I’ve done everything above with names changed to avoid mentioning clients and 
 
 Let me know how you get on with it or if you have any problems.
 
-More info: [github.com/rustworkshop/gitopolis](https://github.com/rustworkshop/gitopolis)
+More info: [github.com/timabell/gitopolis](https://github.com/timabell/gitopolis)
+
+You can also find a demo video on youtube:
+
+[![demo vid](static/images/blog/gitopolis-vid-thumbnail.png)](https://www.youtube.com/watch?v=uWX6cbDJoBQ)
