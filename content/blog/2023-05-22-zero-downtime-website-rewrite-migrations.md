@@ -93,4 +93,4 @@ See also
 
 There's not much more to say on this. It's a simple concept that packs a huge punch. If you're thinking of modernising a web stack, or changing tech, I would 100% recommend this approach. The risks of failure are so much lower.
 
-Many thanks to those who I worked with showed the way.
+Many thanks to those I worked with during this transition, it was a pleasure and I learned a lot.
