@@ -6,4 +6,4 @@
 ) &
 
 # depends on binary from https://github.com/getzola/zola/releases/latest on path (or whatever install is preferred)
-zola serve
+mise exec -- zola serve
