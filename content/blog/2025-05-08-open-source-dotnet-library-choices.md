@@ -64,17 +64,32 @@ Alternatives:
 
 - strange non-FOSS dual licensing with restricted functionality. Avoid. [Apparently was once Apache licensed but changed circa 2011](https://stackoverflow.com/questions/5657809/nservicebus-license/5670707#5670707)
 
-### [MediatR](https://github.com/jbogard/MediatR) & Automapper
+### jbogard/*
 
 Both libraries have moved towards a commercial model (RPL-1.5 + commercial dual license), as announced by their creator Jimmy Bogard.
 
-- MediatR last FOSS version: [12.5.0](https://www.nuget.org/packages/MediatR/12.5.0) (Apache 2.0)
-- MediatR first commercial version: [13.0.0](https://www.nuget.org/packages/MediatR/13.0.0)
-- AutoMapper last FOSS version: [14.0.0](https://www.nuget.org/packages/AutoMapper/14.0.0) (MIT)
-- AutoMapper first commercial version: [15.0.0](https://www.nuget.org/packages/AutoMapper/15.0.0)
 - [Licensing update](https://www.jimmybogard.com/automapper-and-mediatr-licensing-update/)
 - [Commercial announcement](https://www.jimmybogard.com/automapper-and-mediatr-going-commercial/)
+
+#### [MediatR](https://github.com/jbogard/MediatR)
+
+- MediatR last FOSS version: [12.5.0](https://www.nuget.org/packages/MediatR/12.5.0) (Apache 2.0)
+- MediatR first commercial version: [13.0.0](https://www.nuget.org/packages/MediatR/13.0.0)
 - [GitHub discussion](https://github.com/jbogard/MediatR/discussions/1105)
+
+#### [AutoMapper](https://github.com/AutoMapper/AutoMapper)
+
+- AutoMapper last FOSS version: [14.0.0](https://www.nuget.org/packages/AutoMapper/14.0.0) (MIT)
+- AutoMapper first commercial version: [15.0.0](https://www.nuget.org/packages/AutoMapper/15.0.0)
+
+For this one a so called "security vulnerability" has been issued by the author - [Denial of Service (DoS) via Uncontrolled Recursion · Advisory · LuckyPennySoftware/AutoMapper](https://github.com/LuckyPennySoftware/AutoMapper/security/advisories/GHSA-rvv3-g6hj-g44x) - which I can't help thinking is a cynical move to force all the enterprises to move off the MIT licensed v14 and to update to the paid versions. Apparently I'm [not alone in thinking this is "sus"](https://www.reddit.com/r/dotnet/comments/1rv5g45/grenade_thrown_at_all_of_the_free_versions_of/).  If it was a real security problem, it would be possible and ethical to patch the affected recent major versions as most open source projects do, but that [patching is explicitly not happening](https://github.com/LuckyPennySoftware/AutoMapper/issues/4618#issuecomment-4063205980).  I have to respect Jimmy for the shrewd business maneuvering there, but nonetheless I fundamentally think that changing the license without creating a new package id is ultimately an unethical move as it sets a trap for anyone who blindly uses the available tooling to update packages. There is no mechanism to warn people who run "update all" to realise they are now "agreeing" to a new license and incurring risks and costs. Apparently you can "fix" the "vulnerability" by setting the recursion cap with a default MaxDepth, but that does not prevent a future accidental update.
+
+Alternatives:
+
+- https://github.com/NET-Sorcery/MagicMapper
+    - fork of the MIT version
+    - has a fix for the vulnerability by [setting a default depth](https://github.com/NET-Sorcery/MagicMapper/pull/5)
+- https://github.com/MapsterMapper/Mapster - code-generation based mapper, would require more significant code changes
 
 ### [FluentAssertions](https://fluentassertions.com/)
 
