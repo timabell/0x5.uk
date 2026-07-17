@@ -40,6 +40,6 @@ We should always use the braces to avoid introducing bugs when modifying the cod
 
 For the reasons behind this, read the following:
 
-* <https://www.joelonsoftware.com/2005/05/11/making-wrong-code-look-wrong/>
-* <https://dzone.com/articles/omitting-braces-not-just-a-mat>
-* [Anatomy of a “goto fail” – Apple’s SSL bug explained, plus an unofficial patch for OS X!](https://web.archive.org/web/20220406111833/https://nakedsecurity.sophos.com/2014/02/24/anatomy-of-a-goto-fail-apples-ssl-bug-explained-plus-an-unofficial-patch/)
+* [Omitting Braces: Not Just A Matter Of Style - DZone Java (archive)](https://web.archive.org/web/20191116213208/https://dzone.com/articles/omitting-braces-not-just-a-mat)
+* [Making Wrong Code Look Wrong – Joel on Software](https://www.joelonsoftware.com/2005/05/11/making-wrong-code-look-wrong/)
+* [Anatomy of a “goto fail” – Apple’s SSL bug explained, plus an unofficial patch for OS X! (archive)](https://web.archive.org/web/20220406111833/https://nakedsecurity.sophos.com/2014/02/24/anatomy-of-a-goto-fail-apples-ssl-bug-explained-plus-an-unofficial-patch/) - an example of a serious security flaw that would likely have not happened if braces had been in place.
