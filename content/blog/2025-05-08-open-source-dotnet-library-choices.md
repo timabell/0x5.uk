@@ -135,6 +135,36 @@ The [RPL license](https://opensource.org/license/rpl-1-5) ([RPL on Wikipedia](ht
 
 It's interesting to note that [GNU considers RPL non-free](https://www.gnu.org/licenses/license-list.en.html#RPL) due to restrictions it imposes.
 
+## The "Open Source Maintenance Fee" (OSMF) EULA
+
+A new "End User License Agreement" (EULA) called the "[Open Source Maintenance Fee](https://opensourcemaintenancefee.org/)" is being promoted as a solution to unpaid open source maintenance being used by large wealth corporations without supporting the project.
+
+Unlike some of the above, this approach does not require a project to relicense the source code, as it only applies to the pre-built binaries (i.e. what you'd get from the official nuget feed).
+
+> "This Agreement applies only to the Binary Release"  
+> ~ [OSMF EULA v1.1](https://opensourcemaintenancefee.org/maintainers/eulas/#:~:text=This%20Agreement%20applies%20only%20to%20the%20Binary%20Release)
+
+
+This is insidious as there is no mechanism to be notified that a binary you have included in your project as applied a license to the nuget binaries; especially if the EULA appears on a project you use after you are already using it (e.g. with a major version bump).
+
+### Polly
+
+Polly (the resilience / retry http library) has applied the OSMF
+
+- [reddit.com: "Polly introduces the Open Source Maintenance Fee" : r/dotnet](https://www.reddit.com/r/dotnet/comments/1vrffy2/polly_introduces_the_open_source_maintenance_fee/)
+- [NuGet Gallery | Polly](https://www.nuget.org/packages/Polly)
+- [Meet Polly: The .NET resilience library | Polly](https://www.pollydocs.org/)
+- [github.com/GitHub - App-vNext/Polly](https://github.com/App-vNext/Polly)
+
+#### Alternatives
+
+- Microsoft's resilience: [NuGet Gallery | Microsoft.Extensions.Http.Resilience](https://www.nuget.org/packages/Microsoft.Extensions.Http.Resilience/)
+- Fork: [github: BrighterCommand/Fences:](https://github.com/BrighterCommand/Fences)
+
+### Wix
+
+- <https://docs.firegiant.com/wix/osmf/>
+
 ## Contributions welcome
 
 If you know of any that have gone south that I've missed here, and of good alternatives by all means open a PR for this post. I'm hoping there won't be too many more that do this in the coming years.
