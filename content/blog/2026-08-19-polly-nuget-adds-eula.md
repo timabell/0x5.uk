@@ -94,3 +94,11 @@ I am going to sit on the fence for this one for the time being.
 I can see both sides, I can see some pros and some cons, but right now I think we need to see a lot more of this in the wild before we can really judge the net effect of something like this becoming widespread within an ecosystem such as dotnet & nuget on the broader ecosystem dynamics.
 
 As a developer I have a knee-jerk reaction against anything that adds friction to the things I want to create for myself and my clients. But if this improves the quality and maintenance of important libraries in nuget and beyond then maybe it will have turned out to be a net force for good. There doesn't seem to be anything in the OSMF currently that prevents a fork, which really is the escape hatch in the GPL for a library vendor doing anti-user things.
+
+## Further listening
+
+The creator of OSMF, Rob Mensching, has appeared on podcasts where he explains at greater length his thinking behind the new EULA and some of his other work:
+
+1. [.NET Rocks!: Open Source Maintenance Fee Update with Rob Mensching Jul 8, 2026](https://www.spreaker.com/episode/open-source-maintenance-fee-update-with-rob-mensching--72876988) - The most recent update on progress
+2. [.NET Rocks!: The Open Source Maintenance Fee with Rob Mensching May 1, 2025](https://www.spreaker.com/episode/the-open-source-maintenance-fee-with-rob-mensching--65819903) - an earlier recording promoting the new license and explaining the move of Wix to the new license as a testing ground.
+3. [Hanselminutes with Scott Hanselman: Open Source, Microsoft and The WiX Project with Rob Mensching](https://www.hanselminutes.com/195/open-source-microsoft-and-the-wix-project-with-rob-mensching) - a much older show pre-dating OSMF which gives some insights into Rob's thinking around running the Wix project, and the history of the Wix project.
