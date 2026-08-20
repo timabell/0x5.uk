@@ -135,6 +135,8 @@ The [RPL license](https://opensource.org/license/rpl-1-5) ([RPL on Wikipedia](ht
 
 It's interesting to note that [GNU considers RPL non-free](https://www.gnu.org/licenses/license-list.en.html#RPL) due to restrictions it imposes.
 
+The [Wix project is licenced under "MS-RL"](https://github.com/wixtoolset/wix/blob/77aa9818ad37637f961afe143be88bdc38a3f350/LICENSE.TXT), in combination with the OSMF (below).
+
 ## The "Open Source Maintenance Fee" (OSMF) EULA
 
 A new "End User License Agreement" (EULA) called the "[Open Source Maintenance Fee](https://opensourcemaintenancefee.org/)" is being promoted as a solution to unpaid open source maintenance being used by large wealth corporations without supporting the project.
@@ -143,7 +145,6 @@ Unlike some of the above, this approach does not require a project to relicense 
 
 > "This Agreement applies only to the Binary Release"  
 > ~ [OSMF EULA v1.1](https://opensourcemaintenancefee.org/maintainers/eulas/#:~:text=This%20Agreement%20applies%20only%20to%20the%20Binary%20Release)
-
 
 This is insidious as there is no mechanism to be notified that a binary you have included in your project as applied a license to the nuget binaries; especially if the EULA appears on a project you use after you are already using it (e.g. with a major version bump).
 
