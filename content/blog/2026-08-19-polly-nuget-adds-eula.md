@@ -87,6 +87,8 @@ Ian Cooper, a maintainer of the Brighter/Darker projects which use Polly [came o
 
 The fork was announced and discussed here: [Forking Polly · App-vNext/Polly Github Discussion](https://github.com/App-vNext/Polly/discussions/3202).
 
+Interestingly Rob mentioned the "fork" problem in his interview on ".NET Rocks" and points out that forking does not solve the overhead of actually actively maintaining and publishing a popular package, it just moves it to someone else, and there is a long trail of noisy fork announcements that didn't result in actively maintained replacements. After all, if the original was overloaded with demand, then if all the users moved to the fork then what did we solve other than starting the burnout of a new maintainer. That said, I wouldn't bet against the Polly/Fences fork, Ian already maintains a significant OSS project which depends on Polly, so there is good reason for adding this one to the stable and looking after it. Especially if Polly is largely "done".
+
 ## So is this good or bad?
 
 I am going to sit on the fence for this one for the time being.
@@ -95,10 +97,37 @@ I can see both sides, I can see some pros and some cons, but right now I think w
 
 As a developer I have a knee-jerk reaction against anything that adds friction to the things I want to create for myself and my clients. But if this improves the quality and maintenance of important libraries in nuget and beyond then maybe it will have turned out to be a net force for good. There doesn't seem to be anything in the OSMF currently that prevents a fork, which really is the escape hatch in the GPL for a library vendor doing anti-user things.
 
+I have been thinking this through for a few more days now, and I can't currently see any problems with:
+
+1. Conflicts with the goals of "Free Software" - you still get all the rights you had before to fork/modify/distribute yourself. You don't even have to distribute under the OSMF if you don't want to as it's not a viral license like the GPL.
+2. Practicality of getting corporations to actually fund effectively - the use of an EULA format for binaries does seem to put up just the kind of barrier that companies are not particularly likely to bother to circumvent. As a rule companies tend to want to reduce risk by being compliant with all licenses and fees.
+
+Whether companies will pay for the original library, or use an alternative or fork I think comes down largely to projects setting the right price for the value they provide, and how much cost/effort/risk would be involved in finding/creating/using an alternative. Companies will always ask the "what does the alternative cost". If the fee is "too expensive" then it might make sense to use an alterative or maintain a public/private fork, or go through the hassle of private builds. But if the fee is less than the cost of dealing with an alternative route, and there isn't an obvious alternate open source project that would just drop in then I think companies are likely to cough up. For example the FluentAssertions/AwesomeAssertions well maintained fork, or the Moq/NSubstitute where it's pretty easy to switch would keep the maximum price companies will pay, if any, down.
+
+I can definitely see a possible future where many of the FOSS/OSS libraries that are in use by corporations adopt the OSMF or similar, and companies become faced with fewer alternatives than paying for some of the vast value that they get from the ecosystem. A bit like unionisation, if all the workers/developers keep undercutting each other and accepting worse and worse terms then in the end the corporations win and the workers have nothing, but if the workers/developers all declare that they are not going to continue to race to the bottom and create a mostly unified front via the OSMF, unions or other mechanisms then the corporations basically have to take it or leave it.
+
+It has got me thinking, I care about FOSS, but *why* do I care, and how would the OSMF affect it. I think I have a few major reasons for caring:
+
+1. I strongly believe that users of computers should have control over their software & machines, rather than the other way round of corporations and governments controlling the users of technology via the software and hardware they use. This seems to be becoming ever more important as computing takes over every last inch of our lives. Sadly it also seems to be going in completely the opposite direction as Android and Apple lock the remaining doors and hand the spare key to governments.
+2. As a software developer working for clients/employers, I want my work to be easy, effective, and provide maximum value. Any additional licensing and friction makes my work life that bit harder and cuts down the value I can provide. That, I realise, makes me exactly part of the "open source exploitation by corporations" machine that is the problem being solved. And frankly I am paid for my time, and I get no share of the profit & loss, so practically it makes no difference to me as a supplier of development services.
+3. I make occasional hobby / side-project software, and want to not have that made hard/impossible by onerous licensing / fees. Fortunately the OSMF seems to have covered that by not applying below certain revenue thresholds. It does feel a little "sword of damacles", but currently it is a non-issue.
+
+So for now, I think I am going to declare the OSMF very likely a "good thing" overall, even for a very FOSS-minded developer like myself.
+
+I would like to extend my thanks to Rob for attempting to solve this persistent problem of maintainer burnout and open source funding in a novel way. Whether it works out or not, it is a great contribution to the software ecosystem that I think there is a good possibility that it might just produce a siesmic shift in open source culture for the better.
+
+It seems the big questions for success of the OSMF are not really whether corproations will pay to conform to a license, they have been doing that for decades, it is more:
+
+- to what extent they will decide it is cheaper / better to work around it,
+- and to what extent open source maintainers decide to adopt the EULA for their binaries.
+
+And now, we can all watch this great experiment in shifting value capture unfold in realtime. Interesting times for sure.
+
 ## Further listening
 
 The creator of OSMF, Rob Mensching, has appeared on podcasts where he explains at greater length his thinking behind the new EULA and some of his other work:
 
-1. [.NET Rocks!: Open Source Maintenance Fee Update with Rob Mensching Jul 8, 2026](https://www.spreaker.com/episode/open-source-maintenance-fee-update-with-rob-mensching--72876988) - The most recent update on progress
-2. [.NET Rocks!: The Open Source Maintenance Fee with Rob Mensching May 1, 2025](https://www.spreaker.com/episode/the-open-source-maintenance-fee-with-rob-mensching--65819903) - an earlier recording promoting the new license and explaining the move of Wix to the new license as a testing ground.
-3. [Hanselminutes with Scott Hanselman: Open Source, Microsoft and The WiX Project with Rob Mensching](https://www.hanselminutes.com/195/open-source-microsoft-and-the-wix-project-with-rob-mensching) - a much older show pre-dating OSMF which gives some insights into Rob's thinking around running the Wix project, and the history of the Wix project.
+1. [.NET Rocks! podcast: Open Source Maintenance Fee Update with Rob Mensching Jul 8, 2026](https://www.spreaker.com/episode/open-source-maintenance-fee-update-with-rob-mensching--72876988) - The most recent update on progress
+2. [.NET Rocks! podcast: The Open Source Maintenance Fee with Rob Mensching May 1, 2025](https://www.spreaker.com/episode/the-open-source-maintenance-fee-with-rob-mensching--65819903) - an earlier recording promoting the new license and explaining the move of Wix to the new license as a testing ground.
+3. [Youtube: "Open-Source Exploitation" - David Whitney at NDC London 2024](https://www.youtube.com/watch?v=9YQgNDLFYq8) - a thorough treatment of the problem space in open source maintenance that predates the creation of the OSMF.
+4. [Hanselminutes podcast with Scott Hanselman: "Open Source, Microsoft and The WiX Project" with Rob Mensching](https://www.hanselminutes.com/195/open-source-microsoft-and-the-wix-project-with-rob-mensching) - a much older show pre-dating OSMF which gives some insights into Rob's thinking around running the Wix project, and the history of the Wix project.
