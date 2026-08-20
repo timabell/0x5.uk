@@ -15,7 +15,8 @@ This is my first encounter with the OSMF, which is a novel approach to open sour
 
 The use of an EULA on **binaries** is something very different to what we have seen previously with [several open source NuGet libraries making license changes for the **source code**](https://0x5.uk/2025/05/08/open-source-dotnet-library-choices/#the-open-source-maintenance-fee-osmf-eula) resulting in varying levels of backlash from the community. The OSMF explicitly applies only to the pre-built binaries, rather than the original source code, and the source code can retain its existing license, meaning that there is no additional restriction being place on building binaries yourself, copying or forking the source code.
 
-> "This Agreement applies only to the Binary Release"  
+> "This Agreement applies only to the Binary Release"
+>
 > ~ [OSMF EULA v1.1](https://opensourcemaintenancefee.org/maintainers/eulas/#:~:text=This%20Agreement%20applies%20only%20to%20the%20Binary%20Release)
 
 So "violation" of the EULA (the bit the corporations seem to care about) is only triggered by using the official project's binaries. That is kind of similar in spirit to how Stallman originally talked about "Charging for the CD-ROM" - the software is still "libre" if it's GPL, but there is a fee for the convenience of having the working software packaged up and delivered in some kind of usable form. Personally I've always thought this was one of the weaker areas of the way Stallman described how FOSS should work practically, but it is very interesting to see a modern version of the same concept in the wild.
@@ -73,7 +74,8 @@ It would appear on first glance (I am still not a lawyer and have no interest in
 There is one mention of an EULA in the GPL FAQ:
 
 > "... require me in their umbrella EULAs or as part of their downloading process ..."
-> https://www.gnu.org/licenses/gpl-faq.en.html#ExportWarranties:~:text=require%20me%20in%20their%20umbrella%20EULAs%20or%20as%20part%20of%20their%20downloading%20process
+>
+> ~ [GPL FAQ](https://www.gnu.org/licenses/gpl-faq.en.html#ExportWarranties:~:text=require%20me%20in%20their%20umbrella%20EULAs%20or%20as%20part%20of%20their%20downloading%20process)
 
 though it is not really referring to the same sort of thing as the OSMF; but nonetheless it is interesting that that particular EULA clause is not considered a violation of GPL.
 
