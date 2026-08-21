@@ -43,7 +43,7 @@ It is not clear to me what the consequences of applying the OSMF to Polly specif
 
 Having watched a few projects in the dotnet NuGet space change the terms on their projects I have come to the conclusion that even if it is legal, there is something deeply unethical about significantly changing the terms of use for a nuget project **under the same package identifier**.
 
-There are [rules in consumer law in the UK against "unfair practices"](https://www.gov.uk/government/publications/unfair-commercial-practices-cma207/unfair-commercial-practices), which seek to curtail the temptation of businesses to just confuse customers into legal agreements or deals that they just wouldn't accept if they actually knew what was going on, and this is generally a good thing. I suspect this largely doesn't apply to business-to-business which I expect most nuget package agreements would fall under, but nonetheless it shows that as a society we don't always accept that "technically in violation even though it was hard for you to understand that" is morally acceptable and thus we encode it in law.
+There are [rules in consumer law in the UK against "unfair practices"](https://www.gov.uk/government/publications/unfair-commercial-practices-cma207/unfair-commercial-practices), which seek to curtail the temptation of businesses to confuse customers into legal agreements or deals that they wouldn't accept if they actually knew what was going on, and this is generally a good thing. I suspect this largely doesn't apply to business-to-business which I expect most nuget package agreements would fall under, but nonetheless it shows that as a society we don't always accept that "technically in violation even though it was hard for you to understand that" is morally acceptable and thus we encode it in law.
 
 As a dotnet dev of over 20 years I am *painfully* familiar with day to day use of the nuget ecosystem, and the practicalities of choosing, installing and updating nuget packages as dependencies of client, employer, personal and open source projects. The tooling around nuget is far from consistent or perfect. There are a variety of CLI tools, vscode, Rider, and the venerable Visual Studio, dependabot on github, all giving different methods and user interfaces for managing your project's nuget dependencies.
 
@@ -61,7 +61,7 @@ I don't expect my observation will change anything, but I think it's worth calli
 
 As far as I can tell, there has been a good amount of effort poured in to automated compliance checks to ensure that you are not accidentally adding an incompatibly licensed dependency to a project, for example adding an A-GPL licenced library to your client code and accidentally forcing them to open source their entire commercial product (oops!).
 
-There are more tools now to generate a "Software Bill of Materials" (SBOM), and further tools to aggregate those, and assess them for any possibly license violations.
+There are more tools now to generate a "Software Bill of Materials" (SBOM), and further tools to aggregate those, and assess them for any possible license violations.
 
 The problem with this new use of an EULA on the binary is that the source code license actually didn't change, so there is no way for these tools to even notice this latest style of violation & liability.
 
@@ -79,7 +79,7 @@ There is one mention of an EULA in the GPL FAQ:
 
 though it is not really referring to the same sort of thing as the OSMF; but nonetheless it is interesting that that particular EULA clause is not considered a violation of GPL.
 
-I can only guess what Stallman would say on the OSMF as a concept. Personally I cannot find a logical reason that the OSMF conflicts with the rights set out in the GPL, but yet there is still something in me that feels a loss, a restriction being imposed. Perhaps that feeling of loss is not a loss of what the GPL protects, but a loss of an idealised world where software flows as freely as ideas, and there is no friction between thought and creation... but that like so much idealism is to ignore the realities of maintenance of popular open source libraries about which so much has been written... there really is trouble in paradise after all.
+I can only guess what Richard Stallman would say on the OSMF as a concept. Personally I cannot find a logical reason that the OSMF conflicts with the rights set out in the GPL, but yet there is still something in me that feels a loss, a restriction being imposed. Perhaps that feeling of loss is not a loss of what the GPL protects, but a loss of an idealised world where software flows as freely as ideas, and there is no friction between thought and creation... but that like so much idealism is to ignore the realities of maintenance of popular open source libraries about which so much has been written... there really is trouble in paradise after all.
 
 ## A fork
 
@@ -110,13 +110,13 @@ It has got me thinking, I care about FOSS, but *why* do I care, and how would th
 
 1. I strongly believe that users of computers should have control over their software & machines, rather than the other way round of corporations and governments controlling the users of technology via the software and hardware they use. This seems to be becoming ever more important as computing takes over every last inch of our lives. Sadly it also seems to be going in completely the opposite direction as Android and Apple lock the remaining doors and hand the spare key to governments.
 2. As a software developer working for clients/employers, I want my work to be easy, effective, and provide maximum value. Any additional licensing and friction makes my work life that bit harder and cuts down the value I can provide. That, I realise, makes me exactly part of the "open source exploitation by corporations" machine that is the problem being solved. And frankly I am paid for my time, and I get no share of the profit & loss, so practically it makes no difference to me as a supplier of development services.
-3. I make occasional hobby / side-project software, and want to not have that made hard/impossible by onerous licensing / fees. Fortunately the OSMF seems to have covered that by not applying below certain revenue thresholds. It does feel a little "sword of damacles", but currently it is a non-issue.
+3. I make occasional hobby / side-project software, and want to not have that made hard/impossible by onerous licensing / fees. Fortunately the OSMF seems to have covered that by not applying below certain revenue thresholds. It does feel a little "Sword of Damocles", but currently it is a non-issue.
 
 So for now, I think I am going to declare the OSMF very likely a "good thing" overall, even for a very FOSS-minded developer like myself.
 
 I would like to extend my thanks to Rob for attempting to solve this persistent problem of maintainer burnout and open source funding in a novel way. Whether it works out or not, it is a great contribution to the software ecosystem that I think there is a good possibility that it might just produce a siesmic shift in open source culture for the better.
 
-It seems the big questions for success of the OSMF are not really whether corproations will pay to conform to a license, they have been doing that for decades, it is more:
+It seems the big questions for success of the OSMF are not really whether corporations will pay to conform to a license, they have been doing that for decades, it is more:
 
 - to what extent they will decide it is cheaper / better to work around it,
 - and to what extent open source maintainers decide to adopt the EULA for their binaries.
