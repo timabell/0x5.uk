@@ -1,0 +1,20 @@
+#!/bin/sh
+# Runs zola in docker so nothing needs installing on the host.
+set -e
+ZOLA_VERSION=$(sed -n 's/^zola *= *"\(.*\)"/\1/p' mise.toml)
+
+(
+	while ! nc -z localhost 1111; do sleep 0.1; done
+	xdg-open http://localhost:1111/
+) &
+
+echo "Starting on http://localhost:1111/"
+
+# 1111 = site, 1024 = live reload websocket
+exec docker run --rm -it --init \
+	-u "$(id -u):$(id -g)" \
+	-v "$PWD":/app -w /app \
+	-p 127.0.0.1:1111:1111 \
+	-p 127.0.0.1:1024:1024 \
+	"ghcr.io/getzola/zola:v$ZOLA_VERSION" \
+	serve --interface 0.0.0.0 --port 1111 --base-url localhost "$@"

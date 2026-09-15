@@ -12,6 +12,16 @@ Pull requests for corrections and additions welcome.
 
 ## Running locally
 
+### With Docker (no host install)
+
+Requires only [docker](https://docs.docker.com/engine/install/).
+
+```sh
+./up-docker
+```
+
+Serves the site at <http://localhost:1111/> with live reload, using the official `ghcr.io/getzola/zola` image. Extra arguments are passed to `zola serve`, e.g. `./up-docker --drafts`.
+
 ### Install Zola
 
 [Download the zola binary](https://github.com/getzola/zola/releases/latest) and drop it on the PATH (or use one of the [many other zola install methods](https://www.getzola.org/documentation/getting-started/installation/))
