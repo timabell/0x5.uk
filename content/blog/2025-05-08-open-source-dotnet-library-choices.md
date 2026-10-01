@@ -86,10 +86,11 @@ For this one a so called "security vulnerability" has been issued by the author 
 
 Alternatives:
 
-- https://github.com/NET-Sorcery/MagicMapper
+- <https://github.com/NET-Sorcery/MagicMapper>
     - fork of the MIT version
     - has a fix for the vulnerability by [setting a default depth](https://github.com/NET-Sorcery/MagicMapper/pull/5)
-- https://github.com/MapsterMapper/Mapster - code-generation based mapper, would require more significant code changes
+- <https://github.com/MapsterMapper/Mapster> - code-generation based mapper, would require more significant code changes
+- <https://github.com/Swevo/AutoMap.Generator>
 
 ### [FluentAssertions](https://fluentassertions.com/)
 
