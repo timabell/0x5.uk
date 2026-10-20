@@ -137,3 +137,7 @@ There is value in consistency within a particular project with its own set of go
 ## Are you sure?
 
 Not entirely, this is my best attempt at figuring out this issue having listened to others. There's still a bit of me that things that maybe exceptions are actually fine, are less code, and where we need to deal with specific conditions we can throw and catch custom exceptions seamlessly bypassing layers of code. I think that's probably my resistance to change and learning kicking in, and I trust that golang and Rust really are learning from the failures of Java and C# in this arena both in terms of performance and in terms of writing reliable and supportable systems.
+
+## Further reading
+
+- [Let It Propagate | // TODO(craig): name this blog](https://blog.beaumo.net/blog/let-it-propagate)
