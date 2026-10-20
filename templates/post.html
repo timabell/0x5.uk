@@ -35,9 +35,6 @@
 				{% if page.extra.reddit %}
 					<a href='{{ page.extra.reddit }}' target='_blank'>Discuss on Reddit</a> ||
 				{% endif %}
-				<a href='http://twitter.com/share?text=Read this: "{{ page.title | urlencode }}" by @{{ config.extra.twitter_username }}&url={{ config.base_url }}{{ page.permalink }}'
-					target='_blank'>Tweet This</a>
-				||
 				<a href="https://www.linkedin.com/shareArticle?mini=true&url={{ config.base_url }}{{ page.permalink }}&title={{ page.title }}"
 				  target='_blank'>Post to LinkedIn</a>
 				||
