@@ -30,7 +30,7 @@ dark_theme = "solarized-dark"
 [extra]
 # Put all your custom variables here
 author = "Tim Abell"
-avatar = "/assets/tim.jpg"
+avatar = "/assets/tim-ferris-me-crop.jpg"
 
 # Social links
 [extra.social]
