@@ -61,6 +61,12 @@ I sat writing random phrases around this thought. I had had the idea that it had
 
 The parallels are striking. You can get a pot into a rough pot shape from a lump of clay very quickly (with enough experience). And likewise you can get what on the face of it is a good resemblance of a complete finished product in code from a few LLM prompts (hello vibe coders). But to create a work of art from clay on the potters wheel? Not nearly so quick, many rounds of observe and adjust, making ever finer adjustments to achieve the desired result. And the same goes for the gap between vibe coded output and a quality software system that will be maintainable, performant, and [high quality](https://en.wikipedia.org/wiki/Zen_and_the_Art_of_Motorcycle_Maintenance) (i.e. few bugs) - considerably more time and experience is required to shape the code to that point, *even* with the help of a capable LLM.
 
+And since I first wrote this, I have an answer to why it's called "throwing" in pottery/ceramics:
+
+> "It’s called throwing because you have to throw the clay at the wheel head to make it stick before you can start."
+>
+> ~ Sarah Abell - [sarahabell.me](https://sarahabell.me/)
+
 So there we go.
 
 You can call it throwing code now.
