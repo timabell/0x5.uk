@@ -4,7 +4,7 @@
 # ./new "Some blob post title"
 
 name="${1:-todo}" # default name
-kebab_name=$(sed -e 's/ /-/g' -e 's/\(.*\)/\L\1/g' <<< "$name")
+kebab_name=$(sed -e 's/ /-/g' -e 's/\(.*\)/\L\1/g' -e 's/[^a-z0-9-]//g' <<< "$name")
 path_date=`date +"%Y-%m-%d"`
 slug="\/`date +"%Y\/%m\/%d"`\/$kebab_name\/" # pre-escaped for sed call
 newfile=content/blog/$path_date-$kebab_name.md
