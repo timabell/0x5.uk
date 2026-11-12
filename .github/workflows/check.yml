@@ -10,4 +10,4 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - uses: cachix/install-nix-action@v31
-      - run: nix shell nixpkgs/nixos-26.05#zola nixpkgs/nixos-26.05#lychee -c ./check-links.sh
+      - run: nix shell nixpkgs/nixos-26.05#zola nixpkgs/nixos-26.05#lychee nixpkgs/nixos-26.05#markdownlint-cli2 -c ./check-links.sh

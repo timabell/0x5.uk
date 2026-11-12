@@ -1,0 +1,4 @@
+{
+  // zola doesn't autolink bare URLs, so the preview shouldn't either
+  "markdown.preview.linkify": false
+}

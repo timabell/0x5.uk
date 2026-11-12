@@ -1,0 +1,7 @@
+{
+  "config": {
+    "default": false,
+    // zola doesn't autolink bare URLs
+    "MD034": true
+  }
+}
