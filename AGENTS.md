@@ -6,11 +6,11 @@ Personal blog for <https://0x5.uk>: a [Zola](https://www.getzola.org/) static si
 
 ## Commands
 
-Prefer the docker scripts; zola and lychee are not expected to be installed on the host.
+The host is NixOS with `zola` and `lychee` installed via nix. mise isn't installed.
 
 - `./up-docker` – `zola serve` in docker at http://localhost:1111/ with live reload. Extra args go to `zola serve` (e.g. `./up-docker --drafts`).
 - `./up` – same, using a local zola via `mise exec`.
-- `./check-links.sh` – `zola build` then lychee `--offline` over `public/**/*.html` to check internal links and images. This is the only check, and it is also what CI runs (`.github/workflows/check.yml`). Known breakage goes in `.lycheeignore`, one regex per line.
+- `./check-links.sh` – `zola build`, then lychee `--offline` over `public/**/*.html` to check internal links and images. This is the only check. CI runs it with the same tools from nixos-26.05 (`.github/workflows/check.yml`). Known breakage goes in `.lycheeignore`, one regex per line.
 - `./new "Post title"` – creates `content/blog/YYYY-MM-DD-kebab-title.md` from `_drafts/template.md`, then opens vim.
 
 New scripts get a `.sh` suffix. Only `new` and `up*` are exempt.
