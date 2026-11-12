@@ -1,9 +1,11 @@
 #!/bin/sh
-#!/bin/sh -v
+# Runs zola from the path (nix package). See ./up-docker for docker.
+set -e
+
 (
 	while ! nc -z localhost 1111; do sleep 0.1; done # https://stackoverflow.com/questions/27599839/how-to-wait-for-an-open-port-with-netcat
 	xdg-open http://localhost:1111/
 ) &
 
-# depends on binary from https://github.com/getzola/zola/releases/latest on path (or whatever install is preferred)
-mise exec -- zola serve
+echo "zola serve $*"
+exec zola serve "$@"
