@@ -19,7 +19,7 @@ UU src/gitopolis.rs
 
 In kdiff3 (by far the best 3-way merge algorithm out there) it looks like this:
 
-![kdiff 3-way merge screenshot](/images/blog/git-kdiff-3way-merge.png)
+![kdiff 3-way merge screenshot](/assets/posts/git-kdiff-3way-merge.png)
 
 ## Here's how I think of it
 

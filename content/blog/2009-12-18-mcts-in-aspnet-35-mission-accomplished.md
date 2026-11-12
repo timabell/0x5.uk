@@ -10,6 +10,6 @@ blogger_orig_url = "https://timwise.blogspot.com/2009/12/mcts-in-aspnet-35-missi
 tags = ["mcts", "certification", "microsoft"]
 +++
 
-![Microsoft Certified Technology Specialist](/assets/MCTS-ASP.NET-3.5.png)
+![Microsoft Certified Technology Specialist](/assets/posts/MCTS-ASP.NET-3.5.png)
 
 I am now a *Microsoft Certified Technology Specialist in .NET Framework 3.5, ASP.NET Applications*, which is nice.

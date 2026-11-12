@@ -34,27 +34,27 @@ I recorded the entire screen at 1920x1080 (seeing as even phones are HD now). an
 
 Control panel > sound > input > snowball > about 130% input volume
 
-![Sound_183.png]({{ site.baseurl }}/assets/sound_183.png)
+![Sound_183.png](/assets/posts/sound_183.png)
 
 fullscreen capture, display 2, 1920x1080
 
-![Screenshot from 2018-03-17 18-27-39.png]({{ site.baseurl }}/assets/screenshot-from-2018-03-17-18-27-39.png)
+![Screenshot from 2018-03-17 18-27-39.png](/assets/posts/screenshot-from-2018-03-17-18-27-39.png)
 
 pulse / blue-snowball selected
 
-![Screenshot from 2018-03-17 18-27-55.png]({{ site.baseurl }}/assets/screenshot-from-2018-03-17-18-27-55.png)
+![Screenshot from 2018-03-17 18-27-55.png](/assets/posts/screenshot-from-2018-03-17-18-27-55.png)
 
 mpeg4, mp3, avi, 25fps
 
-![vokoscreen 2.4.0_180]({{ site.baseurl }}/assets/vokoscreen-2-4-0_180.png)
+![vokoscreen 2.4.0_180](/assets/posts/vokoscreen-2-4-0_180.png)
 
 Default config apart from save path "videopath"
 
-![vokoscreen 2.4.0_181.png]({{ site.baseurl }}/assets/vokoscreen-2-4-0_181.png)
+![vokoscreen 2.4.0_181.png](/assets/posts/vokoscreen-2-4-0_181.png)
 
 Webcam switched on
 
-![vokoscreen 2.4.0_182.png]({{ site.baseurl }}/assets/vokoscreen-2-4-0_182.png)
+![vokoscreen 2.4.0_182.png](/assets/posts/vokoscreen-2-4-0_182.png)
 
 ## Other attempts
 

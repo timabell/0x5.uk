@@ -7,7 +7,7 @@ I have further improved my Obsidian vault to allow me to find the right tasks at
 
 I've taken the time to record a quick demo, take a look here:
 
-[![thumbnail of youtube vid](/images/blog/obsidian-gtd-context-youtube-thumbnail.png)](https://www.youtube.com/watch?v=1QsoD6kRvMA)
+[![thumbnail of youtube vid](/assets/posts/obsidian-gtd-context-youtube-thumbnail.png)](https://www.youtube.com/watch?v=1QsoD6kRvMA)
 
 You can find the [demo vault used in the video on github](https://github.com/timabell/obsidian-demo-vault), including the ["contexts" page](https://github.com/timabell/obsidian-demo-vault/blob/3064b4df7244cacec729062156ff69f612f32ab2/demo-vault/contexts.md?plain=1) that has the dataview query to retrieve context tags and their incomplete tasks
 

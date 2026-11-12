@@ -7,7 +7,7 @@ tags = ["git-workflow", "branching-strategy", "pull-requests", "commit-messages"
 
 Not to be confused with `git rebase` and the ability to squash commits locally with interactive rebase, which is [a whole other flamewar](/2019/10/14/merge-vs-rebase/).
 
-![Screenshot of github's three PR merge options](/assets/github-squash-evil.png)
+![Screenshot of github's three PR merge options](/assets/posts/github-squash-evil.png)
 
 This post is predicated on giving a crap about the git history you and your team produce. If you don't care about good quality git history then you are wrong because [git history is an important aspect of your engineering output](https://timwise.co.uk/2016/03/18/yet-another-good-commit-messages-post/).
 

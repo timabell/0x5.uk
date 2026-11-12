@@ -40,7 +40,7 @@ development skills. My latest side-project (written in GoLang) is
 [SQL Schema Explorer](https://timabell.github.io/schema-explorer/), this has been helping me improve my marketing skills
 as well as broadening my programming skills.
 
-[![pluralsight scores](/assets/pluralsight_scores.png)](https://app.pluralsight.com/profile/timabell)
+[![pluralsight scores](/assets/posts/pluralsight_scores.png)](https://app.pluralsight.com/profile/timabell)
 
 I have a broad interest in programming and business and am always doing
 something beyond client work.
@@ -54,7 +54,7 @@ something beyond client work.
 
 ---
 
-[![stairwell](/assets/stairwell_IMG_20180108_154310.jpg)](https://www.flickr.com/photos/tim_abell/26154585057/)
+[![stairwell](/assets/posts/stairwell_IMG_20180108_154310.jpg)](https://www.flickr.com/photos/tim_abell/26154585057/)
 
 ---
 

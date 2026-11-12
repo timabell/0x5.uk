@@ -34,7 +34,7 @@ hadn't heard of that one!".
 
 An add-on to management studio that improves many pieces of of ssms and adds new capabilities.
 
-![Screenshot of CRUD generation in SSMS Tools](https://www.ssmstoolspack.com/Content/Images/Features/CRUD.png){:height="200px"}
+<img src="https://www.ssmstoolspack.com/Content/Images/Features/CRUD.png" alt="Screenshot of CRUD generation in SSMS Tools" height="200">
 
 * €30 for first computer to €5000 for unlimited enterprise use ([SSMS Toolpack
   Pricing page](https://www.ssmstoolspack.com/Licensing))
@@ -76,7 +76,7 @@ now.
 
 ### Razor Sql
 
-![Razor Sql Screenshot](https://www.razorsql.com/images/razorsql/main45.jpg){:height="200px"}
+<img src="https://www.razorsql.com/images/razorsql/main45.jpg" alt="Razor Sql Screenshot" height="200">
 
 <http://www.razorsql.com/>
 
@@ -87,7 +87,7 @@ now.
 
 ### EZ Data Browser
 
-![EZ Data Browser Screenshot](http://www.softimum-solutions.com/Content/Images/Overview.png){:height="200px"}
+<img src="http://www.softimum-solutions.com/Content/Images/Overview.png" alt="EZ Data Browser Screenshot" height="200">
 
 <http://www.softimum-solutions.com/Data-Browser/Overview.aspx>
 
@@ -103,7 +103,7 @@ Provides a configurable MSAccess-like interface to a database.
 
 Cross-database query builder/analyser. Feature rich - data/schema compare, pivot queries, diagrams etc.
 
-![SQLeo screenshot](http://sqleo.sourceforge.net/images/Pivot%20Query.PNG){:height="200px"}
+<img src="http://sqleo.sourceforge.net/images/Pivot%20Query.PNG" alt="SQLeo screenshot" height="200">
 
 * <http://sqleo.sourceforge.net/>
 
@@ -123,13 +123,13 @@ Cross-database query builder/analyser. Feature rich - data/schema compare, pivot
 
 Live online sql editor / runner
 
-![SQL Fiddle screenshot](/static/images/blog/db-tools/sqlfiddle-screenshot.png){:height="200px"}
+<img src="/assets/posts/db-tools/sqlfiddle-screenshot.png" alt="SQL Fiddle screenshot" height="200">
 
 * <http://sqlfiddle.com/>
 
 ### DbSchema
 
-![DbSchema screenshot](https://www.dbschema.com/images/screenshots/database-er-diagram.png){:height="200px"}
+<img src="https://www.dbschema.com/images/screenshots/database-er-diagram.png" alt="DbSchema screenshot" height="200">
 
 * <http://www.dbschema.com/>
 
@@ -140,7 +140,7 @@ Live online sql editor / runner
 
 ### DbPrompt
 
-![DbPrompt screenshot](http://www.dbschema.com/images/dbprompt.png){:height="200px"}
+<img src="http://www.dbschema.com/images/dbprompt.png" alt="DbPrompt screenshot" height="200">
 
 * <http://www.dbschema.com/dbprompt.html>
 

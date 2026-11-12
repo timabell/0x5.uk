@@ -50,7 +50,7 @@ The pattern was proposed at a time when "N-Tier layers" in Java were king, so wa
 
 The "hexagon" in the name refers to the visual representation, drawn something like this:
 
-![My diagram of hexagonal architecture](/images/blog/hexagonal/hexagonal.svg)
+![My diagram of hexagonal architecture](/assets/posts/hexagonal/hexagonal.svg)
 
 The visual representation of the pattern shows:
 
@@ -288,7 +288,7 @@ It's not clear when this terminology was created, and who came up with it first.
 
 A [search on google trends](https://trends.google.co.uk/trends/explore?date=all&q=hexagonal%20architecture&hl=en-GB) indicates that it's probably been in use in some form since as early as 2005/2006. I don't know what the earlier spikes are and whether they are relevant or something unrelated. Perhaps the early spikes are from the CM paper, or maybe even his own checking for the term as it's only in 100s not 10,000s.
 
-![google trends screenshot](/images/blog/hexagonal/hexagonal-trends.png)
+![google trends screenshot](/assets/posts/hexagonal/hexagonal-trends.png)
 
 The oldest reference I could find on Alistair's website is from 14th Nov 2005: <https://web.archive.org/web/20051124130845/http://alistair.cockburn.us/crystal/articles/hpaaa/hexagonalportsandadaptersarchitecture.htm>
 

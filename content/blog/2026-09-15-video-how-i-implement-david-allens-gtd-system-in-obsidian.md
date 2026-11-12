@@ -7,7 +7,7 @@ Lately I've been using Obsidian to organise my tasks. I am a fan of David Allen'
 
 I've taken the time to publish an 11 minute video showing how I'm using it in a way that is already working pretty well for me.
 
-[![youtube vid screenshot](/images/blog/obsidian-gtd-youtube-thumbnail.png)](https://www.youtube.com/watch?v=CrQIAxtMv9M)
+[![youtube vid screenshot](/assets/posts/obsidian-gtd-youtube-thumbnail.png)](https://www.youtube.com/watch?v=CrQIAxtMv9M)
 
 In the vid I show some basic use of task checkboxes, and then expand on that with queries across markdown files to pull together a persistent homepage in the style of GTD that gives me view of all my projects, actions and inbox.
 

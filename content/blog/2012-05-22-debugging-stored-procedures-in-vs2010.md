@@ -68,14 +68,14 @@ id="goog_211408036"></span>](http://msdn.microsoft.com/en-us/library/ms241735(v=
 
 # Screenshots
 
-![](/assets/debug-t-sql-attach.png)
+![](/assets/posts/debug-t-sql-attach.png)
 
-![](/assets/debug-t-sql-connect.png)
+![](/assets/posts/debug-t-sql-connect.png)
 
-![](/assets/debug-t-sql-project.png)
+![](/assets/posts/debug-t-sql-project.png)
 
-![](/assets/debug-t-sql-open.png)
+![](/assets/posts/debug-t-sql-open.png)
 
-![](/assets/debug-t-sql-step.png)
+![](/assets/posts/debug-t-sql-step.png)
 
 

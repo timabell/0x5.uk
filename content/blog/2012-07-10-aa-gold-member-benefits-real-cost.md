@@ -40,7 +40,7 @@ That means, the AA are pricing their gold benefits at **<span style="color:
 red;">£27</span>** even though they look like they are free on the renewal
 letter! Some cheek.
 
-![](/assets/aa-renewal-letter.jpg)
+![](/assets/posts/aa-renewal-letter.jpg)
 
 I queried the details of this so called benefit and established the following:
 

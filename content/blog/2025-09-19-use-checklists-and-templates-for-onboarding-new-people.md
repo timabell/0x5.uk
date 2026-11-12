@@ -56,14 +56,14 @@ You can use <kbd>tab</kbd> and <kbd>shift</kbd>+<kbd>tab</kbd> to indent/outdent
 
 Or use the menus - "Format > Bullets > Checklist"
 
-![A google doc with a checklist in it](/images/blog/checklists/google-docs-checklist.png)
+![A google doc with a checklist in it](/assets/posts/checklists/google-docs-checklist.png)
 
 
 ### Trello
 
 The trello checklist feature is pretty front and center, just create a card and there's a checklist button right there.
 
-![Adding a checklist to a trello card](/images/blog/checklists/trello-checklist.png)
+![Adding a checklist to a trello card](/assets/posts/checklists/trello-checklist.png)
 
 
 ## 3. Templates
@@ -74,9 +74,9 @@ This is the icing on the cake for slick onboarding.
 
 ### Trello
 
-![Turning a trello card into a template](/images/blog/checklists/trello-make-template.png)
+![Turning a trello card into a template](/assets/posts/checklists/trello-make-template.png)
 
-![Making a trello card from a template](/images/blog/checklists/trello-make-from-template.png)
+![Making a trello card from a template](/assets/posts/checklists/trello-make-from-template.png)
 
 ### Google docs
 
@@ -88,19 +88,19 @@ It has to be allowed in the workspace admin, but that might be the default: [Tur
 
 To submit a template - go the usual new doc page, expand out the template list and click the "Submit template" button:
 
-![Submitting a template](/images/blog/checklists/google-submit-template.png)
+![Submitting a template](/assets/posts/checklists/google-submit-template.png)
 
 Choosing a template from the list when creating a new google doc:
 
-![Default template list in new doc page](/images/blog/checklists/google-use-template.png)
+![Default template list in new doc page](/assets/posts/checklists/google-use-template.png)
 
 ... the expanded template list (click the text "Template gallery" with the up/down arrow to the right of it to get to here):
 
-![Viewing template gallery for doc creation](/images/blog/checklists/google-use-template-gallery.png)
+![Viewing template gallery for doc creation](/assets/posts/checklists/google-use-template-gallery.png)
 
 Once a document has been submitted as a template, editing the template makes it clear that that's what you are editing:
 
-![](/images/blog/checklists/google-editing-template.png)
+![](/assets/posts/checklists/google-editing-template.png)
 
 [Tips to format & customize documents > Use and create document templates - Google Workspace Learning Center](https://support.google.com/a/users/answer/13003605#create_document_templates&zippy=%2Clearn-how)
 

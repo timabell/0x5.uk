@@ -9,7 +9,7 @@ A broad-view of improving security in any organisation.
 
 Yesterday I went to a panel discussion hosted by [eSynergy](https://esynergy.co.uk/), ["Innovation at its safest: Excellence in Software Engineering through Integrated Security Best Practices"](https://esynergy.co.uk/event/security-excellence-in-engineering/)
 
-![photo of panel discussion](/images/blog/esynergy-security-event-IMG_20230613_175534.jpg)
+![photo of panel discussion](/assets/posts/esynergy-security-event-IMG_20230613_175534.jpg)
 
 The whole event was live-streamed, [watch the panel discussion recording here](https://www.youtube.com/watch?v=FH5kyUwRZ5Q)
 

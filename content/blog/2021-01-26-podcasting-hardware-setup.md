@@ -47,7 +47,7 @@ title = "Podcasting hardware setup"
 
 ## Pics
 
-![photo of standing desk](/images/blog/desk.jpg)
+![photo of standing desk](/assets/posts/desk.jpg)
 
 ## Also-ran hardware
 
