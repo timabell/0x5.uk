@@ -14,7 +14,7 @@ Initial clone:
 
     git svn clone -T trunk/openlayers/ -t tags/openlayers/ -b branches/openlayers/ http://svn.openlayers.org/ openlayers.git
 
-"http://svn.openlayers.org/tags/openlayers/docs-2.8/" is in the wrong place and gets pulled in by the git clone.
+`http://svn.openlayers.org/tags/openlayers/docs-2.8/` is in the wrong place and gets pulled in by the git clone.
 
 I should have used `--no-follow-parent` to avoid the _docs-2.8_ tag pulling in docs history but not going to re-clone now. If you are repeating this, try this instead:
 

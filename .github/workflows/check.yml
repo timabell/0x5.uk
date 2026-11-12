@@ -9,4 +9,5 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - run: ./check-links.sh
+      - uses: cachix/install-nix-action@v31
+      - run: nix shell nixpkgs/nixos-26.05#zola nixpkgs/nixos-26.05#lychee nixpkgs/nixos-26.05#markdownlint-cli2 -c ./check-links.sh

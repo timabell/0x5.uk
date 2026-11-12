@@ -225,7 +225,7 @@ I hope you found at least a few you didn't know about and that they make your
 life better in some way. Please do tell me the story of how this helped you on
 [email](tim@schemaexplorer.io) or [twitter](https://twitter.com/tim_abell).
 Did I miss something? If you wish to improve this article please ping me a PR
-with additions here: https://github.com/timabell/sdv-website or just [email
+with additions here: <https://github.com/timabell/sdv-website> or just [email
 me](tim@schemaexplorer.io).
 
 I'm not being paid to promote these, these are not affiliate links, I share
