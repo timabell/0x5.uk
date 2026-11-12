@@ -118,7 +118,7 @@ GitExtensions defaults to the program files putty, but the chocolatey one is new
 
 Change all the putty paths in git extensions to start with `C:\ProgramData\chocolatey\bin\...`
 
-![Workspace 1_193]({{ site.baseurl }}/assets/workspace-1_193.png)
+![Workspace 1_193](/assets/workspace-1_193.png)
 
 <https://git-extensions-documentation.readthedocs.io/en/latest/settings.html>
 
@@ -150,13 +150,13 @@ git st
 
 ## VS Settings
 
-![Workspace 1_194]({{ site.baseurl }}/assets/workspace-1_194.png)
+![Workspace 1_194](/assets/workspace-1_194.png)
 
 VS > Options > Environment > Import/export > set the path to the dotmatrix copy
 
 ## resharper settings
 
-![Workspace 1_195]({{ site.baseurl }}/assets/workspace-1_195.png)
+![Workspace 1_195](/assets/workspace-1_195.png)
 
 VS > Resharper > manage options > right-click the gap > add layer > open settings file > select the one from the dotmatrix
 
