@@ -2073,7 +2073,7 @@ Because I'm short of good options I will reluctantly try the DAVx app that every
 	* Login to DAVx app with email + app-password ... fail, presumably because it's a custom domain
 	* Use custom base url option - <https://www.davx5.com/tested-with/fastmail>
 		* Base url: `https://carddav.fastmail.com` + email + app-password .... success
-		* Create account: account name? (defaults to tim@timwise.co.uk) - "Use your email address as account name because Android will use the account name as ORGANIZER field for events you create. You can't have two accounts with the same name." - probably fine, left default
+		* Create account: account name? (defaults to `tim@timwise.co.uk`) - "Use your email address as account name because Android will use the account name as ORGANIZER field for events you create. You can't have two accounts with the same name." - probably fine, left default
 		* Contact group method:
 			* "Groups are separate vCards" - default, left as this
 			* "Groups are per-contact categories"

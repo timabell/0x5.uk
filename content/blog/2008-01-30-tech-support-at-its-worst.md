@@ -31,8 +31,8 @@ Here are the last two messages for your entertainment (identifiers stripped out)
 > -------- Original Message --------  
 > Subject: Re: MCP Ref: C ###### \ site broken. (########)  
 > Date: Thu, 24 Jan 2008 16:03:12 +0000  
-> From: Tim\<tim@timwise.co.uk>  
-> To: emeamcp@msdirectservices.com\<emeamcp@msdirectservices.com>
+> From: Tim `<tim@timwise.co.uk>`  
+> To: `emeamcp@msdirectservices.com <emeamcp@msdirectservices.com>`
 >
 >
 > I have a couple of questions for you:
@@ -49,8 +49,8 @@ The highly considered response:
 > -------- Original Message --------  
 > Subject: MCP Ref: C ##### \ site broken. (#######################)  
 > Date: Wed, 30 Jan 2008 15:59:21 +0100 (CET)  
-> From: emeamcp@msdirectservices.com\<emeamcp@msdirectservices.com>  
-> To: Tim\<tim@timwise.co.uk>
+> From: `emeamcp@msdirectservices.com <emeamcp@msdirectservices.com>`  
+> To: Tim `<tim@timwise.co.uk>`
 >
 >
 > Hello Tim,
@@ -67,7 +67,7 @@ The highly considered response:
 >
 > To obtain your Unique ID, please follow the steps provided:
 >
-> 1) Visit http://account.live.com
+> 1) Visit <http://account.live.com>
 >
 > 2) Sign in using your passport account.
 >
@@ -86,7 +86,7 @@ The highly considered response:
 >
 > - What version of Flash and Shockwave are you using?
 >
-> - Screenshot of the following webpage: https://learning.microsoft.com/Commerce/PurchaseHistory.aspx
+> - Screenshot of the following webpage: <https://learning.microsoft.com/Commerce/PurchaseHistory.aspx>
 >
 >
 > While some of the above information may not seem applicable to your
@@ -103,7 +103,7 @@ The highly considered response:
 > Natalia Wojtaszek
 >
 > Microsoft Regional Service Center  
-> E-Mail: emeamcp@msdirectservices.com  
+> E-Mail: `emeamcp@msdirectservices.com`  
 > Tel.: 0800-9170758 or 0800 0960137  
 > Fax: ++49 5 24 11 79 60 77
 >
@@ -114,12 +114,12 @@ The highly considered response:
 > Profile Editor on the MCP/ MCT Secure Site at ...
 >
 > NOW AVAILABLE: Virtual PC-enabled Labs in Official Microsoft Learning
-> Products https://partnering.one.microsoft.com/mct/vpc/default.aspx
+> Products <https://partnering.one.microsoft.com/mct/vpc/default.aspx>
 >
 > Microsoft highly recommends that users with Internet access update their
 > Microsoft software to protect against viruses and security
 > vulnerabilities. The easiest way to do this is to visit the following
-> website: http://www.Microsoft.com/protect
+> website: <http://www.Microsoft.com/protect>
 
 It's worth noting that this is totally consistent with the level of service I
 have experienced with Microsoft e-learning. As far as I can fathom, the

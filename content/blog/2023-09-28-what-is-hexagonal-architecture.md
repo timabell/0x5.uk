@@ -295,7 +295,7 @@ The oldest reference I could find on Alistair's website is from 14th Nov 2005: <
 The heading claims an even older date of 4th September 2005:
 
 > The Hexagonal (Ports & Adapters) Architecture  
-> Alistair Cockburn, Humans and Technology, arc@acm.org,  
+> Alistair Cockburn, Humans and Technology, `arc@acm.org`,  
 > HaT TR 2005.02, Sept. 04, 2005,  
 > ©Alistair Cockburn  
 > (v 0.9 to be updated after reader comments)  

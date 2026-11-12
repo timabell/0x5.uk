@@ -177,7 +177,7 @@ been changed. See if you can figure out which is which:
 
 It occurred to me more recently that there should be a time limit of say 3 months on the permission for a recruiter to represent you. As such my permission message currently reads:
 
-> "Tim Abell has given permission for ExampleRecruiter to pass on this CV to ExampleClient on 22 Jan 2022; auth code Q5GAYUEEH5. Any copies of my CV received without a valid gpg signature have not been authorized for distribution. Any express or implied right to represent will expire on 22 Apr 2022 Learn more: https://timwise.co.uk/recruiters "
+> "Tim Abell has given permission for ExampleRecruiter to pass on this CV to ExampleClient on 22 Jan 2022; auth code Q5GAYUEEH5. Any copies of my CV received without a valid gpg signature have not been authorized for distribution. Any express or implied right to represent will expire on 22 Apr 2022 Learn more: <https://timwise.co.uk/recruiters> "
 
 # Requests for "References"
 

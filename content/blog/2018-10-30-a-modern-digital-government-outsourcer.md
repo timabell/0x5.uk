@@ -48,7 +48,7 @@ The business will not retain any assets / intellectual property etc. would allow
 
 ## How are you different from [public digital](https://public.digital/)?
 
-Public Digital https://public.digital/ are a business founded by the founding members of GDS, and are off transforming other governments and organisations from scratch. That's a lofty goal and I wish them well! My goals are more modest, simply to provide the capacity, processes and skills pool for government deliver on the vision and habit of delivery left in the wake of these powerhouses of change. I hope I can make even a thousandth the impact they have made.
+[Public Digital](https://public.digital/) are a business founded by the founding members of GDS, and are off transforming other governments and organisations from scratch. That's a lofty goal and I wish them well! My goals are more modest, simply to provide the capacity, processes and skills pool for government deliver on the vision and habit of delivery left in the wake of these powerhouses of change. I hope I can make even a thousandth the impact they have made.
 
 ## How to get there from here
 

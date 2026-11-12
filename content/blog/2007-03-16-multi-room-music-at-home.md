@@ -21,7 +21,7 @@ I have a mate with a [slimdevice](http://www.slimdevices.com/), which is an awes
 
     sudo apt-get install slimserver  
 
-I could immediately connect with a web browser to http://localhost:9000/ and see the web interface (which is very good), and point any of my media players to http://localhost:9000/stream.mp3 and listen to the selected music. Nice. (Requires mp3 codec support to be installed. See [easyubuntu](http://easyubuntu.freecontrib.org/))  
+I could immediately connect with a web browser to `http://localhost:9000/` and see the web interface (which is very good), and point any of my media players to `http://localhost:9000/stream.mp3` and listen to the selected music. Nice. (Requires mp3 codec support to be installed. See [easyubuntu](http://easyubuntu.freecontrib.org/))  
 
 Two things tripped me up connecting remotely. I had already spotted "Server Settings / Security / Allowed IP Addresses" and added my local subnet, but wasn't able to connect from another pc.  
 netstat showed that the server had only bound to the local ip address:  
