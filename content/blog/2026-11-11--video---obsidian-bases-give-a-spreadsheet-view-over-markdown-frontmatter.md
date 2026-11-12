@@ -35,7 +35,7 @@ some notes on the book
 
 core concept of zettlekasten - raw atomic ideas with references, plus layers of digested thinking in ever increasing length, resulting in "writing" a long paper or article being more a case of stitching together all the raw material writing from the lower layers. useful book
 ```
-https://github.com/timabell/obsidian-demo-vault/blob/3126470f031f36ba44c2a75dc081ef59a20f0a7c/Books/How%20to%20take%20smart%20notes.md?plain=1
+<https://github.com/timabell/obsidian-demo-vault/blob/3126470f031f36ba44c2a75dc081ef59a20f0a7c/Books/How%20to%20take%20smart%20notes.md?plain=1>
 
 ## A book frontmatter template
 
@@ -51,7 +51,7 @@ audible:
 author:
 ---
 ```
-https://github.com/timabell/obsidian-demo-vault/blob/3126470f031f36ba44c2a75dc081ef59a20f0a7c/templates/book.md?plain=1
+<https://github.com/timabell/obsidian-demo-vault/blob/3126470f031f36ba44c2a75dc081ef59a20f0a7c/templates/book.md?plain=1>
 
 
 ## And the .base file
@@ -73,7 +73,7 @@ views:
     columnSize:
       note.author: 193
 ```
-https://github.com/timabell/obsidian-demo-vault/blob/3126470f031f36ba44c2a75dc081ef59a20f0a7c/book%20list.base
+<https://github.com/timabell/obsidian-demo-vault/blob/3126470f031f36ba44c2a75dc081ef59a20f0a7c/book%20list.base>
 
 ## Discuss on reddit
 
