@@ -15,7 +15,7 @@ This weekend, I finally got the tv-out working under linux (Ubuntu 7.10 aka
 gusty gibbon) on my laptop. Here's what was involved, including some of the
 (time consuming) red herrings involved in getting this set up.
 
-[![](/assets/inspiron-tv-out.jpg)](http://www.flickr.com/photos/tim_abell/2096850378/)
+[![](/assets/posts/inspiron-tv-out.jpg)](http://www.flickr.com/photos/tim_abell/2096850378/)
 
 I've included the full `xorg.conf` files for normal display and tv output at
 the end of this post.

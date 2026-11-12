@@ -21,7 +21,7 @@ actually attempting to download the thing I have just paid for that I discover
 to my utter disgust that _all_ the download links are for some kind of evil drm
 type program (I presume here, but there sure as hell was no mp3 in sight).
 
-![audible.com screenshot claiming mp3 support](/assets/audible-screenshot-2008.jpg)
+![audible.com screenshot claiming mp3 support](/assets/posts/audible-screenshot-2008.jpg)
 
 As you can see from the screenshot above, they clearly imply an mp3 download. I
 haven't seen such a clear use of weasel sales words for some time.
@@ -34,7 +34,7 @@ Thank fsm for people like the FSF. Their logo really sums up how I feel about
 being treated in this way.
 
 
-[![](/assets/dbd-logo.png)](http://www.defectivebydesign.org/)
+[![](/assets/posts/dbd-logo.png)](http://www.defectivebydesign.org/)
 
 ## Update: credit where due. 24th July 2008
 

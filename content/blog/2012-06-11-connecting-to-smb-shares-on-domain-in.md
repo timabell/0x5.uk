@@ -16,6 +16,6 @@ Majorly confusing.
 
 Time lost: 3 hours.
 
-![](/assets/smb-domain.png)
+![](/assets/posts/smb-domain.png)
 
 Sigh

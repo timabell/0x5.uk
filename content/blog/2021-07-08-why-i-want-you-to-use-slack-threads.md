@@ -11,7 +11,7 @@ Don't worry, we're not angry with you, we just want to help. We also know that t
 
 This post is not intended to shame or berate you, just to share information on how we can all make slack a nicer and less distracting thing to use for everyone.
 
-![two messages in a slack channel](/images/blog/slack/slack-two-channel-messages.png)
+![two messages in a slack channel](/assets/posts/slack/slack-two-channel-messages.png)
 
 The above screenshot is an example of two consecutive messages in slack, this happens if you send the message in two parts. (Send one message, think of something extra, send another message.)
 
@@ -29,11 +29,11 @@ Slack allows you to carefully manage what notifications you receive, but for a c
 
 If you have a channel that you want (or need) to keep up to date with in a timely manner then when someone sends a new channel message you will have intrusive notifications and as shown below an "unread channel" in bold-and-white sat glaring at you waiting to be read:
 
-![unread slack channel](/images/blog/slack/slack-unread-channel.png)
+![unread slack channel](/assets/posts/slack/slack-unread-channel.png)
 
 If you use the convenient "All unread" feature then that will also sit glaring at you as below with an eye-catching "1 new message" button until you go and look:
 
-![unread messages](/images/blog/slack/slack-unread.png)
+![unread messages](/assets/posts/slack/slack-unread.png)
 
 The problem with multiple related channel messages in this case is that if someone gets your first message, decides that it's not a conversation relevant to them and then goes back to trying to concentrate your second message will set off all their notifications once again and send them back to having unread messages to worry about.
 
@@ -45,7 +45,7 @@ As someone who is trying to avoid slack-overwhelm the ability to follow and unfo
 
 To follow/unfollow a thread, hover over the top message in the thread, click the dots, and click "turn off notifications for replied" as shown below:
 
-![unfollowing a thread](/images/blog/slack/unfollow-thread.png)
+![unfollowing a thread](/assets/posts/slack/unfollow-thread.png)
 
 If people are not correctly using threads to group themes of discussion then this feature becomes mostly useless.
 
@@ -55,11 +55,11 @@ As an aside this applies just as much to failure to start a new thread when the 
 
 Sometimes you will join a channel and then mute it (right-click, mute) because you want to be able to keep up to date on your own schedule, say daily or weekly.
 
-![muting a channel](/images/blog/slack/mute-channel.png)
+![muting a channel](/assets/posts/slack/mute-channel.png)
 
 When people in the channel have conversations in the form of channel messages you can easily end up having to read 1000 messages to just know what's been going on for a day and catch up on anything important.
 
-![new messages bar](/images/blog/slack/new-messages.png)
+![new messages bar](/assets/posts/slack/new-messages.png)
 
 If instead the people in the channel are disciplined in using threads then it can easily be down to 20 messages with some very long threads that you can dive into if you feel the need.
 
@@ -71,11 +71,11 @@ By using the following methods you can help everyone else in your slack channel 
 
 Start a thread on your own message and add more messages in there:
 
-![screenshot of starting a thread in slack](/images/blog/slack/start-slack-thread.png)
+![screenshot of starting a thread in slack](/assets/posts/slack/start-slack-thread.png)
 
 This allows you to add further context etc for those interested without writing a massive message in one go directly in the channel or creating a string of independent channel messages.
 
-![replying to your own thread](/images/blog/slack/reply-to-own-thread.png)
+![replying to your own thread](/assets/posts/slack/reply-to-own-thread.png)
 
 See also <https://slack.com/intl/en-gb/help/articles/115000769927-Use-threads-to-organise-discussions->
 
@@ -85,9 +85,9 @@ Did you just forget to mention something? You can edit the message you've alread
 
 Hover over the message and then press the "more actions" dots:
 
-![more actions dots](/images/blog/slack/slack-more-actions.png)
+![more actions dots](/assets/posts/slack/slack-more-actions.png)
 
-![edit message menu](/images/blog/slack/slack-edit-message.png)
+![edit message menu](/assets/posts/slack/slack-edit-message.png)
 
 See also <https://slack.com/intl/en-gb/help/articles/202395258-Edit-or-delete-messages>
 
@@ -95,11 +95,11 @@ See also <https://slack.com/intl/en-gb/help/articles/202395258-Edit-or-delete-me
 
 If you've already posted more than one channel message and then realise your mistake, you can delete the extra messages before converting to a thread or edit, leaving the channel nice and tidy for anyone who shows up later to read.
 
-![delete message](/images/blog/slack/delete-message.png)
+![delete message](/assets/posts/slack/delete-message.png)
 
 This is particularly important to avoid ending up with multiple threads on different channel messages (on the same topic) as other people reply to different bits of your message resulting in confusion and a disjointed conversation.
 
-![multiple threads](/images/blog/slack/multiple-threads.png)
+![multiple threads](/assets/posts/slack/multiple-threads.png)
 
 See also <https://slack.com/intl/en-gb/help/articles/202395258-Edit-or-delete-messages>
 
@@ -107,11 +107,11 @@ See also <https://slack.com/intl/en-gb/help/articles/202395258-Edit-or-delete-me
 
 If your team knows to do this but forgets sometimes then add `:start_a_thread:` as an emoji (under "customize workspace) to easily remind people when they forget.
 
-![reply in thread animation gif](/images/blog/slack/start_a_thread.gif)
+![reply in thread animation gif](/assets/posts/slack/start_a_thread.gif)
 
 (Thread gif image source: <https://slackmojis.com/>)
 
-![customize slack](/images/blog/slack/customize.png)
+![customize slack](/assets/posts/slack/customize.png)
 
 ## Summary
 

@@ -34,11 +34,11 @@ This was already enabled for me, but I'm assured this is a required step
 5. Click "Device Settings"
 6. Check that "Enable Camera & Photo Gallery" toggle switch is enabled (i.e. yellow)
 
-![](/images/blog/kindle-fire-photos/pull-down.jpg)
+![](/assets/posts/kindle-fire-photos/pull-down.jpg)
 
-![](/images/blog/kindle-fire-photos/kids-settings.jpg)
+![](/assets/posts/kindle-fire-photos/kids-settings.jpg)
 
-![](/images/blog/kindle-fire-photos/enable-camera.jpg)
+![](/assets/posts/kindle-fire-photos/enable-camera.jpg)
 
 (I'm not convinced this stacks up logically, but it was already enabled and working on mine, so whatever. Documented here as something to check.)
 
@@ -50,7 +50,7 @@ This was already enabled for me, but I'm assured this is a required step
 
 Tip: write adult/kid on two pieces of paper, take a photo of each from the respective profile, that way you can see at a glance which photos are coming from which profile.
 
-![](/images/blog/kindle-fire-photos/profile-finder-photos.jpg)
+![](/assets/posts/kindle-fire-photos/profile-finder-photos.jpg)
 
 ## The hidden upload
 
@@ -78,21 +78,21 @@ You can actually use the website of any of the file storage services for this - 
 12. Finally you should see the photos uploading one at a time with a progress bar in the amazon photos website
 13. 🚨 Repeat the above for Videos!! They are not in the "images" section. 🚨 - I very nearly lost all the kid's videos because of this.
 
-![](/images/blog/kindle-fire-photos/silk-web-upload-button.jpg)
+![](/assets/posts/kindle-fire-photos/silk-web-upload-button.jpg)
 
-![](/images/blog/kindle-fire-photos/silk-web-upload-options.jpg)
+![](/assets/posts/kindle-fire-photos/silk-web-upload-options.jpg)
 
-![](/images/blog/kindle-fire-photos/silk-web-upload-gallery-hamburger.jpg)
+![](/assets/posts/kindle-fire-photos/silk-web-upload-gallery-hamburger.jpg)
 
-![](/images/blog/kindle-fire-photos/silk-web-upload-gallery-images-videos.jpg)
+![](/assets/posts/kindle-fire-photos/silk-web-upload-gallery-images-videos.jpg)
 
-![](/images/blog/kindle-fire-photos/silk-web-upload-select-one.jpg)
+![](/assets/posts/kindle-fire-photos/silk-web-upload-select-one.jpg)
 
-![](/images/blog/kindle-fire-photos/silk-web-upload-select-all.jpg)
+![](/assets/posts/kindle-fire-photos/silk-web-upload-select-all.jpg)
 
-![](/images/blog/kindle-fire-photos/silk-web-upload-open.jpg)
+![](/assets/posts/kindle-fire-photos/silk-web-upload-open.jpg)
 
-![](/images/blog/kindle-fire-photos/silk-web-uploading.jpg)
+![](/assets/posts/kindle-fire-photos/silk-web-uploading.jpg)
 
 Note: the very tempting "gallery" option does *not* seem to manage to select and upload photos, so that's no use. Stick to the top two images/videos option in the hamburger menu.
 
@@ -110,9 +110,9 @@ To exfiltrate your kids photos from the amazon walled garden:
 
 ### 2. Download them
 
-![](/images/blog/kindle-fire-photos/web-photos.png)
+![](/assets/posts/kindle-fire-photos/web-photos.png)
 
-![](/images/blog/kindle-fire-photos/web-download.png)
+![](/assets/posts/kindle-fire-photos/web-download.png)
 
 ## Footnotes
 

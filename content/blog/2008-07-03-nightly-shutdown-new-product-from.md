@@ -22,7 +22,7 @@ making the sys admin's life easier. There's a 10 PC free trial available, so
 check it out at the [download
 page](http://www.nightlyshutdown.com/DownloadRequest.aspx).
 
-[![Nightly Shutdown poster](/assets/nightly-shutdown.png)](http://www.nightlyshutdown.com/)
+[![Nightly Shutdown poster](/assets/posts/nightly-shutdown.png)](http://www.nightlyshutdown.com/)
 
  Without even looking I know this will be a good
 product and fantastically well supported. Best of luck to all at Proven Works,

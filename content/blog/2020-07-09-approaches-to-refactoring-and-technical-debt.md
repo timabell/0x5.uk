@@ -18,7 +18,7 @@ This article is a collection of research, links, thoughts and ideas that I've ca
 
 ⏩ If you want the executive summary, head over to my [Leaders guide to technical debt - aka "why can't we ship anything!?"](https://charmconsulting.co.uk/2020/11/27/leaders-guide-to-technical-debt/) 🧐. For the technical details read on below.
 
-![word cloud from article](/assets/debt-cloud.png)
+![word cloud from article](/assets/posts/debt-cloud.png)
 
 
 ## Must-read articles

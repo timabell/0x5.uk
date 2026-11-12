@@ -16,7 +16,7 @@ Just for convenience, paste this in a git bash window:
 
     while true; do date; echo "Polling svn server..."; git svn fetch;echo "Sleeping."; sleep 300; done
 
-![](/assets/poll-svn_catch.png)
+![](/assets/posts/poll-svn_catch.png)
 
 Then just refresh your favourite git log viewer.
 

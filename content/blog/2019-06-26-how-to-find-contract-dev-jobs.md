@@ -36,7 +36,7 @@ Tactics:
 * Run a not particularly tight search (e.g. asp.net as a keyword with 50 mile radius, ordered by distance)
 * Blindly send your cv to all of them without worrying too much or bothering to address the post.
 
-![searching jobserve](/images/blog/jobserve-search.png)
+![searching jobserve](/assets/posts/jobserve-search.png)
 
 This might sound lazy, but in my experience I almost never hear back about the
 advertised role, but what this does do is let recruiters that specialize in

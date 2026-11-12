@@ -26,7 +26,7 @@ This solution...
 
 Set it up as follows: Set up a new trello board, name it "shared backlog" or similar, create a list (column) for every team member with their name (and optionally role) as the list title.
 
-![screenshot of shared backlog board in trello](/assets/shared-backlog.png)
+![screenshot of shared backlog board in trello](/assets/posts/shared-backlog.png)
 
 Now when anyone thinks of anything that the team should possibly do, they add a card **to their own list** on the shared backlog trello board. It is now clear who owns the idea and is responsible for campaigning to get it prioritized.
 
@@ -42,7 +42,7 @@ Here's an example board <https://trello.com/b/cxRXPgcb/personal-backlogs-example
 
 If you're using Jira you can achieve the same effect by abusing the "sprint" feature. Just create some extra sprints with the "Create spring" button and instead of calling them "sprint 25" etc, call them "Tech backlog", "Design Backlog", "Customer Service Backlog" etc. Then you can nicely group each role's needs and they can manage their own priorities within their own backlog. The actual "backlog" in Jira can now be just for true user stories / product features.
 
-![screenshot of using sprints as personal backlogs in Jira](/assets/jira-personal-backlogs.png)
+![screenshot of using sprints as personal backlogs in Jira](/assets/posts/jira-personal-backlogs.png)
 
 ### Useful?
 

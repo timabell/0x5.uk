@@ -18,11 +18,11 @@ The original interaction with GPT was it writing the question and me using its v
 
 ### My first logseq note, imported into Obsidian (Jan 2024)
 
-![screenshot: note from Jan 2024 when I first installed logseq](/images/blog/logseq-obsidian/shutter_20265-26_08.png)
+![screenshot: note from Jan 2024 when I first installed logseq](/assets/posts/logseq-obsidian/shutter_20265-26_08.png)
 
 ### My first note in Obsidian (May 2026)
 
-![screenshot: note from May 2026 when I converted all notes from logseq to obsidian](/images/blog/logseq-obsidian/shutter_20265-26_09.png)
+![screenshot: note from May 2026 when I converted all notes from logseq to obsidian](/assets/posts/logseq-obsidian/shutter_20265-26_09.png)
 
 
 ## Q: When did you first think you might leave Logseq?

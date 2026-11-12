@@ -14,7 +14,7 @@ tags = ["howto", "sql server"]
 Programs > .. R2 > SQL Server Configuration Manager
 Network config > Protocols > tcp/ip > enable & properties
 
-![](/assets/sql-express-tcp-ip.png)
+![](/assets/posts/sql-express-tcp-ip.png)
 
 Clear the dynamic port under IPAll
 Set the TCP Port to 1433 (which is the standard sql server port).

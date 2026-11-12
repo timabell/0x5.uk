@@ -11,4 +11,4 @@ In the name of getting the useful things I create in front of more people who co
 
 Take a look here:
 
-[!["Managing Multi-Repo Git Workflows with Gitopolis" on YouTube](/images/blog/gitopolis-youtube-thumbnail.png)](https://www.youtube.com/watch?v=uWX6cbDJoBQ).
+[!["Managing Multi-Repo Git Workflows with Gitopolis" on YouTube](/assets/posts/gitopolis-youtube-thumbnail.png)](https://www.youtube.com/watch?v=uWX6cbDJoBQ).

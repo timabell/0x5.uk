@@ -13,7 +13,7 @@ One of things that makes me scratch my head more than I would like, is when an i
 
 One of the curious properties of git (and I guess computer code too) is that the more experienced developers create output which is *easier* to understand, and the less experienced developers create output which is *harder* to follow. With git logs, it goes to the point where an inexperienced developer using git can do some things that will completely stump even highly experienced developers for a good amount of time before understanding what they are looking at, and perhaps how it got into that state (I quite often never find out what they did that resulted in their unique flavour of mess).
 
-![AI generated image of an intrepid developer with a machete hacking through a jungle of git commit logs](/assets/dall-e-git-log-exploration.webp)
+![AI generated image of an intrepid developer with a machete hacking through a jungle of git commit logs](/assets/posts/dall-e-git-log-exploration.webp)
 
 ## "First parent"
 

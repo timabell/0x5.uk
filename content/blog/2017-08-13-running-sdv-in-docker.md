@@ -12,7 +12,7 @@ permalink = "/2017/08/13/running-sdv-in-docker/"
 +++
 Just bought a shared server with [bytemark](https://www.bytemark.co.uk/). (£10/month), Installed vanilla ubuntu 16.04LTS server using the control panel (virtually one-click).
 
-![Servers - Bytemark Manager - Mozilla Firefox_143]({{ site.baseurl }}/assets/servers-bytemark-manager-mozilla-firefox_143.png)
+![Servers - Bytemark Manager - Mozilla Firefox_143](/assets/posts/servers-bytemark-manager-mozilla-firefox_143.png)
 
 (Love the cancel button text!)
 
@@ -51,7 +51,7 @@ sdv_1 | 2017/08/13 19:14:44 Starting server on http://0.0.0.0:8080/ - Press Ctrl
 
 And that's it, listening on the internet!
 
-![Sql Data Viewer - Mozilla Firefox_144]({{ site.baseurl }}/assets/sql-data-viewer-mozilla-firefox_144.png)
+![Sql Data Viewer - Mozilla Firefox_144](/assets/posts/sql-data-viewer-mozilla-firefox_144.png)
 
 Any changes I make will be to the [docker and compose files](https://hub.docker.com/r/timabell/sdv/), resulting in trivially easy to repeat deployments, making the server completely throwaway. Huzzah! Docker is awesome.
 
