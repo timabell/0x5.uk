@@ -7,7 +7,7 @@ I have moved to Obsidian as you may have seen in my previous post, and having se
 
 You can see the demo on youtube:
 
-[![youtube thumbnail](/images/blog/daily-obsidian-template-video-thumbnail.png)](https://www.youtube.com/watch?v=ejUVvMrZhE8)
+[![youtube thumbnail](/assets/posts/daily-obsidian-template-video-thumbnail.png)](https://www.youtube.com/watch?v=ejUVvMrZhE8)
 
 It's as simple as this but is working remarkably well even in this basic form:
 

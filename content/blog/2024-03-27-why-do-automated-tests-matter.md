@@ -15,7 +15,7 @@ I'll share with you here the keystone ideas that make it all sit together proper
 
 👉 🎙️ This topic is [also covered on my podcast](https://pod.timwise.co.uk/25) 🎙️
 
-![Photo: the shard through a brick archway](/images/blog/archway_IMG_20231109_135436.jpg)
+![Photo: the shard through a brick archway](/assets/posts/archway_IMG_20231109_135436.jpg)
 
 Yes I'm aware this particular archway in the photo doesn't actually have a keystone, but I took the pic and I rather like it so it's staying.
 

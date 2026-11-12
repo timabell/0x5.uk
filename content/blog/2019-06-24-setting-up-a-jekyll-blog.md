@@ -115,13 +115,13 @@ go from cold as I'm sure that's more interesting to you.
    theme](https://github.com/amitmerchant1990/reverie) that I used with minimal
    customisation.
 1. Go into the settings for your repo, ![enabling github pages by choosing a
-   branch](/images/blog/jekyll-setup/github-repo-settings-tab.png)
+   branch](/assets/posts/jekyll-setup/github-repo-settings-tab.png)
 1. turn on github pages, ![github settings
-   tab](/images/blog/jekyll-setup/github-pages-setup.png)
+   tab](/assets/posts/jekyll-setup/github-pages-setup.png)
 1. configure your domain name, ![github settings
-   tab](/images/blog/jekyll-setup/github-custom-domain.png)
+   tab](/assets/posts/jekyll-setup/github-custom-domain.png)
 1. enable https ![github settings
-   tab](/images/blog/jekyll-setup/github-https.png)
+   tab](/assets/posts/jekyll-setup/github-https.png)
 1. Go to GoDaddy and [set up the DNS to point to the github
    servers](https://help.github.com/en/articles/using-a-custom-domain-with-github-pages)
 
@@ -140,11 +140,11 @@ go from cold as I'm sure that's more interesting to you.
 If you aren't up to the full `git` setup, you can edit your blog directly in github's web interface.
 
 1. Creating a new post
-   ![creating a post](/images/blog/jekyll-setup/editing-new-file.png)
+   ![creating a post](/assets/posts/jekyll-setup/editing-new-file.png)
 1. Editing a post
-   ![editing a post](/images/blog/jekyll-setup/editing-edit.png)
+   ![editing a post](/assets/posts/jekyll-setup/editing-edit.png)
 1. Editing the text of a post
-   ![editing the text of a post](/images/blog/jekyll-setup/editing-editing.png)
+   ![editing the text of a post](/assets/posts/jekyll-setup/editing-editing.png)
 
 # Advanced ninja coder blogging
 

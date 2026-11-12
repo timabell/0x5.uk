@@ -33,7 +33,7 @@ blue-screen (BSOD). I discovered that it was possible to get past this by
 removing the SATA controller the machine's settings, and instead adding the
 disk under the IDE controller. After that the machine booted successfully.
 
-![](/assets/sata-controller.png)
+![](/assets/posts/sata-controller.png)
 
 * * *
 
@@ -41,6 +41,6 @@ Capturing the BSOD, basically press F8 after a lot rebooting, and select
 "disable automatic restart on system failure" (ref:
 [http://www.webtlk.com/2009/07/02/how-to-stop-windows-7-reboot-loop/](http://www.webtlk.com/2009/07/02/how-to-stop-windows-7-reboot-loop/))
 
-![](/assets/bsod-reboot-prevention-F8.png)
+![](/assets/posts/bsod-reboot-prevention-F8.png)
 
-![](/assets/bsod.png)
+![](/assets/posts/bsod.png)

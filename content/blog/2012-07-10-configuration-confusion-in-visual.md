@@ -16,7 +16,7 @@ It is not immediately obvious, but visual studio stores in it's sln file a set
 of project configuration selections for every combination of solution
 configuration and solution platform.
 
-![](/assets/visual-studio-platform-selection.PNG)
+![](/assets/posts/visual-studio-platform-selection.PNG)
 
 The gotcha is that by default Visual Studio (all versions 2008-2012 as far as I
 know) only show one half of that combination in the standard toolbar, so you
@@ -27,9 +27,9 @@ changed.
 I recommend you add Platform to your toolbar so that you can _always_ see what
 you are about to build.
 
-![](/assets/visual-studio-platform-toolbar.PNG)
+![](/assets/posts/visual-studio-platform-toolbar.PNG)
 
-![](/assets/visual-studio-platform-command.PNG)
+![](/assets/posts/visual-studio-platform-command.PNG)
 
 And if possible, remove any unused platform configurations from your solution
 entirely.

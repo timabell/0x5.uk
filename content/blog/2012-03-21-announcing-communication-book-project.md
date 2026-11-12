@@ -11,7 +11,7 @@ blogger_orig_url = "https://timwise.blogspot.com/2012/03/announcing-communicatio
 tags = ["communication-book", "oss", "java"]
 +++
 
-![](/assets/screenshot_v0.3-r34.png)
+![](/assets/posts/screenshot_v0.3-r34.png)
 
 I've been working on a piece of open source software to assist people who have
 [aphasia](https://en.wikipedia.org/wiki/Aphasia) (speech difficulties), and it

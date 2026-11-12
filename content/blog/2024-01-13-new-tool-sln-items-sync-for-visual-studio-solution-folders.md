@@ -20,7 +20,7 @@ All I turned up was a lot of people asking the same thing and some dead tooling 
 (Solution folders aren't to be confused with adding files to a *project* which used to be an equal nightmare before Microsoft saw sense and just included *what's on the filesystem*. There are many old stackoverflow questions on that too from frustrated devs around the world.)
 
 
-![screenshot of example solution items folder in Rider](/images/blog/sln-items.png)
+![screenshot of example solution items folder in Rider](/assets/posts/sln-items.png)
 
 So with the programmer war cry of "how hard can it be, I'll knock this out in a couple of evenings..." I set about on what turned out to be a significant exercise in yak-shaving in order to sort it out myself once and for all.
 

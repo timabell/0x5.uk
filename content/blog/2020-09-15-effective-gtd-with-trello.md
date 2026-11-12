@@ -48,7 +48,7 @@ If you are looking at GTD for the same reasons as I did then beware ["the effici
 
 Here's my actual GTD board (minus details) to give you an idea of what it looks like. You might be able to see I have far too much in Inbox and Action items as is often the case, but it doesn't take too long to clear down when I actually focus on it.
 
-![Blurry screenshot of my actual GTD board](/assets/gtd-real-trello.png)
+![Blurry screenshot of my actual GTD board](/assets/posts/gtd-real-trello.png)
 
 First you need to get everything you might have to do into your GTD board. Don't think too hard at this point, just ping everything to Trello and deal with it efficiently at your next GTD moment:
 
@@ -57,7 +57,7 @@ First you need to get everything you might have to do into your GTD board. Don't
 #### Emails
 Forward emails to your GTD board "send-to-board" email address to get to inbox zero quickly. Make sure your GTD board email address is in your address book so you can just type "gtd" and hit send.
 
-![Screenshot of forwarding an email to the GTD board](/assets/gtd-from-email.png)
+![Screenshot of forwarding an email to the GTD board](/assets/posts/gtd-from-email.png)
 
 Using GTD instead of your unread email as a todo list makes inbox-zero possible again.
 
@@ -68,12 +68,12 @@ Top tip: When sending an email that you'll need to follow up on, put the GTD ema
 #### Web based tasks
 Install [AddToAny](https://www.addtoany.com/) to send any webpage from Firefox to your GTD inbox.
 
-![Screenshot of add-to-any in action](/assets/gtd-addtoany.png)
+![Screenshot of add-to-any in action](/assets/posts/gtd-addtoany.png)
 
 #### Documents, physical objects, pictures, screenshots
 Install the Trello app and use the native share buttons to share pictures, web pages etc to your GTD inbox. Use this to take photos of paper documents and physical things you need to deal with and send the picture straight to your GTD inbox on Trello.
 
-![Screenshot: sharing picture to trello in android](/assets/gtd-android-share.jpg)
+![Screenshot: sharing picture to trello in android](/assets/posts/gtd-android-share.jpg)
 
 #### Verbally Received Tasks
 
@@ -180,9 +180,9 @@ You have to make sure you're investing enough time on average for the piles not 
 
 When my list got to the several hundred range I needed to know for my own sanity whether I was winning or losing week by week, it's hard to remember whether the inbox was on 197 or 185 the week before. Being a bit of a systems person not afraid of a spreadsheet, I enabled the [firefox trello card counter addon](https://addons.mozilla.org/en-US/firefox/addon/firefox-trello-card-counter/), manually copied them into a spreadsheet, added a graph, and now I can see if I need to spend more or less time getting on top of it.
 
-![firefox trello card counter in action](/images/blog/gtd/card-count-addon.png)
+![firefox trello card counter in action](/assets/posts/gtd/card-count-addon.png)
 
-![screenshot of card count spreadsheet](/images/blog/gtd/card-count-graph.png)
+![screenshot of card count spreadsheet](/assets/posts/gtd/card-count-graph.png)
 
 I've shared a [google sheets copy of the card count graph spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vTJ--K37eyRik0kpBbwaGlH5p5nxfYliJDuRxkZmitntMBAnp4Cl0fW71drbvZxqQ6ApZB3LcL9XX8q/pubhtml) which you can use yourself.
 
@@ -235,11 +235,11 @@ The template contains:
 
 I reckon using this ready-made template will save you at least an half-an-hour of your time just fiddling with Trello to get going. It'd also be a nice way of saying thanks if you found this article useful.
 
-![Screenshot of my template](/assets/gtd-trello-template.png)
+![Screenshot of my template](/assets/posts/gtd-trello-template.png)
 
 
 ## Beyond GTD
 
 I still struggle with what to do *today* even with GTD in place. I've found the (paid) [Sunsama](https://sunsama.com/) app to be a game changer, especially as I transition to full business owner from sole contractor. You could do it without, but having an app that continuously reminds you what you planned to do today & this week makes sticking to priorities so much easier.
 
-![Sunsama app asking "what do you want to get done today?"](/assets/gtd-sunsama.png)
+![Sunsama app asking "what do you want to get done today?"](/assets/posts/gtd-sunsama.png)

@@ -14,4 +14,4 @@ I'm considering creating a 30 minute video to help teams transition from Team Fo
 
 Please [register your interest](http://eepurl.com/c9imrH). If I get enough interest in this then I'll do the work to put it together and launch it.
 
-![tfs-to-git-terminal](/assets/tfs-to-git-terminal.png)
+![tfs-to-git-terminal](/assets/posts/tfs-to-git-terminal.png)

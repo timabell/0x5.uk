@@ -169,8 +169,8 @@ I've uploaded a couple of files for you to try out verifying, one with the
 original message, and one with a forged message where the client's name has
 been changed. See if you can figure out which is which:
 
-* [authorization1](/assets/authorization-1.txt.asc)
-* [authorization2](/assets/authorization-2.txt.asc)
+* [authorization1](/assets/posts/authorization-1.txt.asc)
+* [authorization2](/assets/posts/authorization-2.txt.asc)
 
 
 ### Limiting the period of right to represent

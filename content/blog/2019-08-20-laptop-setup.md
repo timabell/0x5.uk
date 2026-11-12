@@ -99,7 +99,7 @@ echo fs.inotify.max_user_watches=524288 | sudo tee -a /etc/sysctl.conf && sudo s
 	* Add syncthing to home zone
 	* Runtime to permanent
 
-![firewall config screenshot](/assets/firewall-config-syncthing.png)
+![firewall config screenshot](/assets/posts/firewall-config-syncthing.png)
 
 * Remove old install machine name from syncthing network
 * Tell new and old devices about each other in syncthing
@@ -128,11 +128,11 @@ ln -s ~/Documents/config/.gitconfig.local
 	* Set mouse and trackpad speed/acceleration to max
 	* Enable horizontal touchpad scroll
 
-![Screenshot of mint touchpad settings with customisations](/assets/mouse-and-touchpad.png)
+![Screenshot of mint touchpad settings with customisations](/assets/posts/mouse-and-touchpad.png)
 
 * Setup terminal colours and turn off transparency
 
-![Screenshot mint terminal colours set to solarized](/assets/terminal-colours.png)
+![Screenshot mint terminal colours set to solarized](/assets/posts/terminal-colours.png)
 
 * Turn off all the system sounds and turn the volume down to 0%.
 * Customize time in task bar to `  📅 %a %e %b %Y   🕓 %H:%M:%S `.
